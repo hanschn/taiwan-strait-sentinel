@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "sentinel-dev",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": [
+        "-c",
+        "cd /Users/hanschen/Desktop/AI_Agent/taiwan-strait-sentinel && unset VIRTUAL_ENV PYTHONHOME && exec npm run dev -- --port 3001"
+      ],
+      "port": 3001
+    }
+  ]
+}
