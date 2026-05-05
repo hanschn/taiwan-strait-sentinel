@@ -1,4 +1,5 @@
 import { getPolymarketSnapshot } from "@/lib/polymarket";
+import { getMndSnapshot } from "@/lib/mnd";
 import StarfieldBackground from "@/components/StarfieldBackground";
 import Nav from "@/components/Nav";
 import Hero from "@/components/Hero";
@@ -13,7 +14,10 @@ import Footer from "@/components/Footer";
 export const revalidate = 60;
 
 export default async function Home() {
-  const snapshot = await getPolymarketSnapshot();
+  const [snapshot, mnd] = await Promise.all([
+    getPolymarketSnapshot(),
+    getMndSnapshot(),
+  ]);
 
   return (
     <main className="relative">
@@ -30,7 +34,7 @@ export default async function Home() {
 
         <div className="mx-auto grid max-w-6xl gap-6 lg:grid-cols-2">
           <MarketCard snapshot={snapshot} />
-          <MilitaryCard />
+          <MilitaryCard mnd={mnd} />
           <LegislatorCard />
           <MilitaryMapCard />
           <EconomicCard />
