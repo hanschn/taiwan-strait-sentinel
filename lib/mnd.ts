@@ -5,8 +5,16 @@
 //   "偵獲共機 X 架次（進入...）、共艦 Y 艘及公務船 Z 艘，持續在臺海周邊活動"
 // Date is ROC year (民國), e.g. 115/05/03 = 2026/05/03.
 
-export type MndSnapshot = {
+export type MndDailyEntry = {
   date: string; // ISO YYYY-MM-DD (period end)
+  aircraft24h: number;
+  vessels24h: number;
+  officialShips24h: number;
+  detailUrl: string;
+};
+
+export type MndSnapshot = {
+  date: string;
   aircraft24h: number;
   vessels24h: number;
   officialShips24h: number;
@@ -14,25 +22,39 @@ export type MndSnapshot = {
   fetchedAt: string;
   sourceUrl: string;
   detailUrl: string | null;
+  history: MndDailyEntry[]; // ascending by date, includes latest
 };
 
 const LIST_URL = "https://www.mnd.gov.tw/news/plaactlist";
 const UA =
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36";
 
+const FALLBACK_HISTORY: MndDailyEntry[] = [
+  { date: "2026-04-27", aircraft24h: 9, vessels24h: 6, officialShips24h: 1, detailUrl: "" },
+  { date: "2026-04-28", aircraft24h: 14, vessels24h: 8, officialShips24h: 2, detailUrl: "" },
+  { date: "2026-04-29", aircraft24h: 11, vessels24h: 7, officialShips24h: 3, detailUrl: "" },
+  { date: "2026-04-30", aircraft24h: 17, vessels24h: 9, officialShips24h: 2, detailUrl: "" },
+  { date: "2026-05-01", aircraft24h: 8, vessels24h: 6, officialShips24h: 4, detailUrl: "" },
+  { date: "2026-05-02", aircraft24h: 12, vessels24h: 7, officialShips24h: 3, detailUrl: "" },
+  { date: "2026-05-03", aircraft24h: 2, vessels24h: 8, officialShips24h: 3, detailUrl: "" },
+];
+
 const FALLBACK: MndSnapshot = {
-  date: "2026-05-03",
-  aircraft24h: 2,
-  vessels24h: 8,
-  officialShips24h: 3,
+  ...FALLBACK_HISTORY[FALLBACK_HISTORY.length - 1],
   source: "fallback",
   fetchedAt: new Date().toISOString(),
   sourceUrl: LIST_URL,
   detailUrl: null,
+  history: FALLBACK_HISTORY,
+};
+
+const FETCH_HEADERS = {
+  "User-Agent": UA,
+  Accept: "text/html,application/xhtml+xml",
+  "Accept-Language": "zh-TW,zh;q=0.9",
 };
 
 function rocToIso(roc: string): string | null {
-  // "115/05/03" -> "2026-05-03"
   const m = roc.match(/^(\d{2,3})\/(\d{1,2})\/(\d{1,2})$/);
   if (!m) return null;
   const y = Number(m[1]) + 1911;
@@ -41,89 +63,114 @@ function rocToIso(roc: string): string | null {
   return `${y}-${mo}-${d}`;
 }
 
-export async function getMndSnapshot(): Promise<MndSnapshot> {
+function stripText(html: string): string {
+  return html
+    .replace(/<[^>]+>/g, " ")
+    .replace(/&nbsp;/g, " ")
+    .replace(/&#x([0-9a-f]+);/gi, (_, c) => String.fromCharCode(parseInt(c, 16)))
+    .replace(/\s+/g, " ");
+}
+
+async function fetchDetail(id: string): Promise<MndDailyEntry | null> {
+  const url = `https://www.mnd.gov.tw/news/plaact/${id}`;
   try {
-    const listRes = await fetch(LIST_URL, {
+    const res = await fetch(url, {
       next: { revalidate: 3600, tags: ["mnd"] },
-      headers: {
-        "User-Agent": UA,
-        Accept: "text/html,application/xhtml+xml",
-        "Accept-Language": "zh-TW,zh;q=0.9",
-      },
+      headers: FETCH_HEADERS,
     });
-    if (!listRes.ok) return FALLBACK;
-    const listHtml = await listRes.text();
+    if (!res.ok) return null;
+    const text = stripText(await res.text());
 
-    const idMatch = listHtml.match(/href="news\/plaact\/(\d+)"/);
-    if (!idMatch) return FALLBACK;
-    const detailUrl = `https://www.mnd.gov.tw/news/plaact/${idMatch[1]}`;
+    const a = text.match(/共機\s*(\d+)\s*架次/);
+    const v = text.match(/共艦\s*(\d+)\s*艘/);
+    const o = text.match(/公務船\s*(\d+)\s*艘/);
+    if (!a || !v) return null;
 
-    const detailRes = await fetch(detailUrl, {
-      next: { revalidate: 3600, tags: ["mnd"] },
-      headers: {
-        "User-Agent": UA,
-        Accept: "text/html,application/xhtml+xml",
-        "Accept-Language": "zh-TW,zh;q=0.9",
-      },
-    });
-    if (!detailRes.ok) return FALLBACK;
-    const detailHtml = await detailRes.text();
-
-    // Strip tags and decode minimal entities
-    const text = detailHtml
-      .replace(/<[^>]+>/g, " ")
-      .replace(/&nbsp;/g, " ")
-      .replace(/\s+/g, " ");
-
-    const aircraft = text.match(/共機\s*(\d+)\s*架次/);
-    const vessels = text.match(/共艦\s*(\d+)\s*艘/);
-    const officialShips = text.match(/公務船\s*(\d+)\s*艘/);
-
-    // Date — prefer the ROC date inside "中華民國 XXX 年 X 月 X 日"
     let iso: string | null = null;
-    const rocSpaced = text.match(/中華民國\s*(\d{2,3})\s*年\s*(\d{1,2})\s*月\s*(\d{1,2})\s*日/);
-    if (rocSpaced) {
+    const rocSpaced = text.match(
+      /中華民國\s*(\d{2,3})\s*年\s*(\d{1,2})\s*月\s*(\d{1,2})\s*日/
+    );
+    if (rocSpaced)
       iso = rocToIso(`${rocSpaced[1]}/${rocSpaced[2]}/${rocSpaced[3]}`);
-    }
     if (!iso) {
       const slash = text.match(/(\d{2,3})\/(\d{1,2})\/(\d{1,2})/);
       if (slash) iso = rocToIso(`${slash[1]}/${slash[2]}/${slash[3]}`);
     }
-    if (!iso) iso = new Date().toISOString().slice(0, 10);
-
-    if (!aircraft || !vessels) return { ...FALLBACK, detailUrl };
+    if (!iso) return null;
 
     return {
       date: iso,
-      aircraft24h: Number(aircraft[1]),
-      vessels24h: Number(vessels[1]),
-      officialShips24h: officialShips ? Number(officialShips[1]) : 0,
+      aircraft24h: Number(a[1]),
+      vessels24h: Number(v[1]),
+      officialShips24h: o ? Number(o[1]) : 0,
+      detailUrl: url,
+    };
+  } catch {
+    return null;
+  }
+}
+
+export async function getMndSnapshot(days = 7): Promise<MndSnapshot> {
+  try {
+    const listRes = await fetch(LIST_URL, {
+      next: { revalidate: 3600, tags: ["mnd"] },
+      headers: FETCH_HEADERS,
+    });
+    if (!listRes.ok) return FALLBACK;
+    const listHtml = await listRes.text();
+
+    const ids = Array.from(
+      listHtml.matchAll(/href="news\/plaact\/(\d+)"/g)
+    ).map((m) => m[1]);
+    const uniqueIds = Array.from(new Set(ids)).slice(0, days * 3); // some entries may not be daily reports
+    if (uniqueIds.length === 0) return FALLBACK;
+
+    const results = await Promise.all(uniqueIds.map(fetchDetail));
+    const valid = results.filter((r): r is MndDailyEntry => r !== null);
+
+    // Dedup by date (keep first encountered which is most recent)
+    const byDate = new Map<string, MndDailyEntry>();
+    for (const r of valid) {
+      if (!byDate.has(r.date)) byDate.set(r.date, r);
+    }
+    const sorted = Array.from(byDate.values()).sort((a, b) =>
+      a.date.localeCompare(b.date)
+    );
+    const history = sorted.slice(-days);
+    if (history.length === 0) return FALLBACK;
+
+    const latest = history[history.length - 1];
+    return {
+      ...latest,
       source: "live",
       fetchedAt: new Date().toISOString(),
       sourceUrl: LIST_URL,
-      detailUrl,
+      history,
     };
   } catch {
     return FALLBACK;
   }
 }
 
-export function compositeRiskScore(s: MndSnapshot): {
-  score: number;
-  level: "LOW" | "ELEVATED" | "HIGH" | "SEVERE";
-} {
-  // Heuristic 0..100 based on PLA activity volume vs. recent baseline.
-  // Baseline: ~10 aircraft / ~7 vessels per 24h is "normal" (2024-25 avg).
+export function compositeRiskScore(s: {
+  aircraft24h: number;
+  vessels24h: number;
+  officialShips24h: number;
+}): { score: number; level: "LOW" | "ELEVATED" | "HIGH" | "SEVERE" } {
   const a = s.aircraft24h;
   const v = s.vessels24h;
   const o = s.officialShips24h;
-
   const score = Math.min(
     100,
     Math.round(a * 1.4 + v * 2.2 + o * 1.5 + (a > 30 ? 10 : 0) + (v > 15 ? 8 : 0))
   );
-
-  const level =
-    score >= 75 ? "SEVERE" : score >= 50 ? "HIGH" : score >= 25 ? "ELEVATED" : "LOW";
+  const level: "LOW" | "ELEVATED" | "HIGH" | "SEVERE" =
+    score >= 75
+      ? "SEVERE"
+      : score >= 50
+        ? "HIGH"
+        : score >= 25
+          ? "ELEVATED"
+          : "LOW";
   return { score, level };
 }

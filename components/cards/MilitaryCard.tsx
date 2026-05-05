@@ -2,6 +2,15 @@
 
 import { motion } from "framer-motion";
 import { Anchor, ExternalLink, Plane, Ship } from "lucide-react";
+import {
+  Bar,
+  BarChart,
+  CartesianGrid,
+  ResponsiveContainer,
+  Tooltip,
+  XAxis,
+  YAxis,
+} from "recharts";
 import Card from "@/components/Card";
 import type { MndSnapshot } from "@/lib/mnd";
 
@@ -157,6 +166,65 @@ export default function MilitaryCard({ mnd }: Props) {
         </div>
       </div>
 
+      {/* 7-day trend */}
+      {mnd.history.length > 1 && (
+        <div className="mt-7">
+          <div className="mb-2 flex items-baseline justify-between">
+            <div className="text-[11px] uppercase tracking-[0.2em] text-white/45">
+              7-Day Activity Trend
+            </div>
+            <div className="text-[11px] text-white/40">
+              {mnd.history[0].date} → {mnd.history[mnd.history.length - 1].date}
+            </div>
+          </div>
+          <div className="h-[140px] w-full">
+            <ResponsiveContainer width="100%" height="100%">
+              <BarChart
+                data={mnd.history.map((h) => ({
+                  d: h.date.slice(5),
+                  共機: h.aircraft24h,
+                  共艦: h.vessels24h,
+                  公務船: h.officialShips24h,
+                }))}
+                margin={{ top: 4, right: 4, left: -16, bottom: 0 }}
+              >
+                <CartesianGrid stroke="rgba(255,255,255,0.05)" vertical={false} />
+                <XAxis
+                  dataKey="d"
+                  tick={{ fill: "rgba(255,255,255,0.5)", fontSize: 10 }}
+                  axisLine={false}
+                  tickLine={false}
+                />
+                <YAxis
+                  tick={{ fill: "rgba(255,255,255,0.45)", fontSize: 10 }}
+                  axisLine={false}
+                  tickLine={false}
+                  width={28}
+                />
+                <Tooltip
+                  cursor={{ fill: "rgba(255,255,255,0.04)" }}
+                  contentStyle={{
+                    background: "rgba(20,20,22,0.95)",
+                    border: "1px solid rgba(255,255,255,0.1)",
+                    borderRadius: 10,
+                    color: "#fff",
+                    fontSize: 11,
+                  }}
+                />
+                <Bar dataKey="共機" stackId="a" fill="#ff453a" radius={[0, 0, 0, 0]} />
+                <Bar dataKey="共艦" stackId="a" fill="#ff8a3d" radius={[0, 0, 0, 0]} />
+                <Bar dataKey="公務船" stackId="a" fill="#ffd60a" radius={[3, 3, 0, 0]} />
+              </BarChart>
+            </ResponsiveContainer>
+          </div>
+          <div className="mt-1 flex items-center gap-4 text-[10.5px] text-white/55">
+            <Swatch color="#ff453a" label="共機" />
+            <Swatch color="#ff8a3d" label="共艦" />
+            <Swatch color="#ffd60a" label="公務船" />
+          </div>
+        </div>
+      )}
+
       <div className="mt-6 flex flex-wrap items-center justify-between gap-2 text-[11.5px]">
         <div className="flex items-center gap-2 text-white/45">
           <span className="relative flex h-1.5 w-1.5">
@@ -224,6 +292,18 @@ function Stat({
         </span>
         <span className="text-[11px] text-white/45">{unit}</span>
       </div>
+    </div>
+  );
+}
+
+function Swatch({ color, label }: { color: string; label: string }) {
+  return (
+    <div className="flex items-center gap-1.5">
+      <span
+        className="inline-block h-2 w-2 rounded-sm"
+        style={{ background: color }}
+      />
+      <span>{label}</span>
     </div>
   );
 }

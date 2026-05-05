@@ -1,0 +1,41 @@
+{
+  "updated": "2026-05-05",
+  "term": 11,
+  "totalSeats": 113,
+  "source": "立法院公務出國報告 + 公開新聞整理",
+  "sourceUrl": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=42408",
+  "abroad": [
+    {
+      "name": "范雲",
+      "party": "民主進步黨",
+      "country": "美國",
+      "purpose": "美國國會聯誼訪問",
+      "departed": "2026-05-02",
+      "returns": "2026-05-09"
+    },
+    {
+      "name": "王定宇",
+      "party": "民主進步黨",
+      "country": "日本",
+      "purpose": "台日國防安全對話",
+      "departed": "2026-05-04",
+      "returns": "2026-05-08"
+    },
+    {
+      "name": "陳冠廷",
+      "party": "民主進步黨",
+      "country": "捷克",
+      "purpose": "歐洲議會交流",
+      "departed": "2026-05-01",
+      "returns": "2026-05-10"
+    },
+    {
+      "name": "鄭麗文",
+      "party": "中國國民黨",
+      "country": "新加坡",
+      "purpose": "亞太經濟論壇",
+      "departed": "2026-05-03",
+      "returns": "2026-05-07"
+    }
+  ]
+}
