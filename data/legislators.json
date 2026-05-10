@@ -1,18 +1,10 @@
 {
-  "updated": "2026-05-09",
+  "updated": "2026-05-10",
   "term": 11,
   "totalSeats": 113,
   "source": "立法院公務出國報告 + 公開新聞整理",
   "sourceUrl": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=42408",
   "abroad": [
-    {
-      "name": "范雲",
-      "party": "民主進步黨",
-      "country": "美國",
-      "purpose": "美國國會聯誼訪問",
-      "departed": "2026-05-02",
-      "returns": "2026-05-09"
-    },
     {
       "name": "陳冠廷",
       "party": "民主進步黨",
