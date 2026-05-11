@@ -22,18 +22,24 @@ export default function Nav() {
               · 台海哨兵
             </span>
           </div>
-          <nav className="flex items-center gap-6 text-[13px] text-white/70">
-            <a className="hover:text-white transition" href="#economic">
-              經濟
+          <nav className="hidden items-center gap-5 text-[13px] text-white/70 md:flex">
+            <a className="transition hover:text-white" href="#market">
+              市場
             </a>
-            <a className="hover:text-white transition" href="#legislative">
-              立委
-            </a>
-            <a className="hover:text-white transition" href="#military">
+            <a className="transition hover:text-white" href="#military">
               軍事
             </a>
-            <a className="hover:text-white transition" href="#market">
-              市場
+            <a className="transition hover:text-white" href="#legislative">
+              立委
+            </a>
+            <a className="transition hover:text-white" href="#map">
+              部署
+            </a>
+            <a className="transition hover:text-white" href="#defense-stocks">
+              軍工股
+            </a>
+            <a className="transition hover:text-white" href="#economic">
+              經濟
             </a>
           </nav>
         </div>
