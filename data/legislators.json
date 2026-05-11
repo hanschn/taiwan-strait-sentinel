@@ -1,25 +1,17 @@
 {
-  "updated": "2026-05-10",
+  "updated": "2026-05-11",
   "term": 11,
   "totalSeats": 113,
   "source": "立法院公務出國報告 + 公開新聞整理",
   "sourceUrl": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=42408",
   "abroad": [
     {
-      "name": "陳冠廷",
-      "party": "民主進步黨",
-      "country": "捷克",
-      "purpose": "歐洲議會交流",
-      "departed": "2026-05-01",
-      "returns": "2026-05-10"
-    },
-    {
       "name": "韓國瑜",
       "party": "中國國民黨",
-      "country": "日本",
-      "purpose": "韓國瑜率朝野立委訪日 將會見前首相麻生太郎 - 公視新聞網PNN",
-      "departed": "2026-05-05",
-      "returns": "2026-05-10"
+      "country": "法國",
+      "purpose": "率跨黨派立委訪法國 韓國瑜宴款待台僑 - MSN",
+      "departed": "2026-05-11",
+      "returns": "2026-05-16"
     }
   ]
 }
