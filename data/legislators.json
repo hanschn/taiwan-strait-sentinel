@@ -1,18 +1,10 @@
 {
-  "updated": "2026-06-02",
+  "updated": "2026-06-03",
   "term": 11,
   "totalSeats": 113,
   "source": "立法院公務出國報告 + 公開新聞整理",
   "sourceUrl": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=42408",
   "abroad": [
-    {
-      "name": "鄭正鈐",
-      "party": "中國國民黨",
-      "country": "越南",
-      "purpose": "跨黨派立委訪越南舉行學術合作座談 鄭正鈐籲政府提供更多資源協助 - 勁報",
-      "departed": "2026-05-28",
-      "returns": "2026-06-02"
-    },
     {
       "name": "韓國瑜",
       "party": "中國國民黨",
