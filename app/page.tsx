@@ -1,6 +1,7 @@
-import { getPolymarketSnapshot } from "@/lib/polymarket";
+import { getMarketSnapshot } from "@/lib/markets";
 import { getMndSnapshot } from "@/lib/mnd";
 import { getLegislatorSnapshot } from "@/lib/legislators";
+import { getDiplomacySnapshot } from "@/lib/diplomacy";
 import { getCnDefenseSnapshot } from "@/lib/cn_defense";
 import StarfieldBackground from "@/components/StarfieldBackground";
 import Nav from "@/components/Nav";
@@ -18,10 +19,11 @@ export const revalidate = 60;
 
 export default async function Home() {
   const [snapshot, mnd] = await Promise.all([
-    getPolymarketSnapshot(),
+    getMarketSnapshot(),
     getMndSnapshot(),
   ]);
   const legislators = getLegislatorSnapshot();
+  const diplomacy = getDiplomacySnapshot();
   const cnDefense = getCnDefenseSnapshot();
 
   return (
@@ -40,7 +42,7 @@ export default async function Home() {
         <div className="mx-auto grid max-w-6xl gap-6 lg:grid-cols-2">
           <MarketCard snapshot={snapshot} />
           <MilitaryCard mnd={mnd} />
-          <LegislatorCard snapshot={legislators} />
+          <LegislatorCard snapshot={legislators} diplomacy={diplomacy} />
           <MilitaryMapCard />
           <DefenseStocksCard snapshot={cnDefense} />
           <EconomicCard />

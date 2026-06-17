@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16",
+  "updated": "2026-06-17",
   "term": 11,
   "totalSeats": 113,
   "source": "立法院公務出國報告 + 公開新聞整理",
@@ -8,10 +8,36 @@
     {
       "name": "韓國瑜",
       "party": "中國國民黨",
-      "country": "英國",
-      "purpose": "韓國瑜率跨黨派立委訪英 有僑民當面籲立委挺軍購 - 公視新聞網PNN",
+      "country": "美國",
+      "purpose": "韓國瑜6/21率跨黨團立委訪美 有望會見華府、國務院官員 - 公視新聞網PNN",
+      "departed": "2026-06-16",
+      "returns": "2026-06-21"
+    },
+    {
+      "name": "莊瑞雄",
+      "party": "民主進步黨",
+      "country": "美國",
+      "purpose": "訪美團7立委名單出爐 莊瑞雄揭「高規格招待」讓韓國瑜笑開懷 - 上報Up Media",
+      "departed": "2026-06-16",
+      "returns": "2026-06-21"
+    },
+    {
+      "name": "柯志恩",
+      "party": "中國國民黨",
+      "country": "美國",
+      "purpose": "韓國瑜6/21率跨黨派立委訪美 傳美方邀柯志恩、陳永康 - zmedia.com.tw",
+      "departed": "2026-06-16",
+      "returns": "2026-06-21"
+    },
+    {
+      "name": "陳永康",
+      "party": "中國國民黨",
+      "country": "美國",
+      "purpose": "韓國瑜6/21率跨黨派立委訪美 傳美方邀柯志恩、陳永康 - zmedia.com.tw",
       "departed": "2026-06-16",
       "returns": "2026-06-21"
     }
-  ]
+  ],
+  "lastChecked": "2026-06-17T01:08:02+00:00",
+  "abroadDetected": 4
 }

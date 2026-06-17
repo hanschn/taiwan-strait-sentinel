@@ -1,11 +1,12 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { ExternalLink, Plane, Users } from "lucide-react";
+import { ExternalLink, Plane, Users, Globe } from "lucide-react";
 import Card from "@/components/Card";
 import type { LegislatorSnapshot } from "@/lib/legislators";
+import type { DiplomacySnapshot } from "@/lib/diplomacy";
 
-type Props = { snapshot: LegislatorSnapshot };
+type Props = { snapshot: LegislatorSnapshot; diplomacy: DiplomacySnapshot };
 
 const partyColor: Record<string, string> = {
   民主進步黨: "text-green-300",
@@ -13,7 +14,7 @@ const partyColor: Record<string, string> = {
   台灣民眾黨: "text-cyan-300",
 };
 
-export default function LegislatorCard({ snapshot }: Props) {
+export default function LegislatorCard({ snapshot, diplomacy }: Props) {
   const r = 78;
   const c = 2 * Math.PI * r;
   const offset = c - (snapshot.inTaiwanPct / 100) * c;
@@ -23,6 +24,9 @@ export default function LegislatorCard({ snapshot }: Props) {
     month: "short",
     day: "numeric",
   });
+  const lastCheckedFmt = snapshot.lastChecked
+    ? new Date(snapshot.lastChecked).toLocaleString("zh-TW", { hour12: false })
+    : updatedFmt;
   const isStale = snapshot.staleness > 7;
 
   return (
@@ -145,6 +149,50 @@ export default function LegislatorCard({ snapshot }: Props) {
         </div>
       )}
 
+      {/* Honest empty-state — distinguishes "checked, nobody abroad" from stale */}
+      {snapshot.abroad.length === 0 && (
+        <div className="mt-6 rounded-xl border border-white/8 bg-white/[0.02] px-4 py-3 text-[12px] leading-relaxed text-white/50">
+          本日新聞未偵測到立委在外（最後檢查 {lastCheckedFmt}）。
+          全院 {snapshot.totalSeats} 席目前研判均在國內。
+        </div>
+      )}
+
+      {/* 外賓訪台 / 外交動態 */}
+      {diplomacy.events.length > 0 && (
+        <div className="mt-6">
+          <div className="mb-2 flex items-baseline justify-between">
+            <div className="flex items-center gap-1.5 text-[11px] uppercase tracking-[0.2em] text-white/45">
+              <Globe className="h-3 w-3" strokeWidth={2} />
+              近期外賓訪台 / 外交動態
+            </div>
+            <div className="text-[11px] text-white/40">
+              近 7 日 {diplomacy.count7d} 則
+            </div>
+          </div>
+          <ul className="space-y-1.5">
+            {diplomacy.events.slice(0, 4).map((e, i) => (
+              <li
+                key={`${e.date}-${i}`}
+                className="flex items-center justify-between gap-3 rounded-xl border border-white/8 bg-white/[0.02] px-3 py-2 text-[12px]"
+              >
+                <a
+                  href={e.url}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="min-w-0 truncate text-white/75 transition hover:text-white"
+                >
+                  {e.title}
+                </a>
+                <span className="shrink-0 text-[10.5px] text-white/40">
+                  {e.date.slice(5)}
+                  {e.source ? ` · ${e.source}` : ""}
+                </span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+
       {/* Freshness footer */}
       <div className="mt-5 flex flex-wrap items-center justify-between gap-2 text-[11.5px]">
         <div className="flex items-center gap-2 text-white/45">
@@ -181,7 +229,8 @@ export default function LegislatorCard({ snapshot }: Props) {
       </div>
 
       <p className="mt-2 text-[11px] text-white/35">
-        資料來源：{snapshot.source}。每日 06:00 GitHub Action 自動同步至 repo。
+        名單來源：立法院開放資料 API（第 {snapshot.term} 屆）；在外 / 外賓訪台動態由
+        公開新聞多關鍵字偵測。每日 06:00 GitHub Action 自動同步，僅供研究參考。
       </p>
     </Card>
   );

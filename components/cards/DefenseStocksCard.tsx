@@ -12,7 +12,7 @@ import {
   XAxis,
   YAxis,
 } from "recharts";
-import { ArrowDown, ArrowUp, TrendingUp, Activity } from "lucide-react";
+import { ArrowDown, ArrowUp, TrendingUp, Activity, AlertTriangle } from "lucide-react";
 import Card from "@/components/Card";
 import { scoreColor } from "@/lib/cn_defense";
 import type { CnDefenseSnapshot, Ticker } from "@/lib/cn_defense";
@@ -38,12 +38,15 @@ export default function DefenseStocksCard({ snapshot }: Props) {
     );
   }
 
+  const stale = snapshot.staleness > 3;
+  const hasFlow = snapshot.stocks.some((s) => s.mainNetLast !== 0);
+
   return (
     <Card
       id="defense-stocks"
       eyebrow="A-Share Defense"
       title="中國軍工股動態"
-      subtitle="主要軍工龍頭 + 軍工 ETF · 趨勢與資金面評估"
+      subtitle="主要軍工龍頭 + 軍工 ETF · 趨勢與主力資金面評估"
       className="lg:col-span-2"
       badge={
         <div className="glass flex items-center gap-1.5 rounded-full px-3 py-1 text-[11px] text-white/70">
@@ -52,6 +55,16 @@ export default function DefenseStocksCard({ snapshot }: Props) {
         </div>
       }
     >
+      {stale && (
+        <div className="mb-4 flex items-start gap-2 rounded-xl border border-amber-400/30 bg-amber-400/[0.08] px-3.5 py-2.5 text-[12px] leading-relaxed text-amber-200">
+          <AlertTriangle className="mt-0.5 h-3.5 w-3.5 shrink-0" strokeWidth={2} />
+          <span>
+            行情資料已過期 {snapshot.staleness} 天（最後更新 {snapshot.asOf ?? "—"}）—
+            自動同步可能中斷，下列數值僅供參考。
+          </span>
+        </div>
+      )}
+
       {/* ETF KPI strip */}
       <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
         {snapshot.etfs.map((e) => (
@@ -170,12 +183,12 @@ export default function DefenseStocksCard({ snapshot }: Props) {
           </div>
           <div className="text-[11px] text-white/40">
             <TrendingUp className="mr-1 inline h-3 w-3" />
-            5d / 20d 漲幅 · 量比 · 主力評分
+            5d / 20d 漲幅 · 量比 · 主力資金 · 評分
           </div>
         </div>
 
         <div className="overflow-x-auto rounded-2xl border border-white/8 bg-white/[0.02]">
-          <table className="w-full min-w-[720px] text-[12.5px]">
+          <table className={`w-full ${hasFlow ? "min-w-[820px]" : "min-w-[720px]"} text-[12.5px]`}>
             <thead>
               <tr className="border-b border-white/10 text-[10.5px] uppercase tracking-[0.14em] text-white/45">
                 <th className="py-2.5 pl-4 text-left font-medium">個股 / 業務</th>
@@ -184,12 +197,15 @@ export default function DefenseStocksCard({ snapshot }: Props) {
                 <th className="py-2.5 px-3 text-right font-medium">5日</th>
                 <th className="py-2.5 px-3 text-right font-medium">20日</th>
                 <th className="py-2.5 px-3 text-right font-medium">量比</th>
+                {hasFlow && (
+                  <th className="py-2.5 px-3 text-right font-medium">主力5日</th>
+                )}
                 <th className="py-2.5 pl-3 pr-4 text-left font-medium">主力評分</th>
               </tr>
             </thead>
             <tbody>
               {snapshot.stocks.map((s, i) => (
-                <StockRow key={s.code} t={s} index={i} />
+                <StockRow key={s.code} t={s} index={i} hasFlow={hasFlow} />
               ))}
             </tbody>
           </table>
@@ -200,8 +216,9 @@ export default function DefenseStocksCard({ snapshot }: Props) {
       <SummaryInsight stocks={snapshot.stocks} />
 
       <p className="mt-4 text-[11px] text-white/35">
-        資料來源：東方財富（push2his）· 日 K · 後復權。主力評分為 5 日漲幅 / 量比 /
-        連漲 / 20MA / MACD / 突破合成；僅供研究參考，非投資建議。
+        資料來源：騰訊財經（日 K · 前復權）+ 東方財富（主力資金淨流入）。主力評分為
+        主力 5 日淨流入 / 主力淨占比 / 5 日漲幅 / 連漲 / 20MA / MACD / 突破合成；
+        每交易日收盤後自動同步，僅供研究參考，非投資建議。
       </p>
     </Card>
   );
@@ -284,12 +301,21 @@ function Mini({
   );
 }
 
-function StockRow({ t, index }: { t: Ticker; index: number }) {
+function StockRow({
+  t,
+  index,
+  hasFlow,
+}: {
+  t: Ticker;
+  index: number;
+  hasFlow: boolean;
+}) {
   const sc = scoreColor(t.score);
   const dayUp = t.dayChange >= 0;
   const r5Up = t.ret5 >= 0;
   const r20Up = t.ret20 >= 0;
   const volHot = t.volRatio >= 1.5;
+  const flowIn = t.mainNet5 >= 0;
 
   return (
     <motion.tr
@@ -343,6 +369,15 @@ function StockRow({ t, index }: { t: Ticker; index: number }) {
       >
         {t.volRatio.toFixed(2)}
       </td>
+      {hasFlow && (
+        <td
+          className={`px-3 text-right ${flowIn ? "text-red-300" : "text-emerald-300"}`}
+          style={{ fontVariantNumeric: "tabular-nums" }}
+          title={`今日主力 ${formatYi(t.mainNetLast)} · 淨占比 ${t.mainPctLast.toFixed(1)}%`}
+        >
+          {formatYi(t.mainNet5)}
+        </td>
+      )}
       <td className="pl-3 pr-4">
         <div className="flex items-center gap-2.5">
           <div className="relative h-1.5 w-20 overflow-hidden rounded-full bg-white/8">
@@ -374,7 +409,9 @@ function StockRow({ t, index }: { t: Ticker; index: number }) {
 function SummaryInsight({ stocks }: { stocks: Ticker[] }) {
   const hot = stocks.filter((s) => s.score >= 50);
   const breakingHigh = stocks.filter((s) => s.breakdown["突破20日高"] > 0);
-  const macdBull = stocks.filter((s) => s.breakdown["MACD多頭"] > 0);
+  const hasFlow = stocks.some((s) => s.mainNetLast !== 0);
+  const inflowing = stocks.filter((s) => s.mainNet5 > 0);
+  const netSum5 = stocks.reduce((s, x) => s + x.mainNet5, 0);
   const avgRet5 =
     stocks.reduce((s, x) => s + x.ret5, 0) / Math.max(1, stocks.length);
   const tone =
@@ -389,8 +426,18 @@ function SummaryInsight({ stocks }: { stocks: Ticker[] }) {
       <span className="font-medium text-white/85">
         {tone} · 5 日板塊均漲 {avgRet5.toFixed(2)}%
       </span>
-      。{hot.length} / {stocks.length} 檔評分 ≥ 50；{breakingHigh.length}{" "}
-      檔突破 20 日高、{macdBull.length} 檔 MACD 多頭。
+      。{hot.length} / {stocks.length} 檔評分 ≥ 50；{breakingHigh.length} 檔突破 20 日高。
+      {hasFlow && (
+        <>
+          {" "}
+          近 5 日主力資金合計
+          <span className={netSum5 >= 0 ? "text-red-300" : "text-emerald-300"}>
+            {netSum5 >= 0 ? "淨流入 " : "淨流出 "}
+            {formatYi(Math.abs(netSum5))}
+          </span>
+          ，{inflowing.length} / {stocks.length} 檔主力淨流入。
+        </>
+      )}
       {hot.length >= 2 && (
         <>
           {" "}
@@ -411,4 +458,12 @@ function SummaryInsight({ stocks }: { stocks: Ticker[] }) {
       。
     </div>
   );
+}
+
+// 主力淨流入：元 → 億元，帶正負號。
+function formatYi(net: number): string {
+  if (!net) return "—";
+  const yi = net / 1e8;
+  const sign = yi > 0 ? "+" : yi < 0 ? "−" : "";
+  return `${sign}${Math.abs(yi).toFixed(2)} 億`;
 }

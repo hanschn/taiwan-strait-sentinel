@@ -1,14 +1,16 @@
 // China A-share defense / military industry tracker.
 // Data source: data/cn_defense.json (refreshed daily by scripts/update_cn_defense.py
-// running via .github/workflows/update-cn-defense.yml; upstream = Sina Finance K-line).
+// running via .github/workflows/update-cn-defense.yml; upstream = Eastmoney push2his
+// K-line + 主力資金 net inflow, with Tencent K-line fallback).
 //
-// 主力評分演算法 (composite, max 100):
-//   5 日漲幅      0–20  pts  (∝ ret5, cap +10%)
-//   量比 (vs 5d) 0–25  pts  (∝ (volRatio-1)*25)
-//   連漲天數     0–15  pts  (5 pts × days, 限 3 日)
-//   站上 20MA    0/15  pts
-//   MACD 多頭    0/15  pts  (DIF > DEA 且 DIF > 0)
-//   突破 20 日高 0/10  pts
+// 主力評分演算法 (composite, max 100) — now anchored on REAL 主力資金 flow:
+//   主力5日淨流入  0–30  pts  (Σ5 主力淨流入 ÷ Σ5 成交額, 越高越強)
+//   今日主力淨占比 0–15  pts  (∝ 當日主力淨占比%)
+//   5日漲幅        0–15  pts  (∝ ret5, cap +10%)
+//   連漲天數       0–10  pts  (5 pts × days, 限 2 日)
+//   站上 20MA      0/10  pts
+//   MACD 多頭      0/10  pts  (DIF > DEA 且 DIF > 0)
+//   突破 20 日高   0/10  pts
 
 import raw from "@/data/cn_defense.json";
 
@@ -19,6 +21,13 @@ export type Bar = {
   high: number;
   low: number;
   volume: number;
+  amount?: number; // 成交額 (元), present from Eastmoney; absent from Tencent fallback
+};
+
+export type Flow = {
+  date: string;
+  mainNet: number; // 主力淨流入 (元)
+  mainPct: number; // 主力淨占比 (%)
 };
 
 type RawTicker = {
@@ -28,15 +37,20 @@ type RawTicker = {
   sector: string;
   group: "etfs" | "stocks";
   bars: Bar[];
+  flow?: Flow[];
 };
 
-export type Ticker = Omit<RawTicker, "bars"> & {
+export type Ticker = Omit<RawTicker, "bars" | "flow"> & {
   bars: Bar[];
+  flow: Flow[];
   last: Bar | null;
   dayChange: number;
   ret5: number;
   ret20: number;
   volRatio: number;
+  mainNetLast: number; // 元
+  mainNet5: number; // 元 (Σ 近 5 日)
+  mainPctLast: number; // %
   score: number;
   breakdown: Record<string, number>;
 };
@@ -52,12 +66,25 @@ export type CnDefenseSnapshot = {
   staleness: number;
 };
 
+function clamp(v: number, lo: number, hi: number): number {
+  return Math.min(hi, Math.max(lo, v));
+}
+
 function pctChange(bars: Bar[], lookback: number): number {
   if (bars.length < lookback + 1) return 0;
   const a = bars[bars.length - 1 - lookback].close;
   const b = bars[bars.length - 1].close;
   if (!a) return 0;
   return (b / a - 1) * 100;
+}
+
+// 成交額 over the last `lookback` bars. Uses real 成交額 (元) when available,
+// else proxies with volume(手) × 100 × close.
+function turnoverSum(bars: Bar[], lookback: number): number {
+  return bars.slice(-lookback).reduce((s, b) => {
+    const amt = b.amount && b.amount > 0 ? b.amount : b.volume * 100 * b.close;
+    return s + amt;
+  }, 0);
 }
 
 function ema(values: number[], period: number): number[] {
@@ -89,7 +116,10 @@ function consecutiveUpDays(bars: Bar[]): number {
   return n;
 }
 
-export function mainForceScore(bars: Bar[]): {
+export function mainForceScore(
+  bars: Bar[],
+  flow: Flow[]
+): {
   score: number;
   breakdown: Record<string, number>;
 } {
@@ -97,8 +127,6 @@ export function mainForceScore(bars: Bar[]): {
   const last = bars[bars.length - 1];
 
   const ret5 = pctChange(bars, 5);
-  const vol5 = bars.slice(-6, -1).reduce((s, b) => s + b.volume, 0) / 5;
-  const volRatio = vol5 > 0 ? last.volume / vol5 : 1;
   const upDays = consecutiveUpDays(bars);
 
   const ma20 =
@@ -111,31 +139,44 @@ export function mainForceScore(bars: Bar[]): {
   const high20 = Math.max(...bars.slice(-20).map((b) => b.high));
   const breakHigh = last.high >= high20 * 0.999;
 
+  // --- 主力資金 (real institutional money flow) ---
+  const flow5 = flow.slice(-5);
+  const mainNet5 = flow5.reduce((s, f) => s + f.mainNet, 0);
+  const turnover5 = turnoverSum(bars, 5);
+  const flowRatioPct = turnover5 > 0 ? (mainNet5 / turnover5) * 100 : 0;
+  const mainPctLast = flow.length ? flow[flow.length - 1].mainPct : 0;
+
   const breakdown: Record<string, number> = {
-    "5日漲幅": Math.min(20, Math.max(0, ret5 * 2)),
-    量比: Math.min(25, Math.max(0, (volRatio - 1) * 25)),
-    連漲天數: Math.min(15, upDays * 5),
-    站上20MA: aboveMa20 ? 15 : 0,
-    MACD多頭: macdBullish ? 15 : 0,
+    主力5日淨流入: clamp(flowRatioPct * 5, 0, 30),
+    主力淨占比: clamp(mainPctLast * 2, 0, 15),
+    "5日漲幅": clamp(ret5 * 1.5, 0, 15),
+    連漲天數: clamp(upDays * 5, 0, 10),
+    站上20MA: aboveMa20 ? 10 : 0,
+    MACD多頭: macdBullish ? 10 : 0,
     突破20日高: breakHigh ? 10 : 0,
   };
   const score = Math.round(
     Object.values(breakdown).reduce((a, b) => a + b, 0)
   );
-  return { score: Math.min(100, score), breakdown };
+  return { score: clamp(score, 0, 100), breakdown };
 }
 
 function enrichMetrics(t: RawTicker): Ticker {
   const bars = t.bars;
+  const flow = t.flow ?? [];
   if (bars.length === 0) {
     return {
       ...t,
       bars,
+      flow,
       last: null,
       dayChange: 0,
       ret5: 0,
       ret20: 0,
       volRatio: 1,
+      mainNetLast: 0,
+      mainNet5: 0,
+      mainPctLast: 0,
       score: 0,
       breakdown: {},
     };
@@ -149,15 +190,24 @@ function enrichMetrics(t: RawTicker): Ticker {
       ? bars.slice(-6, -1).reduce((s, b) => s + b.volume, 0) / 5
       : last.volume;
   const volRatio = vol5 > 0 ? last.volume / vol5 : 1;
-  const { score, breakdown } = mainForceScore(bars);
+
+  const mainNetLast = flow.length ? flow[flow.length - 1].mainNet : 0;
+  const mainNet5 = flow.slice(-5).reduce((s, f) => s + f.mainNet, 0);
+  const mainPctLast = flow.length ? flow[flow.length - 1].mainPct : 0;
+
+  const { score, breakdown } = mainForceScore(bars, flow);
   return {
     ...t,
     bars,
+    flow,
     last,
     dayChange,
     ret5,
     ret20,
     volRatio,
+    mainNetLast,
+    mainNet5,
+    mainPctLast,
     score,
     breakdown,
   };

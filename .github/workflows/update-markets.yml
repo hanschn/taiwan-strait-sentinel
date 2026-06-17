@@ -1,9 +1,10 @@
-name: Update legislators-abroad data
+name: Update prediction-market index
 
 on:
   schedule:
-    # Daily at 06:00 Asia/Taipei = 22:00 UTC
-    - cron: "0 22 * * *"
+    # Every 6 hours — odds move slowly; this only needs to keep the committed
+    # fallback fresh (lib/markets.ts fetches live at request time).
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -20,15 +21,15 @@ jobs:
           python-version: "3.12"
 
       - name: Run updater
-        run: python scripts/update_legislators.py
+        run: python scripts/update_markets.py
 
       - name: Commit if changed
         run: |
-          if [[ -n "$(git status --porcelain data/legislators.json data/diplomacy.json)" ]]; then
+          if [[ -n "$(git status --porcelain data/markets.json)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add data/legislators.json data/diplomacy.json
-            git commit -m "chore(data): daily legislators-abroad + diplomacy sync"
+            git add data/markets.json
+            git commit -m "chore(data): refresh prediction-market index"
             git push
           else
             echo "No changes"
