@@ -11,6 +11,7 @@ export type LegislatorAbroad = {
 
 export type LegislatorSnapshot = {
   updated: string;
+  lastChecked: string | null; // ISO datetime the news was last scanned
   term: number;
   totalSeats: number;
   abroad: LegislatorAbroad[];
@@ -38,6 +39,7 @@ export function getLegislatorSnapshot(today = new Date()): LegislatorSnapshot {
 
   return {
     updated: data.updated,
+    lastChecked: "lastChecked" in data ? (data.lastChecked as string) : null,
     term: data.term,
     totalSeats: data.totalSeats,
     abroad: currentlyAbroad,
