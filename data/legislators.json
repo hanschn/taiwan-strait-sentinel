@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20",
+  "updated": "2026-06-21",
   "term": 11,
   "totalSeats": 113,
   "source": "立法院公務出國報告 + 公開新聞整理",
@@ -36,8 +36,16 @@
       "purpose": "韓國瑜6/21率跨黨派立委訪美 傳美方邀柯志恩、陳永康 - zmedia.com.tw",
       "departed": "2026-06-16",
       "returns": "2026-06-21"
+    },
+    {
+      "name": "江啟臣",
+      "party": "中國國民黨",
+      "country": "美國",
+      "purpose": "韓國瑜率朝野立委訪美拚「4大目標」 江啟臣帶維他命送機 - 自由時報",
+      "departed": "2026-06-21",
+      "returns": "2026-06-26"
     }
   ],
-  "lastChecked": "2026-06-20T23:15:44+00:00",
-  "abroadDetected": 0
+  "lastChecked": "2026-06-21T23:21:22+00:00",
+  "abroadDetected": 1
 }
