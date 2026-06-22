@@ -1,42 +1,10 @@
 {
-  "updated": "2026-06-21",
+  "updated": "2026-06-22",
   "term": 11,
   "totalSeats": 113,
   "source": "立法院公務出國報告 + 公開新聞整理",
   "sourceUrl": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=42408",
   "abroad": [
-    {
-      "name": "韓國瑜",
-      "party": "中國國民黨",
-      "country": "美國",
-      "purpose": "韓國瑜6/21率跨黨團立委訪美 有望會見華府、國務院官員 - 公視新聞網PNN",
-      "departed": "2026-06-16",
-      "returns": "2026-06-21"
-    },
-    {
-      "name": "莊瑞雄",
-      "party": "民主進步黨",
-      "country": "美國",
-      "purpose": "訪美團7立委名單出爐 莊瑞雄揭「高規格招待」讓韓國瑜笑開懷 - 上報Up Media",
-      "departed": "2026-06-16",
-      "returns": "2026-06-21"
-    },
-    {
-      "name": "柯志恩",
-      "party": "中國國民黨",
-      "country": "美國",
-      "purpose": "韓國瑜6/21率跨黨派立委訪美 傳美方邀柯志恩、陳永康 - zmedia.com.tw",
-      "departed": "2026-06-16",
-      "returns": "2026-06-21"
-    },
-    {
-      "name": "陳永康",
-      "party": "中國國民黨",
-      "country": "美國",
-      "purpose": "韓國瑜6/21率跨黨派立委訪美 傳美方邀柯志恩、陳永康 - zmedia.com.tw",
-      "departed": "2026-06-16",
-      "returns": "2026-06-21"
-    },
     {
       "name": "江啟臣",
       "party": "中國國民黨",
@@ -44,8 +12,16 @@
       "purpose": "韓國瑜率朝野立委訪美拚「4大目標」 江啟臣帶維他命送機 - 自由時報",
       "departed": "2026-06-21",
       "returns": "2026-06-26"
+    },
+    {
+      "name": "韓國瑜",
+      "party": "中國國民黨",
+      "country": "美國",
+      "purpose": "韓國瑜率跨黨派立委訪美聚焦國會與台積電交流| 政治 - 中央社 CNA",
+      "departed": "2026-06-21",
+      "returns": "2026-06-26"
     }
   ],
-  "lastChecked": "2026-06-21T23:21:22+00:00",
+  "lastChecked": "2026-06-22T23:25:21+00:00",
   "abroadDetected": 1
 }
