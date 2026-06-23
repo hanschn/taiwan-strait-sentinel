@@ -1,15 +1,9 @@
 {
-  "updated": "2026-06-22",
-  "lastChecked": "2026-06-22T23:25:26+00:00",
+  "updated": "2026-06-23",
+  "lastChecked": "2026-06-23T23:12:41+00:00",
   "windowDays": 14,
   "count7d": 12,
   "events": [
-    {
-      "title": "索馬利蘭傳奇女性領袖 Edna Adan 訪台",
-      "source": "中央社 CNA",
-      "date": "2026-06-22",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HQms2UDRyYlVyc1dvU0dKcVlEdjlHenI1TGtVamVPbTN0SjJPTWNjTlhTd3V0S1d0RzR6bWNMZzhDNF9xc0hPSE5HVjlRVHdLNHhrU0l3?oc=5"
-    },
     {
       "title": "快新聞／南美洲友邦訪台 外交部揭「雙贏」策略",
       "source": "民視新聞網",
@@ -35,6 +29,12 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5UN3R6aFlHbGx5Nm9xNWF4cWRpVUY0UDZDZldnN3NjbUJmNjVzOW5WRVZQRHc4bi00QjlfSDZ3WHJLQlFyUXZvd19EVGl0MTdXTVF1NWVJN1J1N1Y0ZjNoUUVzUnJndw?oc=5"
     },
     {
+      "title": "美國聯邦眾議員麥珂貝、 傅晞訪台將晉見賴總統",
+      "source": "MSN",
+      "date": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOd1hWb2o3ODNWd29GUXFWT2lySC1ZVVhEM3NrUEwyLTNEM3RwcnViYTQxNGpYajc0LUxXOEw2eTZucUNpLXBJaWl2dE9xM1NidURPWXlBcnNTeENlRUc1c1ZFYXhwcGR2UWxPX3ZxQlZjOHpmUW5EZmhCUHdSSjhkUXpDaHNPdmVyM0hjTFBzWkFVd3Nmblh4X0FpOW9LMmkwOHVOV2ZEanNPcG1pV0lMQzVnaDF2dFVhQllpY2NKMzdUSUUzTE12QkdmbGJmVW0tZUtaTzZYaU5oYXFaNVQwNjM2alM4QnBqUUl5d0VhQ0RJVWZuRHJ1elFWNW14QkY3M1c3THlEZWdvSFEtWXI1OW9zU0RRbldoR2w2VkQ4VEFXV3hsNmw0bngxSXJLREpRd2xCOWxJc1Jrell1Mm5kbndacFBOcnJNUjVBXzdRUl9LdkU?oc=5"
+    },
+    {
       "title": "外交部誠摯歡迎美國聯邦參議院外交委員會民主黨首席議員夏欣及共和黨參議員匡希恆率跨黨派參議員訪問台灣",
       "source": "mofa.gov.tw",
       "date": "2026-06-17",
@@ -47,16 +47,16 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1idk5ROVBhMDl5aldRN2lNcWNYak1nU0UzR2dDR3dZYk4wSmRnU2RRZXVhbjJDREhqc1hsYW5Bc3JFWFMwa3hOX2REU0h5Z0pqREQwbDZyNA?oc=5"
     },
     {
-      "title": "美國非裔議員率團訪台 關注美台高科技人才培育與人權議題",
-      "source": "中時新聞網",
-      "date": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pM2hVMlByNHQwckluN2tVZmg3cTd0MTBuZVI4MXJTaVltSGlXYnA4NHV6dnk1YVB3WTRLUkNlQlVOWXlWWmFFbV9zc3B0NTFGTnhYTnpDQkFnTjVHYU5uVVVuQU5CUGpuQ3A4LTBn?oc=5"
-    },
-    {
       "title": "外交部誠摯歡迎捷克參議院議長韋德齊率團訪台",
       "source": "mofa.gov.tw",
       "date": "2026-06-16",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqUk9fUVplay1JQk40QTI1LV90aTBiNEwxMERndlpPZkZjMHA5bzhRWnlsSzZDYXh5M3JDSmVndVQwT1Z4UHB1cERnRmp5UVpSSHBNWG83Y09xUlV5VGxCUnVqSjVJQQ?oc=5"
+    },
+    {
+      "title": "美國非裔議員率團訪台 關注美台高科技人才培育與人權議題",
+      "source": "中時新聞網",
+      "date": "2026-06-16",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pM2hVMlByNHQwckluN2tVZmg3cTd0MTBuZVI4MXJTaVltSGlXYnA4NHV6dnk1YVB3WTRLUkNlQlVOWXlWWmFFbV9zc3B0NTFGTnhYTnpDQkFnTjVHYU5uVVVuQU5CUGpuQ3A4LTBn?oc=5"
     },
     {
       "title": "美聯邦眾議員率團訪台 將拜會賴清德",
