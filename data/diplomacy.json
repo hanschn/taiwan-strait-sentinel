@@ -1,9 +1,27 @@
 {
-  "updated": "2026-06-23",
-  "lastChecked": "2026-06-23T23:12:41+00:00",
+  "updated": "2026-06-24",
+  "lastChecked": "2026-06-24T23:12:02+00:00",
   "windowDays": 14,
-  "count7d": 12,
+  "count7d": 11,
   "events": [
+    {
+      "title": "外交部誠摯歡迎紐西蘭跨黨派國會議員訪問團來台",
+      "source": "mofa.gov.tw",
+      "date": "2026-06-24",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RRzlhZHVwWkp1Q2lsVUxBRmJxUjNlSF8xRjlpTXJWODlTM2w2X0pmTUtOMkZseGZQbl8xTVBzVEdZcVlhU0M3czFGalQ4T2ZRNlh0ODVoNkV5bElDd2VVX0dPNmQwUQ?oc=5"
+    },
+    {
+      "title": "外交部長林佳龍誠摯歡迎美國懷俄明州州長戈登率團訪台",
+      "source": "mofa.gov.tw",
+      "date": "2026-06-23",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TV1FzUUZ3NkNPUnFvSEhZd2F6djRxYW5RNmVXM1RnbE1QM1oyNXJSRzJlLTAxWnA4LU9UUUdySTZ0dUp0cjNQZ3U3SmFmTXpqMnRXaXFPZUUwTEoxYUZOLXlEZFJRZw?oc=5"
+    },
+    {
+      "title": "外交部誠摯歡迎美國堪薩斯州副州長陶然率團訪台",
+      "source": "mofa.gov.tw",
+      "date": "2026-06-22",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NZjliMldmXzNhYU5vNmJzSTFQV1lMUW12Sm9fU3BzaVY2MjdDRUJFVE1KX1BkWHhwVFA1YU5MdXF5U2d2ZUlxT3Y3VXA5bExxQmpwWml5WDNIVW43SG1hd1p4WTFydw?oc=5"
+    },
     {
       "title": "快新聞／南美洲友邦訪台 外交部揭「雙贏」策略",
       "source": "民視新聞網",
@@ -11,10 +29,10 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yRldZNlE2a0llSzd2bF9hZ2lYS3g0S2pPRDhBcFVVQVFJVjVLNlByYlpBMU83ZGFmc05kdTlFTWhqZUdfVXI0ZjVmeFdIbTJKSng5UGxwaThjclVyYTZEcw?oc=5"
     },
     {
-      "title": "外交部長林佳龍晚宴歡迎芬蘭國會友台小組跨黨派議員訪問團",
+      "title": "外交部長林佳龍午宴歡迎德國國會友台小組跨黨派議員訪問團",
       "source": "mofa.gov.tw",
-      "date": "2026-06-20",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53clNZclJjQW13UzhPVHRzU3QyUDhqMjVXWHYyWE5CYktLQlQtNHlpWmUzRVBvODJmWkI0SnBTMl9LTmtYYkluQWxVZGU5TkJ4TU1mOXRQQ2tOcm9LdUx0UEF6NHdJZw?oc=5"
+      "date": "2026-06-21",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzY2tXVkkteGRZdTRSSzg5NzB6N0R6ZHVOYU1kQTd6Q2c4S3hSMEpGX3B6NmhmeVpXanpvN3lHdWVZZTAzNy1Xd0Jtel9FMkJlbVFLSlRobV9wLWZPYnNsZnoyaFViQQ?oc=5"
     },
     {
       "title": "外交部歡迎「加拿大聯邦參議員訪問團」訪問台灣",
@@ -23,10 +41,10 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jbXJHOGppVkt0NmxpeVVaVGM1Ym5YR1lySHk4UXR1WG1oZGFvaE16SC15V3FDaW5ZMkpSMjZxbE1xazI2dFJrUVM3N1A2REZwVmFEQnFCTnNaQ3NaQjlFS2FvbF90QQ?oc=5"
     },
     {
-      "title": "外交部政務次長吳志中設宴歡迎以色列國會跨黨派議員訪問團訪台",
+      "title": "外交部長林佳龍晚宴歡迎芬蘭國會友台小組跨黨派議員訪問團",
       "source": "mofa.gov.tw",
-      "date": "2026-06-19",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5UN3R6aFlHbGx5Nm9xNWF4cWRpVUY0UDZDZldnN3NjbUJmNjVzOW5WRVZQRHc4bi00QjlfSDZ3WHJLQlFyUXZvd19EVGl0MTdXTVF1NWVJN1J1N1Y0ZjNoUUVzUnJndw?oc=5"
+      "date": "2026-06-20",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53clNZclJjQW13UzhPVHRzU3QyUDhqMjVXWHYyWE5CYktLQlQtNHlpWmUzRVBvODJmWkI0SnBTMl9LTmtYYkluQWxVZGU5TkJ4TU1mOXRQQ2tOcm9LdUx0UEF6NHdJZw?oc=5"
     },
     {
       "title": "美國聯邦眾議員麥珂貝、 傅晞訪台將晉見賴總統",
@@ -41,6 +59,12 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pZWFycVZKa0NJYUlwWk1oX2IxeWxNQ1pKeWpqTFhVcDJKSlNMQ0dpZGFRTjlUTDRiQzBVR190UnkzUU5HUXRscjI5NjVIQW56TlV0N3BHN1Z4d0V2ZUk2endkVnRmUQ?oc=5"
     },
     {
+      "title": "外交部誠摯歡迎歐洲議會「安全暨防衛委員會」官方代表團訪台",
+      "source": "mofa.gov.tw",
+      "date": "2026-06-17",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zRkwwX0Q0RXlnaWpLS0xCaGJuZEljcHMxazU3VWllNTNqdmlHRk9OTGtZMHR3UU1mWml3andRaEJLRFZBQnRBa3BSdWZyNlpJY3gwbWVpRk9PcTdhaXloR0hlNFg4UQ?oc=5"
+    },
+    {
       "title": "美加青年來台研習 林佳龍：拼出自己的台灣拼圖",
       "source": "rti.org.tw",
       "date": "2026-06-17",
@@ -51,30 +75,6 @@
       "source": "mofa.gov.tw",
       "date": "2026-06-16",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqUk9fUVplay1JQk40QTI1LV90aTBiNEwxMERndlpPZkZjMHA5bzhRWnlsSzZDYXh5M3JDSmVndVQwT1Z4UHB1cERnRmp5UVpSSHBNWG83Y09xUlV5VGxCUnVqSjVJQQ?oc=5"
-    },
-    {
-      "title": "美國非裔議員率團訪台 關注美台高科技人才培育與人權議題",
-      "source": "中時新聞網",
-      "date": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pM2hVMlByNHQwckluN2tVZmg3cTd0MTBuZVI4MXJTaVltSGlXYnA4NHV6dnk1YVB3WTRLUkNlQlVOWXlWWmFFbV9zc3B0NTFGTnhYTnpDQkFnTjVHYU5uVVVuQU5CUGpuQ3A4LTBn?oc=5"
-    },
-    {
-      "title": "美聯邦眾議員率團訪台 將拜會賴清德",
-      "source": "大纪元",
-      "date": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FQmxoZE9lTnBnOVBudk0wV3JuUWhXeWdvaE5pZDk1YTVfRmQ2ZTFVODhZMF9XQ1VwY0VONzRyT1pnSXdYbzM5NkVCcGF5Nm5sUHFicVRPZXZrTlZJczRGTtIBZkFVX3lxTE1GZkxkTVROUFRtZTZwVlUxYVl4R3NRenlmUEZHYXBsbFNiSGNMSGRHUEViOHFqQ0FKZjhScm14bzVsOVVzZUNjLTIweTQ0Zl9rdXdPUFNySlZFQnZLbmZPTS0tSEYzQQ?oc=5"
-    },
-    {
-      "title": "美眾院「國會非裔議員連線」2議員首度訪台拜會賴清德談台美安全| 政治",
-      "source": "Newtalk新聞",
-      "date": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PcEZGSDhubC1BOGU5VkthYllsVlVDNERhRmRBRkRycTNUQllEWmJDY29WeVdFWDFYLXJ5NHpGQndQWG9XRks0MlFxUGhlNjRaLUdBQUxaLW5zM0U?oc=5"
-    },
-    {
-      "title": "美眾議員「六月節」訪台 外交部：展現共享價值",
-      "source": "rti.org.tw",
-      "date": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LX0VuQ085eFBNMFRsS0tjQ21oNVJ6WGhRMnk3ZWx1YjVLZzg1dm85X2E0R2t4M3FfbE5iRGdnUEs0akF2TlpGVkczRzBTUjI0b1o1VlJ5NA?oc=5"
     }
   ]
 }
