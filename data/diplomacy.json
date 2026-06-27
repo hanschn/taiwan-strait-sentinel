@@ -1,9 +1,15 @@
 {
-  "updated": "2026-06-26",
-  "lastChecked": "2026-06-26T23:14:25+00:00",
+  "updated": "2026-06-27",
+  "lastChecked": "2026-06-27T23:09:35+00:00",
   "windowDays": 14,
   "count7d": 12,
   "events": [
+    {
+      "title": "外交部誠摯歡迎歐洲議會「安全暨防衛委員會」官方代表團訪台",
+      "source": "mofa.gov.tw",
+      "date": "2026-06-26",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zRkwwX0Q0RXlnaWpLS0xCaGJuZEljcHMxazU3VWllNTNqdmlHRk9OTGtZMHR3UU1mWml3andRaEJLRFZBQnRBa3BSdWZyNlpJY3gwbWVpRk9PcTdhaXloR0hlNFg4UQ?oc=5"
+    },
     {
       "title": "英國上議員羅根勳爵（Lord Rogan）率「台英國會小組」（APPG）訪問團訪台- 駐英國台北代表處",
       "source": "ROC-Taiwan.org",
@@ -47,6 +53,12 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TV1FzUUZ3NkNPUnFvSEhZd2F6djRxYW5RNmVXM1RnbE1QM1oyNXJSRzJlLTAxWnA4LU9UUUdySTZ0dUp0cjNQZ3U3SmFmTXpqMnRXaXFPZUUwTEoxYUZOLXlEZFJRZw?oc=5"
     },
     {
+      "title": "外交部政務次長吳志中午宴歡迎以色列市長訪問團訪台",
+      "source": "mofa.gov.tw",
+      "date": "2026-06-22",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SVldMVGxDMjRQdzc3a1pqcGxmUll2MnJ5Vk9hRGhVYkxkQTZYS1ZSandPTmlEdzVWdVdKNTQ4c0dXQnlWMEVnRENHMU15NnU3MjdkUlh2elhRYTNaLThseVEyb3hFdw?oc=5"
+    },
+    {
       "title": "快新聞／南美洲友邦訪台 外交部揭「雙贏」策略",
       "source": "民視新聞網",
       "date": "2026-06-22",
@@ -63,18 +75,6 @@
       "source": "MSN",
       "date": "2026-06-21",
       "url": "https://news.google.com/rss/articles/CBMimARBVV95cUxOLU1fRERjSlR1WXJCeGU1X20tX3BhXzdMdkQ2TUFCLVpvS0JzUk5HTGcwaUpNZm9sQWdTbFBHa2h2MTh1c3pUSHEyNEZwOFB0eXB2QXNzTlFSYjVBYXY3M252M2RfX2dGZVFPVFVPS0FONVk3aHluS19jU2U1NUpHc1dUaWNVUTIweUJSY09ndExIREg2bmlZRHdZVi11ajZqbXZWSFBGS2lHTGItclA5TjdsZzAwS1RNZGJtQkwwREI5NC1WeENKOGE5VGRZVlI5WHZjM041QlFxVkN5Qm04blFBWmE3dXJxaWZnaUxKWlpKTXcwdURJOU12LV9WR1JINmNpWFZiRVE4ZDJJTHppLU45VmxPZjRhaTkzVFQ1M1Fpc04wSGV0TldSSUo4U2JxbWFsT0RZYUhSV0twQjJKQzJ3bEV0NGFQQTl2QjMzanRWdVFkOTcxM3FPUW14VFlXemFsNEFpTmhOUm41ODB6Y21hN2hSRzdwNk55VDJ4M0VJMldTa2RUODdWVnkxTTFPNzB6Tk5uSFI5T1BidHFrdTVPV2RsRzFXQmdlRWlub19LdjBDVDBDcW5LUEQ3V2RnTXFvYVpLMWx5cFRURTYzWkljUDVXdWljX0dLdG1LZUwxMXhnc3JsV0NLcjhNN2VKdkUyMzE3WW1pMnoxQV8wcFM3SEx6MDlYS2ozTDQ5WjB1ZlJuc1FDNg?oc=5"
-    },
-    {
-      "title": "外交部歡迎「加拿大聯邦參議員訪問團」訪問台灣",
-      "source": "mofa.gov.tw",
-      "date": "2026-06-20",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jbXJHOGppVkt0NmxpeVVaVGM1Ym5YR1lySHk4UXR1WG1oZGFvaE16SC15V3FDaW5ZMkpSMjZxbE1xazI2dFJrUVM3N1A2REZwVmFEQnFCTnNaQ3NaQjlFS2FvbF90QQ?oc=5"
-    },
-    {
-      "title": "外交部長林佳龍晚宴歡迎芬蘭國會友台小組跨黨派議員訪問團",
-      "source": "mofa.gov.tw",
-      "date": "2026-06-20",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53clNZclJjQW13UzhPVHRzU3QyUDhqMjVXWHYyWE5CYktLQlQtNHlpWmUzRVBvODJmWkI0SnBTMl9LTmtYYkluQWxVZGU5TkJ4TU1mOXRQQ2tOcm9LdUx0UEF6NHdJZw?oc=5"
     }
   ]
 }

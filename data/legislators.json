@@ -1,27 +1,27 @@
 {
-  "updated": "2026-06-26",
+  "updated": "2026-06-27",
   "term": 11,
   "totalSeats": 113,
   "source": "立法院公務出國報告 + 公開新聞整理",
   "sourceUrl": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=42408",
   "abroad": [
     {
-      "name": "江啟臣",
-      "party": "中國國民黨",
-      "country": "美國",
-      "purpose": "韓國瑜率朝野立委訪美拚「4大目標」 江啟臣帶維他命送機 - 自由時報",
-      "departed": "2026-06-21",
-      "returns": "2026-06-26"
-    },
-    {
       "name": "韓國瑜",
       "party": "中國國民黨",
       "country": "美國",
-      "purpose": "韓國瑜率跨黨派立委訪美聚焦國會與台積電交流| 政治 - 中央社 CNA",
-      "departed": "2026-06-21",
-      "returns": "2026-06-26"
+      "purpose": "韓國瑜率跨黨派立委團訪美 喊「團結讓世界認識台灣」 - zmedia.com.tw",
+      "departed": "2026-06-22",
+      "returns": "2026-06-27"
+    },
+    {
+      "name": "江啟臣",
+      "party": "中國國民黨",
+      "country": "美國",
+      "purpose": "快新聞／率朝野立委赴美拚國會外交！韓國瑜親揭四大目標 江啟臣送上神秘小禮 - 民視運動網",
+      "departed": "2026-06-22",
+      "returns": "2026-06-27"
     }
   ],
-  "lastChecked": "2026-06-26T23:14:21+00:00",
-  "abroadDetected": 0
+  "lastChecked": "2026-06-27T23:09:30+00:00",
+  "abroadDetected": 2
 }
