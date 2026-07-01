@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-07-01T09:47:55+00:00",
+  "updatedAt": "2026-07-01T14:36:42+00:00",
   "question": "中國 2026–27 對台動武機率",
-  "prob": 0.0994,
+  "prob": 0.0887,
   "spread": {
-    "min": 0.08,
+    "min": 0.065,
     "max": 0.147825955811416
   },
   "sources": [
     {
       "name": "Polymarket",
       "kind": "real",
-      "prob": 0.08,
-      "volume": 2676370.2931400035,
+      "prob": 0.065,
+      "volume": 2680381.903439003,
       "volumeLabel": "$2.68M",
       "question": "China x Taiwan military clash before 2027?",
       "url": "https://polymarket.com/event/china-x-taiwan-military-clash-before-2027",
