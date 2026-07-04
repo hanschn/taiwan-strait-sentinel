@@ -1,9 +1,15 @@
 {
-  "updated": "2026-07-03",
-  "lastChecked": "2026-07-03T23:11:36+00:00",
+  "updated": "2026-07-04",
+  "lastChecked": "2026-07-04T23:03:11+00:00",
   "windowDays": 14,
   "count7d": 12,
   "events": [
+    {
+      "title": "陸讚賞宏國外長駁與台復交 谷立言鼓勵拉美領袖訪台友邦",
+      "source": "世界新聞網",
+      "date": "2026-07-04",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QZVlDX25wMldETDc0SHBwVDhYbmlvR21YZEh0VURuXzhNMno2UTREQ2pvdUNPMVdZOEhTcFFsUFdmNEVtYzdFRE9MbDVsd2JPUmk2ZkdtNGc1a01RRnpULVN30gFnQVVfeXFMTUtBem1rMTIyS0lFdnNVelBRSkdhdndaX2xQd3J6b01xZGVXMkZVTy1yXzFUNG1hbHdTZTZVS1hWX2dXSU5ORU5nQjAwcnFyWEdjR3JlT0tqZU9FbFp4RHR6T1hzWFY5VQ?oc=5"
+    },
     {
       "title": "史瓦帝尼商工貿易部長訪台 林佳龍：盼深化台史經貿與產業合作",
       "source": "自由時報",
@@ -15,6 +21,12 @@
       "source": "經濟日報",
       "date": "2026-07-03",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcVBxS2M0TVhvNlFsbE9hZXI3eTlfbnJVRVhBTFluT1NDU3dWeTlBQnVRSEtHZDQ4a3ZKZnFlS2o5MjU1N0ZUMDVZQnQ5X3RwR2FCbnBmM1lvbUNUc0N1YjZRZEVoN2kxT1JLc0xBeEtQOXhucGFUSlZUbUtuTm1HQtIBX0FVX3lxTE42VThNSTM3NVdPTkRIZXNuaGRYTUFBVU1CcE5jVjlfUWl1TmQ2XzdYVHFQM1NFZkhiaXpQdEFzMHZ6aC1Va3dLLU5ad3d6OTl3TFoxVVZhdS1NQVM2enhZ?oc=5"
+    },
+    {
+      "title": "瓜國衛生部長訪台！林佳龍： 邦誼落實在合作",
+      "source": "MSN",
+      "date": "2026-07-03",
+      "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPRFBEc3RqS3huSjFwUzlSMHNrRU1kOUEwRDdRX1gxWlJXbjlYcmtSSXI3ZFp3XzhyMWhEdFZPUlY0OFhrWXZFN0VwVlFWa0RhTEw3RVNwZ2lvUU43Mlhmc1VRZl9aQTJqRTZiLWZFSEllaHBnZnFMSUdzMVdUQWlDMU1wejVhVzVTM01LcFB6aVcwNnJWdHZPdVNfX01tV240ZkU3dURDRXl4cFozRVhhWjVZRFNUNW9yaVY5VXBfcndnUFdSeURuVUl5RHc1c0VYSXVqWWNKNDNnVUQxVjJlZDRUNW1yZVp3X2pnWHVRQk1Vb3diVTFrdEg5UHFwSk5kTnJlWF8wSF96SWl1TFVLeUNGa0ttNEVNZGZnemN0SmRYME5FeXE5SUdOVU5jU2p5eFNFamhFRHVRMy1vTWpqenhzanVUWlNDblF0ZWpLR1BSd0dGUlFuYVV6bkRHNFV1cE5KekwxR0hjVFB0YXN1MVJxQXNuY2JuQTNNby1iT0cybHowRGRVMkxVRTRidnpjQ3hDYkh0LXo4cGhrZGc4bHQ1OTVhTV9FcDFydndOclpDQjYzcjJJWFdHZ0s0TWxWcFFoa0xOQVBzRVZSS0N5SWlvZw?oc=5"
     },
     {
       "title": "外交部政務次長吳志中設宴歡迎以色列國會跨黨派議員訪問團訪台",
@@ -53,28 +65,16 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfNFhHOWZ0RFN5Y2JwbmhNaGFualRsSE1XNndoYlJ0NWpGT2lNbE9Lb0FMbnNwMnE5NGxySmExbkZhMm9ST0NwcXdGd00tZ3lp0gFWQVVfeXFMTlNldTBHNU1pYlppRHFQRGtvYkdvQmdveXRtdzFCaG9jaVY1OHNsYTRIcFFrYWp3dmJJbUJXZ2dOQkx4alpXLWxEUVVoS0RqQ09SZ19Mbnc?oc=5"
     },
     {
-      "title": "瓜國衛生部長訪台！林佳龍： 邦誼落實在合作",
-      "source": "MSN",
-      "date": "2026-07-01",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNTTB3WFVpa0tDVmdhTlBKMUx4dFFzd1Q1d1hla1VZY3pOSU1jNVpHaUhIbEQzMS1nMEppeklqNkJQZ2JPN2tZVnBvQi1lV0NvVFZ6ZW1rRkxPbmttRU5EejRLRGRoWVRCMjlNM3ZrdTRidjl4UTVwWktvZlh0NDRqX0o5eHI4eXZXb1Z2V0ExQi1UMHRUS19oeFZ0Qm1mc3lQMWlDeUtoT3JDci1aa3BpUXFILTFZWnJkYTZrdGdHTTJZQWg4Q1V1NExDUllWNmlleGRTbEF2dGRzVk9JMHVSME9MRTRTRmZFUlZrNXlhVVRlMW1SdHpydHh0c2pjREVfX3ZGMXU2ZENIQnRXbXlrcE9CV0RUWlpDWThfaHZFS25uTlRNeURYM3N3YjBEenRiNk1WNEc4T2ROTzNR?oc=5"
+      "title": "外交部歡迎澳洲塔斯馬尼亞州及維多利亞州訪問團訪台",
+      "source": "mofa.gov.tw",
+      "date": "2026-06-30",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uMW91RWxsQ1lycEZPWVJScVVYNk1pQmo1UU1HRzdjSllncUc0QUlzT1h0TFVCVTIxc2tURFRSSFBNeGR2dTF6bWJ2QS1OQkJXV29kbDlqcTZjejM0T2cyLXpMZjVIdw?oc=5"
     },
     {
       "title": "瓜地馬拉衛生部長訪台感謝台灣長期協助| 政治",
       "source": "中央社 CNA",
       "date": "2026-06-30",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Zb1BBU1JEMWRSSmpBU0p5MmhmZ2pSNGpKYjlsOXJ1cWN5QlpnZDZlbDAtM1NTUUpkTk82Z0VWcXB3RmxBZTNWQkx3eTMyM2VNbHJ5ME9rSDZEdm5nMFlN?oc=5"
-    },
-    {
-      "title": "馬紹爾外長訪台 外交部：台馬邦誼深厚",
-      "source": "rti.org.tw",
-      "date": "2026-06-30",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tczhVMjlYSnIzQTlPa09zdzF0aUM4LUFpdUJYRVJSR2xwaVdaUkJyTjZLYURiNEZxQjlCRGJuYkVrSmN2T3hFa3hWcW4wQXpHLXp2UFZRTQ?oc=5"
-    },
-    {
-      "title": "瓜地馬拉衛生部長訪台 林佳龍：盼深化台瓜公衛醫療合作",
-      "source": "經濟日報",
-      "date": "2026-06-30",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzRzlFMC1BZWM1UWZ3VG9RVl81dDhDSk4wOUUzNkV0aFRfcEt2S1hPWDZnUXVEVy1Pci0teWduMlNnc3JZU2F1U3RUNnI1RjVsbDM1V1JuWDl5c3PSAWBBVV95cUxPdkpITHdhRmkwTm5ubGN3QnQyQzdHSVlYcjlQWmZGX1hxNTJyd0JXVDBvZ0xUcnFXVlp5Y1VENURlRFphR2d2M0FsdzdWeGE2TDl5NkZpRVRqbHhKRjlzV08?oc=5"
     }
   ]
 }
