@@ -1,26 +1,32 @@
 {
-  "updated": "2026-07-10",
-  "lastChecked": "2026-07-10T23:03:13+00:00",
+  "updated": "2026-07-11",
+  "lastChecked": "2026-07-11T22:56:29+00:00",
   "windowDays": 14,
   "count7d": 12,
   "events": [
+    {
+      "title": "巴拿馬議員數月內三度訪台！林佳龍盼攜手半導體、AI等領域合作",
+      "source": "NOWnews今日新聞",
+      "date": "2026-07-11",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9naVVkM3N4REVBdHhJd19YTG1SaDRpVFQ2amVTaVZyWTJsZTNIc3NSaWNkLVU4ZFZxUEhwd19JTmV1bGxyenRia2tiUGRGRGdDZlHSAVJBVV95cUxPZ2lVZDNzeERFQXR4SXdfWExtUmg0aVRUNmplU2lWclkybGUzSHNzUmljZC1VOGRWcVBIcHdfSU5ldWxscnp0YmtrYlBkRkRnQ2ZR?oc=5"
+    },
+    {
+      "title": "歷史上的今天／1961年泰國官員率團訪台觀摩農業建設| 圖片故事",
+      "source": "聯合報數位版",
+      "date": "2026-07-11",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VUXA5N1AxOVhrYUNWekRnM1JUQkRFVldDWTRGNXNsMkR1aXVzekMtQWVPN3lJa3ZzRTMxNGhCNnJRSXFPdnZ4MWlLcnhkenFLQkh0eUNkWQ?oc=5"
+    },
+    {
+      "title": "頂住中國施壓！巴拿馬1年3度派團訪台 林佳龍揭密驚人台巴經貿",
+      "source": "三立新聞",
+      "date": "2026-07-11",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBITGw2ZFdiQ1JMX2dqWGJEcnR3UWhYME9aVWhoUnhOdnhuYTJHVGpMVmVMQ0NoUjNEZmRVWUZGUUM0cUk5NmJhNdIBTEFVX3lxTE9zVFN5Z3JWNF9BM0JWU0cybnhyV3VweU1scU1LNHBCT3ZmQWxTSGtaU3RyUHhSZnhrTGw4eUJDcTFOZFRkRzJmb2lLWUI?oc=5"
+    },
     {
       "title": "斷交9年為何一直來？巴拿馬議員頻訪台 背後藏台灣經濟實力密碼",
       "source": "自由財經",
       "date": "2026-07-10",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pMFZOUldud2JZNlhsWXpmNXdsSUZ4aHMtZmJsS2pMV2RjUUw1a25LYW84VUJGT0J2cU9tU3Z0Y3hwb2RMUmtPdlZlY3hDVG1vZnZ3SjVKUWJTaXpyanhv0gFkQVVfeXFMUE5TTWRfTmtWZVpXUjNVbTkzMlFjQlJLQW9VM0tUQWtfSEtlQVROMHJBdXBTRDlQUGR0V2NKcURhUERKSVpXVmt3aE9iVVJMTkM4cm4tV3pDdy1FdVVoZ3lZM2QtZw?oc=5"
-    },
-    {
-      "title": "荷蘭國會團24日訪台　荷媒：支持民主重要信號",
-      "source": "三立新聞",
-      "date": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5hZ012TEtJS05JU1VUOElSTVgyMVNiNHFpZDE3di1BY3l1NU9ycG1ENHVWY0U1bUV0dGRMNWx3Ni1BUTVnLTFB0gFLQVVfeXFMTWtlTG9SRjBGOUljcnB6ekNSR05IWHZVUDh5MTRUbS1ycnhiRTdVUEh3MXUwWk5PSWFEbFFkd0RvcDU4VndJTGV4UFBz?oc=5"
-    },
-    {
-      "title": "快新聞／巴拿馬國會訪團訪台 林佳龍：盼深化台巴經貿合作",
-      "source": "民視財經網",
-      "date": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBITVZPWUdwZGtZOWpFTmtpVmFZZEppc24tc1JOOTlFYUMxN296M0xtQWgyVEFrbzJHRjZpd0NFYXB1T0g2bzh3MnFjblY1cjNtMmctbjYyR09BeTdMenp5VWpMY2d3Zw?oc=5"
     },
     {
       "title": "進口白蝦佔4成！巴拿馬國會訪團訪台 林佳龍：盼深化台巴經貿合作",
@@ -29,16 +35,16 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93NVlqNDlfZ0NRRGl5ZzhXLWtGS3lhYUYyeGRYQ1JxeWlqcUNhY1ZFclRrck9KdldTMlh3VWVLYVhzQm1qcTJJSml5bUJnZFUtNWdFeXRPa0p6cUM4bVVYYUxreF9yN2FkY0HSAW9BVV95cUxOZ0JPOFpseFRVRE9zNmZTRWMycFVVTXUtV3F1emJTazA0ektRSnhodEdsbmtpQ3VIdFo4dlZMaEx5X2ZNOG16NlI5b3dIVW5WUXQtLWxqcF9qN2FOV1hFeHlPWmRfc0hYa0lRc081UjA?oc=5"
     },
     {
+      "title": "快新聞／巴拿馬國會訪團訪台 林佳龍：盼深化台巴經貿合作",
+      "source": "民視新聞網",
+      "date": "2026-07-10",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UYl9aRDBCYi1qRmpxM1FKbHozdzUtalZvZWxKaHBWMUZzeHAtUld4NTkzanA3Mjg4QVp5aFZuMmE1VXlqQVA0NzBRSDNUTVV0WDdEaExlanBncXk5NV9wRg?oc=5"
+    },
+    {
       "title": "巴拿馬國會議員訪台 林佳龍盼支持友好互動",
       "source": "on.cc東網",
       "date": "2026-07-10",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWDB2cHpfazRYRW9RczVSSWEzdEh6cnJQenNUVHVoa3hIeGZNQzMxN3dxU3VXT01ua2luZ3dNeTR6NEY1SlZseFFMdjJYOU03QW5mOXVKVWEzWjE5eFktekN6aUlsV25SeGl2LV9tWFdPZXcyTDU2VHRGMFh6ZUhhdldkWVlLeEJEcnYw?oc=5"
-    },
-    {
-      "title": "巴拿馬國會訪團訪台　林佳龍：盼深化台巴經貿合作",
-      "source": "鏡週刊Mirror Media",
-      "date": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04R0hVdmN6THFuOWQ3TFNxbFFFNkhGZExLdHQ4VlFLUFpWLXlWeWdiRVo4T2l2ZC1mTXF5bnYyYU1seFVhOC1KUFNOcHloaUhGUzVZc0JzZEtOczhGbmNWV1dOQ1Iwa0R60gFoQVVfeXFMTThHSFV2Y3pMcW45ZDdMU3FsUUU2SEZkTEt0dDhWUUtQWlYteVZ5Z2JFWjhPaXZkLWZNcXludjJhTWx4VWE4LUpQU05weWhpSEZTNVlzQnNkS05zOEZuY1ZXV05DUjBrRHo?oc=5"
     },
     {
       "title": "《台旅法》最大推手、美眾議員羅伊斯訪台蔡英文明天接見| 政治",
@@ -53,28 +59,22 @@
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBGeVFaSElhOF92czlHRnA2aEJPOVNyclRNQVZiaVFpTFpnMTJTUnV5RVlkLWE3aVV3MjJZX3lXNVJ3Nnp1dGpn0gFLQVVfeXFMTjYxRktoRkg1QzA0Yk5CeTVtWWhqSVFpdDlaTjFrN0JGWl9zZVU1azNPaFJUZExPdjQ4VkpRbnpIN2hCTkpJN01wMTVN?oc=5"
     },
     {
-      "title": "捷克參議院議長是否訪台　外交部持續追蹤了解",
+      "title": "加拿大議員莊文浩無懼中國威脅 訪台晉見總統促團結",
+      "source": "MSN",
+      "date": "2026-07-10",
+      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOeUR6SEtCX2Z6M2dEREpVU3VEeHk4TXh2RjRTTlJadFdHYVVVblV6X0lKa0pzeTVWV2VzekoxWWlQd2xGM0hWUmZCcTlzSDQ4SDJtY1RrdjM5OGM1Wl9Sa0ZNcTIzalR0YmZLNGJyN0MxbWdyeGNYTzdQWGRlM1BkTjhuWTd2UWw4MmJRRHg0TTk4RWdUZWxJRzZIbER6T0RsTl9ZT0IzOEgycl93b3NrVEFmZE9ZLUJxdlZMQlJ6VE1SZmdQWjZpUmhPeGxqR1RCYW9tODlHeF9BaURUbEFqblRJTTRVNTZQVWtfRUZDVk5OVFpzZUY5N09xbUdwVm41cXNubXVsdDNiQTFOQzRZU1lvdzMxTllxS3F0Ykt4dU94eWMzTE14WDg3MlBwQkdYU1VvbFM3VGFXbmVwdFRQS0lmYXVubWlCc0p2Tzg5Q3BFNnp1akVVbWNaN0IwY09ReXE4TldnLWRHUVZiMC1RbURzdjB2dw?oc=5"
+    },
+    {
+      "title": "佔台灣進口白蝦4成！巴拿馬5國會議員首度訪台　林佳龍：持續深化合作",
       "source": "三立新聞",
       "date": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE45bUEyOU9VSHlyYnVNU0JHUjlJa0VBV2JQM2N2QU9OUmFhTl9WSTN5bDVWU09TVmhZdGswYnk1Z0VQVVVCbTRR0gFLQVVfeXFMT0ctN05zeU5qSkstMERrdGFDcU9qQTYxLUVER0NDeUJEWk90SHpXMEp4TFJoakgzc3VsRVhmTlI1YllnTno2TDBHRmJJ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBDWnNwSkNhX3l5b3p0cTBBLTNQNmdVSXFFV3pQRnBld0lvSGxyUmdWZkxkMEhDT2ttTzl6NVJqN2p1RHV1a0g5a9IBTEFVX3lxTE8wWXRmWFo1aHJwZUptQXlFSGFqbXdXaV9GeG5kUlo3YnNzeUJMSWNYZmxPN1lPazlhdHpIa3FmeVZNd1RBQ3N6TUs5T2c?oc=5"
     },
     {
       "title": "快新聞／中國想搶台灣「這友邦」失敗了！訪團來台打破斷交謠言 還簽署1協定",
       "source": "民視新聞網",
       "date": "2026-07-10",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Tc2tNUW9tZHhEbVRVQkM1cHJ6ZmFRRTNKTUNwUWFlYjVBZlB3M08yR09wLWJtSTZ4eGFxVVM5cml1T0VjamViSWk4V2YtQUxyX29YOW1qQXd5WVhXV3pKZQ?oc=5"
-    },
-    {
-      "title": "歐洲國會幕僚團訪台　吳志中：台歐捍衛民主價值",
-      "source": "經濟日報",
-      "date": "2026-07-10",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtUEtudHZNTzFnTUJRU1k3d1RfX05fZmhLWTh1TWxHVElYNzA3XzAzdjdCQVJiQTN2RTJPYUd0c3hzemtDeXIxbWx2dlVXUk1Ha0xRYy1YZ21jdG9TQWtpVV92M3lyY3MyZ0QyOERjM1pSVWF5d2ZwRUIzY9IBX0FVX3lxTFAxa1VsMnZkRnVWMTlUSWFxaUhVdjJpXzJfd1dqVWVBbWs3X2FkbXBSbG93QW96NTZ3MC1MV1lFWm84YjNXTlRxamkxSlBPUEVoOWlvWTIyc1JZbjk3QzNr?oc=5"
-    },
-    {
-      "title": "「瑞典國會議員協會」副主席率團訪台　蔡英文23日於總統府接見",
-      "source": "三立新聞",
-      "date": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mNWhMUXpHNGRRUC1yd3QxYV9obkxDYVJqcXB2X0pNWEN0X01wdjRMVGtMQmxvajJYTUxNYlNjblNBYVN5LVhSbdIBTEFVX3lxTE5DaDRkbHFNWWNiMHdoWWpla1doaHFHM2hQYnc5VHFCbkJIMmV4dnNCdTNOSWRaUUhDempMVUZaMUc2eFRXRThIOE5xdzE?oc=5"
     }
   ]
 }
