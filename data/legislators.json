@@ -1,19 +1,10 @@
 {
-  "updated": "2026-07-14",
+  "updated": "2026-07-15",
   "term": 11,
   "totalSeats": 113,
   "source": "立法院公務出國報告 + 公開新聞整理",
   "sourceUrl": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=42408",
-  "abroad": [
-    {
-      "name": "韓國瑜",
-      "party": "中國國民黨",
-      "country": "美國",
-      "purpose": "國會外交！率朝野立委訪美 韓國瑜行前談話 - 三立新聞",
-      "departed": "2026-07-09",
-      "returns": "2026-07-14"
-    }
-  ],
-  "lastChecked": "2026-07-14T23:01:15+00:00",
+  "abroad": [],
+  "lastChecked": "2026-07-15T23:02:16+00:00",
   "abroadDetected": 0
 }
