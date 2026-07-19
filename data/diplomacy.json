@@ -1,20 +1,32 @@
 {
-  "updated": "2026-07-18",
-  "lastChecked": "2026-07-18T22:56:06+00:00",
+  "updated": "2026-07-19",
+  "lastChecked": "2026-07-19T22:57:49+00:00",
   "windowDays": 14,
   "count7d": 12,
   "events": [
+    {
+      "title": "外交部歡迎「加拿大聯邦參議員訪問團」訪問台灣",
+      "source": "mofa.gov.tw",
+      "date": "2026-07-18",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jbXJHOGppVkt0NmxpeVVaVGM1Ym5YR1lySHk4UXR1WG1oZGFvaE16SC15V3FDaW5ZMkpSMjZxbE1xazI2dFJrUVM3N1A2REZwVmFEQnFCTnNaQ3NaQjlFS2FvbF90QQ?oc=5"
+    },
+    {
+      "title": "快新聞／愛沙尼亞國會友台小組訪團訪台 林佳龍：共建韌性民主供應鏈",
+      "source": "民視健康長照網",
+      "date": "2026-07-18",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qOHBsVEtpMXhqTGZkY21RUlFsWl9iUExHTzJHWGNrdThPVDRmcHBjOWhadHJrY3Q3ejdIWFNsdlF4NlVXclhzcWFobGRNMmluZEIta3E0WWpiZE1TZG1hQzhCWW4?oc=5"
+    },
+    {
+      "title": "外交部長林佳龍誠摯歡迎美國懷俄明州州長戈登率團訪台",
+      "source": "mofa.gov.tw",
+      "date": "2026-07-18",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TV1FzUUZ3NkNPUnFvSEhZd2F6djRxYW5RNmVXM1RnbE1QM1oyNXJSRzJlLTAxWnA4LU9UUUdySTZ0dUp0cjNQZ3U3SmFmTXpqMnRXaXFPZUUwTEoxYUZOLXlEZFJRZw?oc=5"
+    },
     {
       "title": "大規模詐騙還挺中武統！林佳龍曝停柬埔寨來台免簽原因",
       "source": "東森新聞",
       "date": "2026-07-18",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50bDhMMGpGVWtZeEJvS1R0MWhSbUF6VWNDcno4ZlMwRW1WbExsWHhGbFFSOGxZWjB4bkN3MExZb3BOSzdqOWlaSjc0SzdxclpiQldfMThMNA?oc=5"
-    },
-    {
-      "title": "停止柬埔寨來台免簽！林佳龍指控傷害台灣：大規模詐騙還支持武統",
-      "source": "三立新聞網SETN.com",
-      "date": "2026-07-18",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pNzBTRXlmQWNtRDBxdTlSVk5aNk13RVVjUUdpcXdMd09zTlZFS2UyRGR1eTluZWpydW0yRmhrQTU1ZHI3V3BhUdIBTEFVX3lxTE5kTlRnQ1NaQW1OV0JrNXlqdkhKemRaZk1IazRTWjRJSlcyZEgxWVRZeFNMZ29ESGFrLVlpQ0N2cG1OVmo4blhObE1nVjc?oc=5"
     },
     {
       "title": "愛沙尼亞國會友台小組訪台 林佳龍：共建韌性民主供應鏈",
@@ -29,16 +41,22 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcThCQ2UzeTF6bWlvd0ZGbVdWdUFBOU1JSXljRW1FVzE0QjBoRDZCVF80d25JS1VmbnRyNFZLQXVsek5zSTJ5bHdtNHFFcVhoQmN1ampUTVE0c2Jfc0JOYm5xTm9WNjRpMnZLeEpSOUZMX3FrRU5GZGItOFE0bFkzQdIBX0FVX3lxTE1fM2J0bXZlYjZRNjQ1YWF6UEpqbzJBRU5WRzFlaFNhdmpTaUFGLUR2UU5RZnF6VWRrR2tvOHlsTHNTUWZIYWVLR3JXUHBNM2ZXczhwRUpEMk5LeV9jZUFN?oc=5"
     },
     {
-      "title": "歐洲友好國家＋1？斯洛維尼亞執政黨率團訪台林佳龍設宴款待：務實合作重要一步| 鍾秉哲 | 新聞",
-      "source": "風傳媒",
+      "title": "不畏中國壓力　加拿大國會議員10月率團訪台",
+      "source": "三立新聞網SETN.com",
       "date": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1uXzIyTFhqQzVjZUVWcklNNWRlUlVvd2Z0STc0eWdtUzhkNk1JQkJWUEhrWUQweFFOeFIwRXlsbGZ5QnY5VFNtRGpoUzJadw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ULVhRUzlNaUY2cXpaclRHczQyemotQUc1MXp5Z1M3bmxiejBiTTNuSnB3UHNGd21hdG42WE16TjNZcmNjNmtfYdIBTEFVX3lxTE1HNkRmOVg4TlVpZE03RGc1TGJub0lvR2J5SFM3NG9VX2pfT082N25lZU5NMXNLaEs4NmZNX3FkekxKWWRzZldHYmlQa1A?oc=5"
     },
     {
       "title": "外交部：8/1起停止柬埔寨來台條件式免簽| 政治",
       "source": "中央社 CNA",
       "date": "2026-07-17",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MLS0zNG5BWWtrSmROc05YVUYzQmN3OGlBb2pQOU8tTnVtTnhldm5MV1lZMGJWYzdiMGZBc2NCSi0wbXFLUlNpNjJLME5ldHBBRmVaREZRdWphRHR3TzBj?oc=5"
+    },
+    {
+      "title": "外交部長林佳龍午宴歡迎斯洛維尼亞國會議員齊安亞率團訪台- 政府消息新聞- PChome Online 新聞",
+      "source": "PChome Online 新聞",
+      "date": "2026-07-17",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVXo4ek5LWjQ4STBDTVM5eWJPamlhLTlNeEF3VXJ2UTljbFEwcDdsVl9hZjR3UjlCUzdldXM3d3VNZUh4Z0dlRXJCMDVMOWFINEtVU0N2cmloTk5ySzlWa3BCMHJkZlpCcTlKV0d2X2dYUE8yY3phdUlELVNQQzZjUnlUa2pvQQ?oc=5"
     },
     {
       "title": "外交部：延長試辦泰國、汶萊、菲律賓來台免簽至2027年7月底",
@@ -57,24 +75,6 @@
       "source": "三立新聞網SETN.com",
       "date": "2026-07-17",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA4bnllNUJySnJCd3JEejVNeDF6Zk5oNkdIRnpRb0h2cnNuMUcxeFJKTDVFdkpXY2VjT0ZPQUM1RkRLOFBPaW1veNIBTEFVX3lxTE5rWHVzSUtUM09pbUNLRjJ5QXhfWHhEa3o1UVpZUlRDcWV6WDV1MnRpYjhNQzRNejZGU1BsSFJwV2VvUU1RWUZ0aElrQUM?oc=5"
-    },
-    {
-      "title": "外交部歡迎「加拿大聯邦參議員訪問團」訪問台灣",
-      "source": "mofa.gov.tw",
-      "date": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jbXJHOGppVkt0NmxpeVVaVGM1Ym5YR1lySHk4UXR1WG1oZGFvaE16SC15V3FDaW5ZMkpSMjZxbE1xazI2dFJrUVM3N1A2REZwVmFEQnFCTnNaQ3NaQjlFS2FvbF90QQ?oc=5"
-    },
-    {
-      "title": "外交部長林佳龍午宴歡迎德國國會友台小組跨黨派議員訪問團",
-      "source": "mofa.gov.tw",
-      "date": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzY2tXVkkteGRZdTRSSzg5NzB6N0R6ZHVOYU1kQTd6Q2c4S3hSMEpGX3B6NmhmeVpXanpvN3lHdWVZZTAzNy1Xd0Jtel9FMkJlbVFLSlRobV9wLWZPYnNsZnoyaFViQQ?oc=5"
-    },
-    {
-      "title": "外交部誠摯歡迎捷克參議院議長韋德齊率團訪台",
-      "source": "mofa.gov.tw",
-      "date": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqUk9fUVplay1JQk40QTI1LV90aTBiNEwxMERndlpPZkZjMHA5bzhRWnlsSzZDYXh5M3JDSmVndVQwT1Z4UHB1cERnRmp5UVpSSHBNWG83Y09xUlV5VGxCUnVqSjVJQQ?oc=5"
     }
   ]
 }
