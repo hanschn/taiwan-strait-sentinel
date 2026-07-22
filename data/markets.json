@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-07-21T19:22:31+00:00",
+  "updatedAt": "2026-07-22T02:39:44+00:00",
   "question": "中國 2026–27 對台動武機率",
-  "prob": 0.0924,
+  "prob": 0.0909,
   "spread": {
-    "min": 0.0705,
-    "max": 0.14704296058771466
+    "min": 0.0685,
+    "max": 0.14705571975168572
   },
   "sources": [
     {
       "name": "Polymarket",
       "kind": "real",
-      "prob": 0.0705,
-      "volume": 3094759.881857009,
-      "volumeLabel": "$3.09M",
+      "prob": 0.0685,
+      "volume": 3097761.7804750088,
+      "volumeLabel": "$3.10M",
       "question": "China x Taiwan military clash before 2027?",
       "url": "https://polymarket.com/event/china-x-taiwan-military-clash-before-2027",
       "weight": 1.0
@@ -20,8 +20,8 @@
     {
       "name": "Manifold",
       "kind": "play",
-      "prob": 0.14704296058771466,
-      "volume": 177623.5963023843,
+      "prob": 0.14705571975168572,
+      "volume": 177624.17430781084,
       "volumeLabel": "177.6K MANA",
       "question": "Will China attempt to invade Taiwan by the end of 2027?",
       "url": "https://manifold.markets/MarlonK/will-china-attempt-to-invade-taiwan",
