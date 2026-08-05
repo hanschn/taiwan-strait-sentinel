@@ -1,38 +1,62 @@
 {
-  "updated": "2026-08-04",
-  "lastChecked": "2026-08-04T23:08:18+00:00",
+  "updated": "2026-08-05",
+  "lastChecked": "2026-08-05T23:06:14+00:00",
   "windowDays": 14,
   "count7d": 12,
   "events": [
     {
+      "title": "IPAC訪團來台林佳龍致謝：攜手對抗中國跨境鎮壓- 政治",
+      "source": "自由時報",
+      "date": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05ajdIZFpCRkNURlhjR0JNVzRYbEtNZnhFQ1hQZDZXMDQ3bkJwZGljNk9EVnd3eU9GYXBYRzR5cTJ3R1lIRlh1YkI4aDYtaUlCYzVQNXg4c2FqNUdnS0dfV0pQWE1ub2NmSEE?oc=5"
+    },
+    {
+      "title": "外交新消息！抗中國際1大訪團來台 林佳龍親自接見 | 民視新聞網",
+      "source": "LINE TODAY",
+      "date": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13VXN3U1RwbUxWQzlWbHZ6ODlCUUZrUjZoZWJhaEF0MzFlMkYyLWp0WXYtdjNEbkZoRk9xSGllZzVYRnpBMDNpLVFMNG1neVN6cUh5aWVn?oc=5"
+    },
+    {
+      "title": "美東4州議會領袖訪台 康州眾議會副議長：跨黨派對台支持 | 自由電子報",
+      "source": "LINE TODAY",
+      "date": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jUG1abFUzTThPZ2xqZ29OZ3ZTTHhLY0NDakFzZXdaZjJ5S1NFMjJrV05jQ2V5c21kUDJaS2N5Znh1R1Fmcnk4SEFMcTEwODU1emFiU093?oc=5"
+    },
+    {
+      "title": "日本自民黨青年局訪台！眾議員平沼正二郎：誠摯感謝台灣援助熊本震災",
+      "source": "Yahoo新聞",
+      "date": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNUFFmQUdWSGIwSFFIMHoxNUNTdkdKUmYtLXliaTJhSjFCVVE3SXlmdHVrYVQzQXRrUGZ1UjFDRkJaUWRmVTZlakFjSXVmN0FHa1N3dXBSU2JSeG5BYV9PeHJnM1VfZ2NQdzU3ZUhRNDlqVklVdVB4Ql9VT2hzbnhOQVNfX2FwWjRqM21lcU1QNk5VM0FIUV9TUF93ZDV5NmEzeERnRE1NTUM5WHg1QjNyMjd4bzZ2dU1OWW53ZU1SbkNJNlBySXRHdFU3RDFhaUw1V05lSFgwelhmZmtPMzF5MEdGdUlXbXU4WS1URkxuUE5aYTU0d19hVkozSVB3TEZXZU85TDlDQXRPWGx1WDc2REdhNzR6ZGJPZGRwT2ZxMm5PQzRPeVpfY2wtQVg2UEJCSGgzd1cxQlpfMGZuZ2FpVDRIZXhVT29fSFhTd2JXNEZpWE5HOU9JcTdwNXB5WmdJMDVYMVE1U29xODJKOVgzVDBrU1V6QjYzQ2hxenhZZnVLOUNMdURnYlVrSVFwZWdOSTlGTjhGNjhMenBuT0x6eElnOEdDbmw0b0JWSFVtX3ROamtVQ2pxcVNBSG9Hdw?oc=5"
+    },
+    {
+      "title": "外交新消息！抗中國際1大訪團來台 林佳龍親自接見",
+      "source": "民視新聞網",
+      "date": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzTUhaODVYRVVyRnJGRnE3TFFUWVJlbWNJVExZNEsxN2huVHl4Z1JYay1KLUhkYXdvUUplZ08yejB4VVI1SlUyaHpFdUxSeHozc2dXRjBpNE02MGlhSXVwQQ?oc=5"
+    },
+    {
       "title": "麥考爾訪台喊「我愛台灣」預告川普很快會過對台軍售",
       "source": "新唐人亞太電視台",
       "date": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxTWFFbjViY3VaUzhSVzdMOTY5THdrc1pCaER0Y2R3b3J0ajc5SmxMU21xakVqQ0d4ZmpNY2NZWVRFdFhSZzVqUXlKMllyMGZmdlVfaW0tVU5uM3EwWlJnbFJtaFk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQalZkcVRIQVZ4Rm1hTXoxT25uRl9OajM2cTk5dUV6WGNuOWd2cVRBRzNNZVlXaF95LWl1UmhPRWtDR1dZRnlXa1VtWWtkLUR5NFNKdTNJSmtKaXltdXVKMzlBVkdDWTdEYy1NVUVWOVNQTW5RNUhoZjdEZ2xmbDRORmc3YWx6RnEyYmJ4VHg4cW1wWE96cGd5eDZYak5CbVBJSG5uVjQtVHBJZXM1VGswQ2xTVzVvd0dDSnRUazBfeFdvaVkwbWtfSDJMVm1iSUdDZS1ncGFOVkoxLUk5a0x3bnRaWjBVSG8yR0ZRYUR2RzlFeldrZ3ZwMk8xTlVOU0dDTnFFdGc4NHZVN0pNc3E1WW9nZXRWYWVldUFBMEhlbU93YmI0enlfemJLenVYT1MyRDBrZjFFTTd6dGxzS0hoVXFVM2NrMXNySG5lb01wNFo3VUJ5dmJnWWE4NDdpTy0xcy0tWjhHdmJlTkQyRUg2eWxfSUxEakJrV1NBOXZXejJBZXU4d3c?oc=5"
     },
     {
-      "title": "美國會議員接連訪台 眾議員麥考爾：對台軍售不會與中國協商",
-      "source": "Yahoo新聞",
+      "title": "美國會議員接連訪台 眾議員麥考爾：對台軍售不會與中國協商| 政治焦點",
+      "source": "太報 TaiSounds",
       "date": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPdEVkeXdvX25YUmNpc250TUpzb1A3UUd2Z2N5UFJReGoycU40Q2VseXRRNW5JUGVVUlBod04tcGU3UFBhbG9uTk84WUZPcHEtdHlxNC1OVkhPTGZDdmFIS1ppd0VEY2FjQ2RVWk1MZnFqaldnRE1OTEhrY2dTTnFHSHVrMFJ4SGZsd2lfOTZneDhaLTNURThrcG5XM1BhWWdueURKS1dadlRISUxMSVNacVVKa09laERQR2ZsSThXLWNwNmpjcmtaRzV3cUFVVHd5YUJZTkNhV1VzT2lFSTY4UmNWTFp4eWpPa3UtMFZ3a2J0ZXdKSGxkaXBaeUdNRWppNUJ4STlHZDZuNjZ3RlpKLUhDdFZwV0FpaFRHcER0UEhxWWZxR3dTZFZ3OWpEQU85UV9UT0ZVWkNNa3NfWEpzYVBNNVVJYmRYbXl0TEhsMWRHMThwZGFwLW10Q0R0YlhfRWhBY0lKUUhpM0xiRzQ1Vkc1ejhHd1p2NEhCZjFXcnJGdENWOHZkWmNMdm1Tdw?oc=5"
-    },
-    {
-      "title": "吳志中訪馬約特成果豐碩法參議員組團訪台深化合作| 政治 | 要聞",
-      "source": "UDN",
-      "date": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RS3ZXTUVmWENvV2NSbHRqMTlmeklxT3YtWWhCRGRuZTNVSFY2N05pZnk3c09VOHFUMWtwZWFPR24yMFRiYnFSR2VmMUpmSU0t?oc=5"
-    },
-    {
-      "title": "美國會議員接連訪台 眾議員麥考爾：對台軍售不會與中國協商 | 太報",
-      "source": "LINE TODAY",
-      "date": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ONGhIaFBFTU1qbjZpb2hfQzZoZ1N4UEVUQ2ZaZ1JZdlN6VHhvbjR4dFJFNUpJOFlOWEd4eDlTLWFLaEw5eF9oZ3JlY285TkN6Rng0UENR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02by02YXMyLU1HVlAyY1M2M21IVXN5VzVCd1haQ3h0TV91NGR1MUswcjFMdS1JWFI3OThRN1FEMFkwTG1vS1ZlaWpWWUl3WXd0dXhuM2swOUdtYThW?oc=5"
     },
     {
       "title": "吳志中訪馬約特成果豐碩　法參議員組團訪台深化合作",
       "source": "經濟日報",
       "date": "2026-08-04",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CNHVCYU5kMktrU1E5ejFtZzN6ZzV5cTBHQmUtUE12QmQyTjU2QzNRRUl6OHFDendZOTlldjNCT3UtVjhfUlROZ0pXUDA2a2tsa0xiMkpaWDV5UdIBX0FVX3lxTFA0VHMteElkaGdULXhfMTEza0wwVDlPMFI1LVhWOWNLOEJYaWFMZkY5VFY5VG4teFdMX2tfMW5lcXlPcU92d040eFJIY1BZRklCN0NoRDFWYUVseElnVFZ3?oc=5"
+    },
+    {
+      "title": "美國會議員接連訪台 眾議員麥考爾：對台軍售不會與中國協商 | 太報",
+      "source": "LINE TODAY",
+      "date": "2026-08-04",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ONGhIaFBFTU1qbjZpb2hfQzZoZ1N4UEVUQ2ZaZ1JZdlN6VHhvbjR4dFJFNUpJOFlOWEd4eDlTLWFLaEw5eF9oZ3JlY285TkN6Rng0UENR?oc=5"
     },
     {
       "title": "自民黨青年局訪台平沼正二郎：台日半導體、無人機、災防領域具高度互補性- 政治",
@@ -42,7 +66,7 @@
     },
     {
       "title": "破除邦交生變傳言！史瓦帝尼總理訪台表態了 - 政治新聞 - PChome Online 新聞",
-      "source": "news.pchome.com.tw",
+      "source": "PChome Online 新聞",
       "date": "2026-08-04",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTlVwbzdrQzJ4bV9mOTJzOE1rajgxY2tVZDJmTHE2X3p6NnV5Y0dfQUZlUWxZMXJnQVdKd0VySFh0TTlXSUlTb0ktM1lSaWRpRXU0djc2WHRCRDVyZVQ3TVVhdjZ6YWtzVkpVNUV3THBacnY5bkRYZ3lpZGROZlppQmQ4QmtHSUQxWDEwdQ?oc=5"
     },
@@ -51,30 +75,6 @@
       "source": "TVBS新聞網",
       "date": "2026-08-03",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzcUVhSkQ3a2FzU1JIVmFWQTB6WUl0a1hlR2VsMTZmdDdTZ1F4VzlMUUZiTjZvUWx1MnpjcDVsLTlNUVpEdi1FXzZwVUZxd0Vac2VB?oc=5"
-    },
-    {
-      "title": "快新聞／美國「這大咖」3度訪台 高喊台美友好：堅定反制中國",
-      "source": "民視財經網",
-      "date": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41cjlPSlA2UUhZMmVzWVlKcHo5akF5OWZpNElBUm01RmNlc3FvaGZzWGQyX29Ndl9FTXFNTl9TTUZsM1BMRER3QVYzcHVQWEtvOGdhYmlzUUtmS3RTS1RTX21hdUtLdw?oc=5"
-    },
-    {
-      "title": "日眾議員鈴木馨祐訪台 外交部：有助建構友好關係",
-      "source": "rti.org.tw",
-      "date": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9aaXlzVFdZcWt4Rlg5NTZCMF9ZdTlpMlY1WmE3OUt2SndwX0JGRldMMUx3Y0tmcDhJWjZiZVpuZVJKMXBNSjljbTFPam5WWFpjd1RsMDU5UQ?oc=5"
-    },
-    {
-      "title": "日本前法務大臣鈴木馨祐訪台將晉見賴總統| 政治",
-      "source": "中央社 CNA",
-      "date": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lNmd0SUg0dTQtS0pPbU9YX2FYRm5IWWYwTW1MX2poc1Azekp6UG94akR5LThSU2JnYkIxRk5CSE4zai02bVZUTHhqTkFxOEw0U2xWWURuWGdyNGJUay13?oc=5"
-    },
-    {
-      "title": "美「重量級議員團」訪台 賴清德親接見",
-      "source": "三立新聞",
-      "date": "2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ybERYbVpqajZ6ZmloMXFhT3A2cmJRcldzZURnNkhROHJzT1FBa0kycW1icDRfSmFpS3NUZnEwazkxMjVfcUlhR09oMWhXUQ?oc=5"
     }
   ]
 }
