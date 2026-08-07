@@ -1,9 +1,39 @@
 {
   "updated": "2026-08-07",
-  "lastChecked": "2026-08-07T01:30:51+00:00",
+  "lastChecked": "2026-08-07T22:42:37+00:00",
   "windowDays": 14,
   "count7d": 12,
   "events": [
+    {
+      "title": "外交部長林佳龍設宴歡迎美國智庫「布魯金斯研究院」學者專家訪問團訪台",
+      "source": "mofa.gov.tw",
+      "date": "2026-08-07",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oOGI0SnozSUJsLUdTaWdUbHZrTmgwZmUxYWFoRGVNR0haRkktN3ZUREJ4bHN3ejRBcENMYmtoN2JWX0QwLUVvaFZ0RldEYWpGQmZtTDkxMFQxSkRfMWV4NXhzTWxnZw?oc=5"
+    },
+    {
+      "title": "美州議會領袖接連訪台 外交部盼擴大互利共好 | 中央廣播電臺",
+      "source": "today.line.me",
+      "date": "2026-08-07",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CZ0syRTY4Y0RPbW04YmlKNmRjTnN5T1I4WW55Q290aWZKTU9Sc1JvNXVjaG1RRjZmWHVVbVFPV1owMUJtZ1NHSjUyZVFmdWNWWnhaUWdB?oc=5"
+    },
+    {
+      "title": "IPAC訪團來台 林佳龍致謝：攜手對抗中國跨境鎮壓 | 自由電子報",
+      "source": "today.line.me",
+      "date": "2026-08-07",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFk0UzhmXzFaSENBOUMza2tzODhoU3ZXb21pd0FjQmFoYnNpcTZWbjViY2NKRHFMRTU5c0JkdkUxQVN0SU16ZGlYZXF4cEtoZDFVMjg0WW9GWERlMm5Db2VEOU1jVnN5MlFKb0VrVzlocHJTc2lXazVyODhJV0F6djFjRQ?oc=5"
+    },
+    {
+      "title": "美州議會領袖接連訪台 外交部盼擴大互利共好",
+      "source": "rti.org.tw",
+      "date": "2026-08-07",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VbkJyODJka0MybGtrQ2NtWFhpSlZsaTl2X3BhblhQS1phY0lPQUJzWXlnWFBnWGlTa2Fwa01IZElzSDJVZm40d3ZNQlh4dVFrQmIzdFRCZw?oc=5"
+    },
+    {
+      "title": "外交部長林佳龍歡迎德國基民/基社黨國會議員訪問團訪台",
+      "source": "mofa.gov.tw",
+      "date": "2026-08-06",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKNXFyZEJybmZsZko5bk80UFdEUW5PVmRaWUs0ekpsYzQzNWhqVmRxY3FpeG52S2JoMmFGWG9WUUlUbHBuMkJFZUNJWjhTa1JWeEJseEhMYkg2NlR1WGQwRU0teUlFUQ?oc=5"
+    },
     {
       "title": "不僅拜登摯友訪台！美眾議員也向柯建銘透露：盼今年能訪台",
       "source": "三立新聞",
@@ -18,19 +48,13 @@
     },
     {
       "title": "討論牆 | 美國會議員接連訪台 眾議員麥考爾：對台軍售不會與中國協商",
-      "source": "LINE TODAY",
+      "source": "today.line.me",
       "date": "2026-08-06",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QSHZ6X1lzdHlOcTZ5cWw4Y0UwQmdIYmpCbHhkb3Brd1RPVmFRR0ZpNWdrWE9OVVFObG1IZzRJc2ZweFB1QXh5TUY1RmYtNlhta21tY2hWeVRkejBxUjg0eFBZekQ?oc=5"
     },
     {
-      "title": "IPAC訪團來台 林佳龍致謝：攜手對抗中國跨境鎮壓 | 自由電子報",
-      "source": "LINE TODAY",
-      "date": "2026-08-06",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SeWt4NkFrUHd3OWN1TVdWZmRfaVJ5TklqVDBDVmxOaTdnUHpSazVhZFQ3VW02clozNXV4Nm9KbmVNZWZ5WFB2RTJkOFlmcWUwb05raGtn?oc=5"
-    },
-    {
       "title": "紅媒造謠糗翻了！驚傳中共想搶我國1友邦 總理竟親自訪台狠打臉",
-      "source": "ftvnews.com.tw",
+      "source": "民視新聞網",
       "date": "2026-08-06",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkTHg3MFJRb3N0TllVZzhrRjc2RlhVMXRFQk9BSl9ZT0ktd3RiZG43dk8xc1RmaXA1TmNBdzRqYWtsSy16aGtCT1ZlcFVCZHE3c3ZYdUZQRTFqNndYd0Z1VQ?oc=5"
     },
@@ -41,40 +65,16 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05ajdIZFpCRkNURlhjR0JNVzRYbEtNZnhFQ1hQZDZXMDQ3bkJwZGljNk9EVnd3eU9GYXBYRzR5cTJ3R1lIRlh1YkI4aDYtaUlCYzVQNXg4c2FqNUdnS0dfV0pQWE1ub2NmSEE?oc=5"
     },
     {
+      "title": "快新聞／外交新消息！抗中國際1大訪團來台 林佳龍親自接見",
+      "source": "民視財經網",
+      "date": "2026-08-05",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yNmNyN0dFbDdVS1JsdHA1QmxGSk5vRGw0eDNyb1AtbHBYLTRBR2xrUEs3REZGVE5ibjhGbXg4eG1hREhSUmhPYUVmX1E2OHVvcUo5VGFhNEYwci16TVhTSU85czFodw?oc=5"
+    },
+    {
       "title": "美東4州議會領袖訪台 康州眾議會副議長：跨黨派對台支持 | 自由電子報",
-      "source": "LINE TODAY",
+      "source": "today.line.me",
       "date": "2026-08-05",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jUG1abFUzTThPZ2xqZ29OZ3ZTTHhLY0NDakFzZXdaZjJ5S1NFMjJrV05jQ2V5c21kUDJaS2N5Znh1R1Fmcnk4SEFMcTEwODU1emFiU093?oc=5"
-    },
-    {
-      "title": "日本自民黨青年局訪台！眾議員平沼正二郎：誠摯感謝台灣援助熊本震災",
-      "source": "Yahoo新聞",
-      "date": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNUFFmQUdWSGIwSFFIMHoxNUNTdkdKUmYtLXliaTJhSjFCVVE3SXlmdHVrYVQzQXRrUGZ1UjFDRkJaUWRmVTZlakFjSXVmN0FHa1N3dXBSU2JSeG5BYV9PeHJnM1VfZ2NQdzU3ZUhRNDlqVklVdVB4Ql9VT2hzbnhOQVNfX2FwWjRqM21lcU1QNk5VM0FIUV9TUF93ZDV5NmEzeERnRE1NTUM5WHg1QjNyMjd4bzZ2dU1OWW53ZU1SbkNJNlBySXRHdFU3RDFhaUw1V05lSFgwelhmZmtPMzF5MEdGdUlXbXU4WS1URkxuUE5aYTU0d19hVkozSVB3TEZXZU85TDlDQXRPWGx1WDc2REdhNzR6ZGJPZGRwT2ZxMm5PQzRPeVpfY2wtQVg2UEJCSGgzd1cxQlpfMGZuZ2FpVDRIZXhVT29fSFhTd2JXNEZpWE5HOU9JcTdwNXB5WmdJMDVYMVE1U29xODJKOVgzVDBrU1V6QjYzQ2hxenhZZnVLOUNMdURnYlVrSVFwZWdOSTlGTjhGNjhMenBuT0x6eElnOEdDbmw0b0JWSFVtX3ROamtVQ2pxcVNBSG9Hdw?oc=5"
-    },
-    {
-      "title": "日本自民黨青年局訪台！眾議員平沼正二郎：誠摯感謝台灣援助熊本震災",
-      "source": "三立新聞",
-      "date": "2026-08-05",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9UZElIWHFVN3JXbEU5R3czVjJ0bm1DdFZiNDFHZUs5bTdLSV9maHNXZm1hT3AxbzVabTBvNU1lbk16ZWFOR25UeGZvRnDSAUxBVV95cUxPVGRJSFhxVTdyV2xFOUd3M1YydG5tQ3RWYjQxR2VLOW03S0lfZmhzV2ZtYU9wMW81Wm0wbzVNZW5NemVhTkduVHhmb0Zw?oc=5"
-    },
-    {
-      "title": "麥考爾訪台喊「我愛台灣」預告川普很快會過對台軍售",
-      "source": "新唐人亞太電視台",
-      "date": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQalZkcVRIQVZ4Rm1hTXoxT25uRl9OajM2cTk5dUV6WGNuOWd2cVRBRzNNZVlXaF95LWl1UmhPRWtDR1dZRnlXa1VtWWtkLUR5NFNKdTNJSmtKaXltdXVKMzlBVkdDWTdEYy1NVUVWOVNQTW5RNUhoZjdEZ2xmbDRORmc3YWx6RnEyYmJ4VHg4cW1wWE96cGd5eDZYak5CbVBJSG5uVjQtVHBJZXM1VGswQ2xTVzVvd0dDSnRUazBfeFdvaVkwbWtfSDJMVm1iSUdDZS1ncGFOVkoxLUk5a0x3bnRaWjBVSG8yR0ZRYUR2RzlFeldrZ3ZwMk8xTlVOU0dDTnFFdGc4NHZVN0pNc3E1WW9nZXRWYWVldUFBMEhlbU93YmI0enlfemJLenVYT1MyRDBrZjFFTTd6dGxzS0hoVXFVM2NrMXNySG5lb01wNFo3VUJ5dmJnWWE4NDdpTy0xcy0tWjhHdmJlTkQyRUg2eWxfSUxEakJrV1NBOXZXejJBZXU4d3c?oc=5"
-    },
-    {
-      "title": "美國會議員接連訪台 眾議員麥考爾：對台軍售不會與中國協商| 政治焦點",
-      "source": "太報 TaiSounds",
-      "date": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02by02YXMyLU1HVlAyY1M2M21IVXN5VzVCd1haQ3h0TV91NGR1MUswcjFMdS1JWFI3OThRN1FEMFkwTG1vS1ZlaWpWWUl3WXd0dXhuM2swOUdtYThW?oc=5"
-    },
-    {
-      "title": "吳志中訪馬約特成果豐碩　法參議員組團訪台深化合作",
-      "source": "經濟日報",
-      "date": "2026-08-04",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CNHVCYU5kMktrU1E5ejFtZzN6ZzV5cTBHQmUtUE12QmQyTjU2QzNRRUl6OHFDendZOTlldjNCT3UtVjhfUlROZ0pXUDA2a2tsa0xiMkpaWDV5UdIBX0FVX3lxTFA0VHMteElkaGdULXhfMTEza0wwVDlPMFI1LVhWOWNLOEJYaWFMZkY5VFY5VG4teFdMX2tfMW5lcXlPcU92d040eFJIY1BZRklCN0NoRDFWYUVseElnVFZ3?oc=5"
     }
   ]
 }
