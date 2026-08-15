@@ -1,9 +1,21 @@
 {
-  "updated": "2026-08-14",
-  "lastChecked": "2026-08-14T22:29:00+00:00",
+  "updated": "2026-08-15",
+  "lastChecked": "2026-08-15T22:27:32+00:00",
   "windowDays": 14,
   "count7d": 12,
   "events": [
+    {
+      "title": "美眾院外委會榮譽主席麥考爾：訪台確認美堅定不移支持",
+      "source": "rti.org.tw",
+      "date": "2026-08-15",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByLXNzaG9rbGdVWVZsVS1oM054U1JWSGJXdFE3UGdUN05TTHVYaEpjUDV3eDNGTExWVEtrend2a1RGYld3d2M5WkdrWnVxV2RCVTJ6NEpkdw?oc=5"
+    },
+    {
+      "title": "美眾院外委會榮譽主席麥考爾：訪台確認美堅定不移支持- 政治",
+      "source": "華視新聞網",
+      "date": "2026-08-15",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RdFpxZ1JwbGV1aXFrc3ZWSG5rejU0bFpHaFQwckFtTW85RXFGdnRodmxxNk9NQUhYTEZleFlmS3RXOGRBOHNLS0lCbS1yMndMbEN0RHozaUhlZEd2QjdPaE84UkJXc1M2M3Q0aE9BeFFFUQ?oc=5"
+    },
     {
       "title": "【涉己新聞】加國西北特區議員團訪台 赴原文會參訪交流",
       "source": "原住民族文化事業基金會",
@@ -23,10 +35,10 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vdDBya0k1OFNYcVhfOWl2cGQtaHBMMTFaVXlaZXFDU01nbXBKOURvRk5FMmRINlBSQ0ZzSXIwRGxXOFJFaFdac1VzUzF2WV9KR3p4TWMzVEZWbU9vYm1uckw3UThNZw?oc=5"
     },
     {
-      "title": "聖文森及格瑞那丁總理訪台持續支持台灣國際參與- 政治",
-      "source": "自由時報",
-      "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5UEZ3aXBUbWpETUdtVzlIZzRYbEFFbERkSUE4MEFlcnY5anRYcW1tWnNOSThYdHMwMWQ0Qk1yUUhGUF8zNE84bmhvUXZnNFY3Qk0zTkR1NVI5ZVpRTm11bmgtTTBDOUU5RVE?oc=5"
+      "title": "外交部誠摯歡迎捷克參議院議長韋德齊率團訪台",
+      "source": "mofa.gov.tw",
+      "date": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqUk9fUVplay1JQk40QTI1LV90aTBiNEwxMERndlpPZkZjMHA5bzhRWnlsSzZDYXh5M3JDSmVndVQwT1Z4UHB1cERnRmp5UVpSSHBNWG83Y09xUlV5VGxCUnVqSjVJQQ?oc=5"
     },
     {
       "title": "外交部誠摯歡迎巴拉圭共和國總統貝尼亞率團抵台國是訪問",
@@ -41,16 +53,16 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16bHhYblMxcjZqVW0tZ1R4LTVmVTdZYlN4RGthNGtWWEpkM3lQNThoZ3RJc183ekZwUXdfb094cUFuZ25LOHdKX2VTZ2d1WXZMdG9fLVF3QQ?oc=5"
     },
     {
-      "title": "澳洲昆士蘭州跨黨派議員團訪台將參訪資通科技、警政建設- 政治",
-      "source": "自由時報",
-      "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRanZqVGo3M1JSS3FWMHJGV1ZkRURDT0VkeVhkX1dYZ1ZhM25NRnBURERiWDNwanlZTE1BSVU3NTZLWldnOW55OVUtbVM4WU9PWEdaM2VTd0xfRHpUMldlLTBja0ZEVUotOHc?oc=5"
-    },
-    {
       "title": "外交部長林佳龍歡迎瓜地馬拉共和國衛生部長巴諾亞一行來台訪問",
       "source": "mofa.gov.tw",
       "date": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3OWFjbi00ODNfRUY1MUFMcUlhX0RlY1BpLWNoLUdwS0tGS29YVVI2VTdjQzB1NEFxT3RJdEU3TFJPWGVackhlX3pyLV9oT3pZRWd3dHY0eF9nZE5EMGo1RHRrT1NCQQ?oc=5"
+    },
+    {
+      "title": "聖文森及格瑞那丁總理訪台持續支持台灣國際參與- 政治",
+      "source": "自由時報",
+      "date": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5UEZ3aXBUbWpETUdtVzlIZzRYbEFFbERkSUE4MEFlcnY5anRYcW1tWnNOSThYdHMwMWQ0Qk1yUUhGUF8zNE84bmhvUXZnNFY3Qk0zTkR1NVI5ZVpRTm11bmgtTTBDOUU5RVE?oc=5"
     },
     {
       "title": "外交部長林佳龍晚宴歡迎巴拉圭總統貝尼亞國是訪問團及巴國企業團",
@@ -59,22 +71,10 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVd1BWODEwVWYxLXI0RVNTWjY1bkstSzdIMHJVVGV0SUQyMWJQSzlNY1MwN3VIZTFXSTV1ajczVjhHcVoyRmp3Tl9XdlRodmc0Tko2Z3ZkOWI5d21LQzhFaXZkMFRtdw?oc=5"
     },
     {
-      "title": "外交部歡迎澳大利亞昆士蘭州跨黨派議員團訪台",
-      "source": "mofa.gov.tw",
+      "title": "摩洛哥人來台簽證喊卡 外交部公布4類例外 - 政治新聞 - PChome Online 新聞",
+      "source": "PChome Online新聞",
       "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3cnBGU2JnTElKU3BsNkZ6VlZnWFU2RmZ3NzZiZ0V2Vl9rVWoza3ZNZ2Z2SnlWQXE1VVpNYnVtMjc1TWNUU2hKOWNXVG43amhSanN5dWRxczFsWkxBcGNBM0l4dExTcFNzWXlKSnJjdw?oc=5"
-    },
-    {
-      "title": "澳洲昆士蘭跨黨派議員訪台瞭解科技能源轉型發展| 政治",
-      "source": "cna.com.tw",
-      "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GeGVndDBvei1SVTQ1LTNaem11UEtZOGJhV0hHVXczNTlDelUxOGt2MVFEOHVXaEFJd0ZjZmZNeGdZbEtOaXNuRlA5dXZZVkFMdVpPcDBjckloTWROMzFB?oc=5"
-    },
-    {
-      "title": "外交部長林佳龍午宴歡迎瓜地馬拉共和國國會議長康特雷斯率領跨黨派議員團訪台",
-      "source": "mofa.gov.tw",
-      "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWTlNyX3o2bnhTLUZMLWdhM29XVDlWQTQwMkZjY2MtVXQ2cFRleW51S1BMT2RtMXJiZ19TU3ZWSGVTREE5UFQxN1ZMWk5PYVdPQ3RpRG9pWXMxUkJXb3BTUmhjTzI0Zw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT3plSHFfN2V3SmVjMEFyT2h0TUtNeUcxMG5YZ3B6QlhaT3R3d2x2Q3FHdGpIakFmZjZQQVRfZXFsOTBNWDhKMWpBalFoLTdfRU9iNENvUVBzQ2pEaW9VM3hTTDZNUjhIMkg3RjJmMWVxQ1Z2R2xZb3pkbmF6MFBnSjV5NFcxWnN0a2cycA?oc=5"
     }
   ]
 }
