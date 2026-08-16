@@ -1,9 +1,15 @@
 {
-  "updated": "2026-08-15",
-  "lastChecked": "2026-08-15T22:27:32+00:00",
+  "updated": "2026-08-16",
+  "lastChecked": "2026-08-16T22:27:12+00:00",
   "windowDays": 14,
   "count7d": 12,
   "events": [
+    {
+      "title": "立法院韓國瑜院長接見美國聯邦眾議院外交委員會亞太小組主席金映玉（Young Kim, R-CA）訪問團",
+      "source": "勁報",
+      "date": "2026-08-16",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rT1JyY1FET1JhSU5aNkxIZ1FFNDZVVEVLYUtWYnpsbEMydG9qejhla05Kcm9PYzZDQ1FsYjJES0ZRT3g1M0lkNk9HYkEyQlpBNjVRamVTc25ZcFlsSVN1OUx6ZUd6ODg0dkRuVUlYWQ?oc=5"
+    },
     {
       "title": "美眾院外委會榮譽主席麥考爾：訪台確認美堅定不移支持",
       "source": "rti.org.tw",
@@ -15,6 +21,18 @@
       "source": "華視新聞網",
       "date": "2026-08-15",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RdFpxZ1JwbGV1aXFrc3ZWSG5rejU0bFpHaFQwckFtTW85RXFGdnRodmxxNk9NQUhYTEZleFlmS3RXOGRBOHNLS0lCbS1yMndMbEN0RHozaUhlZEd2QjdPaE84UkJXc1M2M3Q0aE9BeFFFUQ?oc=5"
+    },
+    {
+      "title": "外交部長林佳龍誠摯歡迎美國懷俄明州州長戈登率團訪台",
+      "source": "mofa.gov.tw",
+      "date": "2026-08-15",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TV1FzUUZ3NkNPUnFvSEhZd2F6djRxYW5RNmVXM1RnbE1QM1oyNXJSRzJlLTAxWnA4LU9UUUdySTZ0dUp0cjNQZ3U3SmFmTXpqMnRXaXFPZUUwTEoxYUZOLXlEZFJRZw?oc=5"
+    },
+    {
+      "title": "傳美跨黨派參議員將訪台「促通過國防特別預算」　總統府回應了",
+      "source": "三立新聞",
+      "date": "2026-08-14",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE42dzRFdVBZMnVDSGJwSm5mb25wa0YxY0FxU0FyNmhQVE9CZW9rNXZ3UjNVNHZKRVFQZEtIMXNnbzJ1WUlwZl8wetIBTEFVX3lxTFBsNVJndVVRQ3dSNkhhYUlPMzdDQmlXLWdjeVZOLUd5QlBKSURsOW9JZDdxWE1aaVU0VHpmZTlQVVQ3cGxlUVZfVzJHM0E?oc=5"
     },
     {
       "title": "【涉己新聞】加國西北特區議員團訪台 赴原文會參訪交流",
@@ -41,40 +59,22 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqUk9fUVplay1JQk40QTI1LV90aTBiNEwxMERndlpPZkZjMHA5bzhRWnlsSzZDYXh5M3JDSmVndVQwT1Z4UHB1cERnRmp5UVpSSHBNWG83Y09xUlV5VGxCUnVqSjVJQQ?oc=5"
     },
     {
-      "title": "外交部誠摯歡迎巴拉圭共和國總統貝尼亞率團抵台國是訪問",
-      "source": "mofa.gov.tw",
-      "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rS25rSnhNelg1R2Q2aHZJckxUWFU0aC1KeFBYUVd2SXlITzhsRjhzTVp5WHoxMlZnZGpfMDJMRlh1OFZaTFFxRjFidW5ZZkN6TGRBeGxlY3VmbWN6XzNKdkNGaUp2QQ?oc=5"
-    },
-    {
-      "title": "深化交流 外交部：邀馬約特省參議員組團訪台",
-      "source": "rti.org.tw",
-      "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16bHhYblMxcjZqVW0tZ1R4LTVmVTdZYlN4RGthNGtWWEpkM3lQNThoZ3RJc183ekZwUXdfb094cUFuZ25LOHdKX2VTZ2d1WXZMdG9fLVF3QQ?oc=5"
-    },
-    {
-      "title": "外交部長林佳龍歡迎瓜地馬拉共和國衛生部長巴諾亞一行來台訪問",
-      "source": "mofa.gov.tw",
-      "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3OWFjbi00ODNfRUY1MUFMcUlhX0RlY1BpLWNoLUdwS0tGS29YVVI2VTdjQzB1NEFxT3RJdEU3TFJPWGVackhlX3pyLV9oT3pZRWd3dHY0eF9nZE5EMGo1RHRrT1NCQQ?oc=5"
-    },
-    {
       "title": "聖文森及格瑞那丁總理訪台持續支持台灣國際參與- 政治",
       "source": "自由時報",
       "date": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5UEZ3aXBUbWpETUdtVzlIZzRYbEFFbERkSUE4MEFlcnY5anRYcW1tWnNOSThYdHMwMWQ0Qk1yUUhGUF8zNE84bmhvUXZnNFY3Qk0zTkR1NVI5ZVpRTm11bmgtTTBDOUU5RVE?oc=5"
     },
     {
-      "title": "外交部長林佳龍晚宴歡迎巴拉圭總統貝尼亞國是訪問團及巴國企業團",
+      "title": "外交部誠摯歡迎巴拉圭共和國總統貝尼亞率團抵台國是訪問",
       "source": "mofa.gov.tw",
       "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVd1BWODEwVWYxLXI0RVNTWjY1bkstSzdIMHJVVGV0SUQyMWJQSzlNY1MwN3VIZTFXSTV1ajczVjhHcVoyRmp3Tl9XdlRodmc0Tko2Z3ZkOWI5d21LQzhFaXZkMFRtdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rS25rSnhNelg1R2Q2aHZJckxUWFU0aC1KeFBYUVd2SXlITzhsRjhzTVp5WHoxMlZnZGpfMDJMRlh1OFZaTFFxRjFidW5ZZkN6TGRBeGxlY3VmbWN6XzNKdkNGaUp2QQ?oc=5"
     },
     {
-      "title": "摩洛哥人來台簽證喊卡 外交部公布4類例外 - 政治新聞 - PChome Online 新聞",
-      "source": "PChome Online新聞",
+      "title": "外交部誠摯歡迎美國中大西洋州議會領袖訪問團來台訪問",
+      "source": "mofa.gov.tw",
       "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT3plSHFfN2V3SmVjMEFyT2h0TUtNeUcxMG5YZ3B6QlhaT3R3d2x2Q3FHdGpIakFmZjZQQVRfZXFsOTBNWDhKMWpBalFoLTdfRU9iNENvUVBzQ2pEaW9VM3hTTDZNUjhIMkg3RjJmMWVxQ1Z2R2xZb3pkbmF6MFBnSjV5NFcxWnN0a2cycA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzSlFyWmhVT252NHp6Z2FDLWJQTjRLLTVxWWhRZEhYM0FaV1h2QVlWc19lbUh0MnJDM1BtU1VURjhKU1NaM2ZEWUYzcDFLdk5Kc0Qtb1BndVJwa21jVDJEQkNUSW55UQ?oc=5"
     }
   ]
 }
