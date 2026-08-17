@@ -1,14 +1,32 @@
 {
-  "updated": "2026-08-16",
-  "lastChecked": "2026-08-16T22:27:12+00:00",
+  "updated": "2026-08-17",
+  "lastChecked": "2026-08-17T22:29:43+00:00",
   "windowDays": 14,
   "count7d": 12,
   "events": [
+    {
+      "title": "外交部誠摯歡迎吐瓦魯國交通、能源、通訊及創新部部長柯飛伉儷訪問台灣",
+      "source": "mofa.gov.tw",
+      "date": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1MUVBbDJzQW1KSUwyNllFNVJ3VW80eUNpY0tKb2ZyZmNOYVFQQ3dWOFdKbmNMX2c2T2ViTHlaNjdPUE5Dd1NqUGM0X3pwS3hNbmxFcVk4Mmw5aVBWQlozUHFiMWkzZw?oc=5"
+    },
     {
       "title": "立法院韓國瑜院長接見美國聯邦眾議院外交委員會亞太小組主席金映玉（Young Kim, R-CA）訪問團",
       "source": "勁報",
       "date": "2026-08-16",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rT1JyY1FET1JhSU5aNkxIZ1FFNDZVVEVLYUtWYnpsbEMydG9qejhla05Kcm9PYzZDQ1FsYjJES0ZRT3g1M0lkNk9HYkEyQlpBNjVRamVTc25ZcFlsSVN1OUx6ZUd6ODg0dkRuVUlYWQ?oc=5"
+    },
+    {
+      "title": "討論牆 | 美國會議員接連訪台 眾議員麥考爾：對台軍售不會與中國協商",
+      "source": "LINE TODAY",
+      "date": "2026-08-16",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QSHZ6X1lzdHlOcTZ5cWw4Y0UwQmdIYmpCbHhkb3Brd1RPVmFRR0ZpNWdrWE9OVVFObG1IZzRJc2ZweFB1QXh5TUY1RmYtNlhta21tY2hWeVRkejBxUjg0eFBZekQ?oc=5"
+    },
+    {
+      "title": "外交部長林佳龍誠摯歡迎美國懷俄明州州長戈登率團訪台",
+      "source": "mofa.gov.tw",
+      "date": "2026-08-15",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TV1FzUUZ3NkNPUnFvSEhZd2F6djRxYW5RNmVXM1RnbE1QM1oyNXJSRzJlLTAxWnA4LU9UUUdySTZ0dUp0cjNQZ3U3SmFmTXpqMnRXaXFPZUUwTEoxYUZOLXlEZFJRZw?oc=5"
     },
     {
       "title": "美眾院外委會榮譽主席麥考爾：訪台確認美堅定不移支持",
@@ -21,18 +39,6 @@
       "source": "華視新聞網",
       "date": "2026-08-15",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RdFpxZ1JwbGV1aXFrc3ZWSG5rejU0bFpHaFQwckFtTW85RXFGdnRodmxxNk9NQUhYTEZleFlmS3RXOGRBOHNLS0lCbS1yMndMbEN0RHozaUhlZEd2QjdPaE84UkJXc1M2M3Q0aE9BeFFFUQ?oc=5"
-    },
-    {
-      "title": "外交部長林佳龍誠摯歡迎美國懷俄明州州長戈登率團訪台",
-      "source": "mofa.gov.tw",
-      "date": "2026-08-15",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TV1FzUUZ3NkNPUnFvSEhZd2F6djRxYW5RNmVXM1RnbE1QM1oyNXJSRzJlLTAxWnA4LU9UUUdySTZ0dUp0cjNQZ3U3SmFmTXpqMnRXaXFPZUUwTEoxYUZOLXlEZFJRZw?oc=5"
-    },
-    {
-      "title": "傳美跨黨派參議員將訪台「促通過國防特別預算」　總統府回應了",
-      "source": "三立新聞",
-      "date": "2026-08-14",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE42dzRFdVBZMnVDSGJwSm5mb25wa0YxY0FxU0FyNmhQVE9CZW9rNXZ3UjNVNHZKRVFQZEtIMXNnbzJ1WUlwZl8wetIBTEFVX3lxTFBsNVJndVVRQ3dSNkhhYUlPMzdDQmlXLWdjeVZOLUd5QlBKSURsOW9JZDdxWE1aaVU0VHpmZTlQVVQ3cGxlUVZfVzJHM0E?oc=5"
     },
     {
       "title": "【涉己新聞】加國西北特區議員團訪台 赴原文會參訪交流",
@@ -57,12 +63,6 @@
       "source": "mofa.gov.tw",
       "date": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqUk9fUVplay1JQk40QTI1LV90aTBiNEwxMERndlpPZkZjMHA5bzhRWnlsSzZDYXh5M3JDSmVndVQwT1Z4UHB1cERnRmp5UVpSSHBNWG83Y09xUlV5VGxCUnVqSjVJQQ?oc=5"
-    },
-    {
-      "title": "聖文森及格瑞那丁總理訪台持續支持台灣國際參與- 政治",
-      "source": "自由時報",
-      "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5UEZ3aXBUbWpETUdtVzlIZzRYbEFFbERkSUE4MEFlcnY5anRYcW1tWnNOSThYdHMwMWQ0Qk1yUUhGUF8zNE84bmhvUXZnNFY3Qk0zTkR1NVI5ZVpRTm11bmgtTTBDOUU5RVE?oc=5"
     },
     {
       "title": "外交部誠摯歡迎巴拉圭共和國總統貝尼亞率團抵台國是訪問",
