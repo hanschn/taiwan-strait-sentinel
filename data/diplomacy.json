@@ -1,14 +1,20 @@
 {
-  "updated": "2026-08-19",
-  "lastChecked": "2026-08-19T22:30:01+00:00",
+  "updated": "2026-08-20",
+  "lastChecked": "2026-08-20T22:32:54+00:00",
   "windowDays": 14,
-  "count7d": 12,
+  "count7d": 10,
   "events": [
     {
       "title": "鄭劍：美政客訪台攫利 台當局幻想依美自欺",
       "source": "中國評論新聞",
       "date": "2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUGliUXo4c1hWa25hcXhBNHdYUnVnSnhBd2ppTV95b0pTeGVsZEkxLUpqeE5Hb2djRWc3VGo2T0Z6WVU3Y1ZFQkVwUlBVSmVjSGllVjFRZlhoNnJGUVg5eFNKXzZwT1NUdjJMLXBPdVFTNkpEQlp3NGFRWldYUDk4UHhZdWpEU1k?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54Rnh0ejVnWXhoYTRNeUFQSU9rZG5TTmlYM3VTMndKRU9CMzdJWmNEb2tHOElYaDUybllKZHBlRkpfSnphWlU3TGlrSDdhX2diSlhMemhTTmpfemV5VjdoMkkxSUF2UFRubGdmZg?oc=5"
+    },
+    {
+      "title": "巴拉圭議員亞諾今率團訪台　外交部：彰顯不分黨派對台灣的支持",
+      "source": "三立新聞",
+      "date": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1VNDA4YzkweldFZVhub0s5Vlpkcm5XWTE2YmgzVjhyOExqSVBVSzVpSEVyOEs5a1VNMDFUbDJRTDhabnhqdlVfcdIBTEFVX3lxTE54WlZCTEZTdWtIV2VNSzR2Y21sdlNsS2RRdzZ3VTBEbmFaLUNXd2IyeFh2alhNY1VpQ3NEMTZVOVhPeTZQbjhPVTFjeEE?oc=5"
     },
     {
       "title": "外交部誠摯歡迎加拿大西北特區省議員訪台團來訪",
@@ -23,10 +29,10 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zNjBXTmVxdzdMVm04X2JUdWk3NGsxWm9uWEJRVDlnSkptZHZvWk1xWkROcmZ2bVdISDMyQjFONHdZNXVFWDVEbXM1WGpHX0JHdFVzTnpUNEU1SHM1MmZWNFNLTWxobVREdWc?oc=5"
     },
     {
-      "title": "斯洛維尼亞政黨輪替 總理曾多次訪台透露欲設處 | 太報",
-      "source": "LINE TODAY",
-      "date": "2026-08-18",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qaENtQzI5c1dpNDcyS3JMakRJcHc2OWEtMF83MTRHUGl4STlMdDh3dm5NdUhaYkZlZmVpN0ZSYkRjdDRNaU1RcEdncnhyUDZPUXdwTUxR?oc=5"
+      "title": "外交部長林佳龍歡迎法國參議院第一副議長孟岱立率團訪台",
+      "source": "mofa.gov.tw",
+      "date": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zckpKQzVCNDZNRnMxa3Y5MUd4Sm9CZ2pYSVQ3OFBDYzliZndMcmZUNTdlVFNLR2N3dTFHcFFINzlsa2lCWEVkNWlCWFg2SUlJVWFhSGRabDByanR4d3JWZm5JMzdUdw?oc=5"
     },
     {
       "title": "外交部長林佳龍誠摯歡迎美國懷俄明州州長戈登率團訪台",
@@ -69,12 +75,6 @@
       "source": "mofa.gov.tw",
       "date": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqUk9fUVplay1JQk40QTI1LV90aTBiNEwxMERndlpPZkZjMHA5bzhRWnlsSzZDYXh5M3JDSmVndVQwT1Z4UHB1cERnRmp5UVpSSHBNWG83Y09xUlV5VGxCUnVqSjVJQQ?oc=5"
-    },
-    {
-      "title": "澳洲昆士蘭跨黨派議員訪台 瞭解科技能源轉型發展|戰略臺灣",
-      "source": "僑新聞",
-      "date": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pZDlVanI5Y2hvaGd4MUlyazNvRDVuOVNuc2M1YmpRQmZDaUcyVnZnVGU2SUFiYW85THdrdTNyTHZFZTFtOGw3V0w3dw?oc=5"
     }
   ]
 }
