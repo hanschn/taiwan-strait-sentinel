@@ -1,9 +1,21 @@
 {
-  "updated": "2026-09-24",
-  "lastChecked": "2026-09-24T00:20:31+00:00",
+  "updated": "2026-09-25",
+  "lastChecked": "2026-09-25T00:23:23+00:00",
   "windowDays": 14,
   "count7d": 12,
   "events": [
+    {
+      "title": "美國中西部州議會組團訪台 外交部鼓勵來台設辦事處",
+      "source": "自由時報",
+      "date": "2026-09-24",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wTUU4ajV6UFVuVzZscU1ObGFvWDlRNURhUzVUWDkzaEU0ejFwVVZTakx2RG5Zc0VaQWp1RlBYdE9wbzY3SjNHTTQwSDVRaFVSU3UtY1FPTWZZUDhPR19odzRXZXNCUk1pVmfSAW9BVV95cUxNaGhXa2lPVjhlSER6UERjMXdIWDBfX3IwRERyNkoyVDJqZ1lRc3AxOTUzVUlTeThrVFhNV3U1RDg0MlFGVXhkVDdLV0l4NGs1ZDQ3b2hMT2VrQzRVQnJLdllwVDh3aDQwTVRrTHFJYnM?oc=5"
+    },
+    {
+      "title": "快新聞／從ICT到海事安全！索馬利蘭國安部長訪台 林佳龍曝台索合作新進展",
+      "source": "民視財經網",
+      "date": "2026-09-24",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02M29ncTVxNUswdGE0cjB3Y2N0YURnN2JfcjFJbUdjbUlDNlY1ZUpzQnBBMjA0VWdYWl9NQU9odTZaUFhnZ0ZFZ214Y3lIZHJUb0NkbGc0TzlPdldiVDBZbFVreVJyQQ?oc=5"
+    },
     {
       "title": "「日本維新會官民合作推進協議會」訪問團訪台 長年積極助推動台日友好交流合作",
       "source": "Taiwan News",
@@ -24,15 +36,27 @@
     },
     {
       "title": "比利時眾院3議員訪台 外委會副主席：盼探尋雙方合作機會",
-      "source": "news.ltn.com.tw",
+      "source": "自由時報",
       "date": "2026-09-22",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xRzVrY05HRnNHQm1iT1luQjdlcHBGdWlsbUR4RXljejAtVGZpWUtYZVV5cjItWUg1d093RGIySFVhSE5NZ096ZWc3M2dMcU1TSFJGd24yTDg2bFFiUnM5YlB1UFpXTGV5cVHSAW9BVV95cUxNT1JUZXdJSU12MXloNHVzNVVYYzIzYkpCNjhYQ1p1VHY4bllRT1R1UVliSWxMdE9QMGJGNjJTS1BTM2tJREt5UDdyaHlkNjFjVllpMmhWMjdXWjRWZlJ0TWJwZ2J6Z3JhZXBnbHJFTnc?oc=5"
     },
     {
       "title": "日本前外相前原誠司訪台 將拜會國安會、財政部",
-      "source": "news.ltn.com.tw",
+      "source": "自由時報",
       "date": "2026-09-22",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15Q3dRV1lRWkw3WmJDdS1ISjljR1YtalBHNGcxS3ZwMmlxVjQxems3SVd0VWE1UDgyV2lJVVd5Ry16ZHQzYkJxUTgxNGk0ZGRvUjZpOWVmSXFKYnFMSjBTQV9nQkdFbWw4NXfSAW9BVV95cUxQQVEzZmVudkFBTGtFY0tLTmZNbHZxdVNvRDd2cHVyNTctblJiVmlTdW1fNmkxd25uWDJtWUNtTjRKYmp6bWhDVU1sNTQxWlNLMEhKeVpKWHRQTWVfeG81MUlDRGROLVVmNl9ldGRndEE?oc=5"
+    },
+    {
+      "title": "復交有進度？宏都拉斯議員「斷交後首訪台」 外交部說話了",
+      "source": "台視新聞網",
+      "date": "2026-09-22",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zdTE3VS1LcjdUcW5mX2RmZVYya1BWU1kyaFdzalFTVVR2elVUZ1BGNnBmdkxLSVhzQWhzajZUbnNtY1FabFFqR24xbGQ4b2pnRkExTmV1TQ?oc=5"
+    },
+    {
+      "title": "今年已4度訪台帛琉副總統歐宜樓：可見熱愛台灣| 政治",
+      "source": "中央社 CNA",
+      "date": "2026-09-22",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GWU5PRV96LXE3RHpSdWV4ZmpsMElsUHlOaHpjVFlOOUdhVGR2QVVIWDBuUnRrSGpQM0czd2g0aXphcDRYSzkyeWplLW5iS0t0NUE3MFlseWd6R1ZNeFp3?oc=5"
     },
     {
       "title": "今年4度訪台 帛琉副總統歐宜樓：可見熱愛台灣",
@@ -42,7 +66,7 @@
     },
     {
       "title": "1年內4度訪台！帛琉副總統歐宜樓：將持續攜手台灣提升社會韌性",
-      "source": "news.ltn.com.tw",
+      "source": "自由時報",
       "date": "2026-09-22",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15VXVIaU1uUXY4MUFpeVdyWFh0d2FHWmlsSDloVzY2SmFqNm1oS1ZBMzFCUEZlM3Nic3FPRzM3TkIxb1hzYldsNk4ta1k3QzFXc2JEVUZjZk9YWlRUUXFmSlVOSV90N0pCZXfSAW9BVV95cUxOMWd6RjMxRXRRVnE3SEU4R292X2xjb3ZJMXEzTVZiRmNPaTRSRFZfa29RUW1Ycm9EcFo1WTU3OW40QmZmMmZpTGJMRmJIRHhvU1pNandyR3dDNlFmbkNpNDRpVVFVOFRyam9qVHpSamM?oc=5"
     },
@@ -51,30 +75,6 @@
       "source": "華視新聞網",
       "date": "2026-09-22",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xRUUzY1RkR0x4dUNGZ2pmMzFDNzAwaS1naDVJNE5wWlRoaG0wUlZIUjBTQ2lLTG1DZ2xGaU91czlDUFhsemkzdnNyVFVfd2pvTlppbkxGbVZBWFFwZUpyZHAyT1lQbXFtLUdYT1Q5azVQUQ?oc=5"
-    },
-    {
-      "title": "今年已4度訪台帛琉副總統歐宜樓：可見熱愛台灣| 政治",
-      "source": "中央社 CNA",
-      "date": "2026-09-22",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GWU5PRV96LXE3RHpSdWV4ZmpsMElsUHlOaHpjVFlOOUdhVGR2QVVIWDBuUnRrSGpQM0czd2g0aXphcDRYSzkyeWplLW5iS0t0NUE3MFlseWd6R1ZNeFp3?oc=5"
-    },
-    {
-      "title": "斷交3年後首位宏都拉斯議員訪台！復交有譜？外交部回應了",
-      "source": "NOWnews今日新聞",
-      "date": "2026-09-22",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14ZjZ3OU5jZTkzYS1QVzNHQ1g1RzNyYy1FNVBmX3dZRVhDVDlGWEJfa2U2TW0weEJCSk5BdzI5bkFBVGxPZGNjMDNyaV9TZVdhYXfSAVJBVV95cUxNeGY2dzlOY2U5M2EtUFczR0NYNUczcmMtRTVQZl93WUVYQ1Q5RlhCX2tlNk1tMHhCQkpOQXcyOW5BQVRsT2RjYzAzcmlfU2VXYWF3?oc=5"
-    },
-    {
-      "title": "斷交後宏都拉斯議員卡利斯首公開訪台 外交部：是台灣的友人",
-      "source": "news.ltn.com.tw",
-      "date": "2026-09-22",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MaWJHbVJUTDdLRXVhV3BBc1lGYzRuTl83akd0aWZZd0xyQjVYWG5lRzhqZkk1ckg3blg3REN5eVBSVGdtM1pSZlpjTFhFOUxDNTZtUjFqWXpJOTdvTE1WRnNObkJvN1A4b0HSAW9BVV95cUxOSmR5RTBMUnlBSTlBU3FKWHVuZWlRSVpnRHBFTUJWMnBtcmJUWGd5enlNWW9lUk8tVEtmVC1oS05ZYTEyTzkycHVjZTZza0otYlU1WWZ4d0VCOE9mdzJPOTgxeXJ5ci1vWHNOVi1DelE?oc=5"
-    },
-    {
-      "title": "復交有進度？宏都拉斯議員「斷交後首訪台」 外交部說話了",
-      "source": "Yahoo新聞",
-      "date": "2026-09-22",
-      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxORWN1Z3BOMVVlVkxsSWZoRlVKWkxQYTZENTRjNkZNRnppS1VLRTIxVE9Hd212NXNtU1p4Ni1HZ1dCTkFSckxQdXlwYU04VEpOVnVsbUVQVjM5bkp1SG9jVGh5S1hsVmdOQzQ1aHJjYWdTN05SRUdWWGNZUWRNUUZtd2R2ZTRyX3V0SXZISW80aGludmpEclJSQlIzc3lxLUVZR1Jub2l4MW9tZ19LV1o4bHNSR2k5aGZsbzdTdktVQThrTXRKaU5LdXU5enlzNXFQdHRxcTQ3by1zWVl5dW52cEZFMF9NUlRzcFlianFxeW9FeGdPQTRZeWo5Vy1JeFpsU1VkbGJDcFJUUFdnQTVjRlAxd0ZzMTcwWUdoMzdfU3U1R20zNVR3Sl8tMWc5a3pueWZIWmxwT1lob1NuNHZFeVM0ZE9iUjU4SlFaeXRDVXBnTnowMlZrRnRRcjcyTmo3VDY0UkR6dC1iYWc?oc=5"
     }
   ]
 }
