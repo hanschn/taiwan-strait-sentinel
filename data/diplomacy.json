@@ -1,12 +1,36 @@
 {
-  "updated": "2026-10-01",
-  "lastChecked": "2026-10-01T01:10:29+00:00",
+  "updated": "2026-10-02",
+  "lastChecked": "2026-10-02T01:29:19+00:00",
   "windowDays": 14,
-  "count7d": 7,
+  "count7d": 10,
   "events": [
     {
+      "title": "外交部歡迎「全美議會交流理事會」訪問團訪台",
+      "source": "mofa.gov.tw",
+      "date": "2026-10-01",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOSGxjQS12dm5ycmlCVjFtUHBObkgtWUhwdWxFUFNhMzBQbFFyV0Z4WnNPZTRXMDJHNy11TVFjWmU5NVFhd3hJQkZCZmZITTMwaXh1QmhQNlZfNm5OdlJEcGVNZVNQZw?oc=5"
+    },
+    {
+      "title": "全美多位議員訪台力挺！外交部：台灣已躍升美國第4大貿易夥伴",
+      "source": "NOWnews今日新聞",
+      "date": "2026-10-01",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Pd1VFWUh4dlh5amlVQ01LMU5ja3d1T19nZ0VfN1lPWC00eVJaOE92bVQxRURoVC16SUNsRTJ3WFJwd1EyYTloOW93dFU0SnFXeVHSAVJBVV95cUxNT3dVRVlIeHZYeWppVUNNSzFOY2t3dU9fZ2dFXzdZT1gtNHlSWjhPdm1UMUVEaFQteklDbEUyd1hScHdRMmE5aDlvd3RVNEpxV3lR?oc=5"
+    },
+    {
+      "title": "外交部長林佳龍訪問友邦貝里斯，與貝國總督、總理及外長深入討論台貝兩國深化及合作轉型",
+      "source": "蕃新聞",
+      "date": "2026-10-01",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tbkdweVFka0xaRzhna3lLaHdPVzBsdmN3T2JNdDZQbnlVRGpVbHFoS25OQXBSRC12RVM1TmZWMDZidk8yZnRTSjl1cVJtQktVNEE?oc=5"
+    },
+    {
+      "title": "外交部歡迎「全美議會交流理事會」訪問團訪台",
+      "source": "蕃新聞",
+      "date": "2026-10-01",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zRzFUR0VtbVJhRXlPMzdpODVST3JpLU5BMHItQ0lVSUxtekUzdHZDMFZEX3FSWlkyWjF6aEc0dGplLVVJR0Z3V0JOU1lRZUMzYVE?oc=5"
+    },
+    {
       "title": "台外長率團訪問中美洲兩友邦 將晉見兩國元首",
-      "source": "大纪元",
+      "source": "大紀元新聞網",
       "date": "2026-09-28",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HcmJtMzlNbkRKTDZMcDd2TnN5bnlhS1Rvc0RYeE41d0loZEE1Y3dhMDQwamR1bFRjVWxLMnBLWHJPQW1lNzZhSW0tQ01TNF9Sd25XUGtJWFFXZWRmT2dXS9IBZkFVX3lxTFBrQnpxVFRkZld4bDh1VHBkc0lMV0VZTWR2OWtiRGlpdmVQT3hQc3pXSTdHVk8xRkdxZ0tWMElVektSa0hxZDluOHctNkc0YUo3Zk5xaXMzTnZ2RlRSNEQ2a3hJX29pdw?oc=5"
     },
@@ -15,6 +39,12 @@
       "source": "mofa.gov.tw",
       "date": "2026-09-28",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xd2hycXFMQW9JQkx0Z3diYkNjczVjTzNtU1huTVVNY1cxOUxoRS10V1dJdGMxa3FaX2k2VUo2ZWhYLUZ3MHRiS0M0dWVaWldSODI1M2hqamNVaW0yd1ltZ1hkendCUQ?oc=5"
+    },
+    {
+      "title": "外交部歡迎澳大利亞昆士蘭州跨黨派議員團訪台",
+      "source": "mofa.gov.tw",
+      "date": "2026-09-27",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JX0F3Zng1ajljaF9nZjFwN09zbE00N1ZtRTAxaWFVUkhYNjBGQlVNUUhBbzdfU0k5eTJEQkxmSTk5R3FHQmxycFhWMGpjaHgyZHYxRU8xRERxOHJwODU0cVlpQkpUdw?oc=5"
     },
     {
       "title": "外交部誠摯歡迎紐西蘭跨黨派國會議員訪問團來台",
@@ -29,16 +59,10 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3OWFjbi00ODNfRUY1MUFMcUlhX0RlY1BpLWNoLUdwS0tGS29YVVI2VTdjQzB1NEFxT3RJdEU3TFJPWGVackhlX3pyLV9oT3pZRWd3dHY0eF9nZE5EMGo1RHRrT1NCQQ?oc=5"
     },
     {
-      "title": "美國印第安納州長侯康安率團訪台！將見蔡英文、半導體廠商",
-      "source": "三立新聞網SETN.com",
-      "date": "2026-09-25",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9HUm9uRUJSZmFINEpaZUxrUkUtcDg1OExvYTRDck8zZWlYZTRuTzV2Z05QS2dobGs5cmJiUFZsUm9RQUJZMzlBetIBTEFVX3lxTFBZanZ1S01DdWtfYmt6eGVSamxwYTd3OTJIZ1RWUm5fZFN0N25vOWtxSVdLUC0xWngwbnRDVnFHdmhQV2FOZS1vZ1Ztc0M?oc=5"
-    },
-    {
-      "title": "美國中西部州議會組團訪台 外交部鼓勵來台設辦事處",
-      "source": "自由時報",
-      "date": "2026-09-24",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wTUU4ajV6UFVuVzZscU1ObGFvWDlRNURhUzVUWDkzaEU0ejFwVVZTakx2RG5Zc0VaQWp1RlBYdE9wbzY3SjNHTTQwSDVRaFVSU3UtY1FPTWZZUDhPR19odzRXZXNCUk1pVmfSAW9BVV95cUxNaGhXa2lPVjhlSER6UERjMXdIWDBfX3IwRERyNkoyVDJqZ1lRc3AxOTUzVUlTeThrVFhNV3U1RDg0MlFGVXhkVDdLV0l4NGs1ZDQ3b2hMT2VrQzRVQnJLdllwVDh3aDQwTVRrTHFJYnM?oc=5"
+      "title": "討論牆 | 外賓密集訪台聚焦半導體 郭國文：要把「人來了」變成「合作制度化」",
+      "source": "LINE TODAY",
+      "date": "2026-09-26",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnbV96SGtocEprQUdqT0Q5MWhIUHdvX0l3VnRxaVBvdVdzSHpQYklocUhsNGpzTXVIZzQzUENlSmJ3TEh1U3lGQUZSc0hacnJMTk9QQnR1T3FmTkFSbTItdXFLVnQ?oc=5"
     },
     {
       "title": "快新聞／從ICT到海事安全！索馬利蘭國安部長訪台 林佳龍曝台索合作新進展",
@@ -47,34 +71,10 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02M29ncTVxNUswdGE0cjB3Y2N0YURnN2JfcjFJbUdjbUlDNlY1ZUpzQnBBMjA0VWdYWl9NQU9odTZaUFhnZ0ZFZ214Y3lIZHJUb0NkbGc0TzlPdldiVDBZbFVreVJyQQ?oc=5"
     },
     {
-      "title": "「日本維新會官民合作推進協議會」訪問團訪台 長年積極助推動台日友好交流合作",
-      "source": "Taiwan News",
-      "date": "2026-09-22",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10WVpvLTU4b25BbVJweHl4Y29LNTJkRTlwZkF4aDRpcDNxR0JzVjJNVGNlekVJZTJ0ek9HUVlwc3FDMHIwaG51T3RGQU5jRlVSU2tjNTFSV0E?oc=5"
-    },
-    {
-      "title": "外交部政務次長吳志中午宴歡迎比利時聯邦眾議院議員團訪台",
-      "source": "蕃新聞",
-      "date": "2026-09-22",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96cDVSWF83TWtQTWVydnczV1hQOXl6STdCY2UtbHlhVXN2UHZCN1Z3Q003RU9ONFpSNWVsQjF2ZlpZN1hmb0s4ZnlvTW5JOXhUWHc?oc=5"
-    },
-    {
-      "title": "比利時眾院3議員訪台 外委會副主席：盼探尋雙方合作機會 | 自由電子報",
-      "source": "LINE TODAY",
-      "date": "2026-09-22",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2V1FCanpkS19EVXFuTHFlUkNPYktxbFYwSXpkS1dtbjZUWmhPNnF0R0hqX1hITU5NUmdPN2ZXazdldDB0U19wZFpOTWNCaEpmYmpKUXB3?oc=5"
-    },
-    {
-      "title": "比利時眾院3議員訪台 外委會副主席：盼探尋雙方合作機會",
+      "title": "美國中西部州議會組團訪台 外交部鼓勵來台設辦事處",
       "source": "自由時報",
-      "date": "2026-09-22",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xRzVrY05HRnNHQm1iT1luQjdlcHBGdWlsbUR4RXljejAtVGZpWUtYZVV5cjItWUg1d093RGIySFVhSE5NZ096ZWc3M2dMcU1TSFJGd24yTDg2bFFiUnM5YlB1UFpXTGV5cVHSAW9BVV95cUxNT1JUZXdJSU12MXloNHVzNVVYYzIzYkpCNjhYQ1p1VHY4bllRT1R1UVliSWxMdE9QMGJGNjJTS1BTM2tJREt5UDdyaHlkNjFjVllpMmhWMjdXWjRWZlJ0TWJwZ2J6Z3JhZXBnbHJFTnc?oc=5"
-    },
-    {
-      "title": "復交有進度？宏都拉斯議員「斷交後首訪台」 外交部說話了",
-      "source": "台視新聞網",
-      "date": "2026-09-22",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5zdTE3VS1LcjdUcW5mX2RmZVYya1BWU1kyaFdzalFTVVR2elVUZ1BGNnBmdkxLSVhzQWhzajZUbnNtY1FabFFqR24xbGQ4b2pnRkExTmV1TQ?oc=5"
+      "date": "2026-09-24",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wTUU4ajV6UFVuVzZscU1ObGFvWDlRNURhUzVUWDkzaEU0ejFwVVZTakx2RG5Zc0VaQWp1RlBYdE9wbzY3SjNHTTQwSDVRaFVSU3UtY1FPTWZZUDhPR19odzRXZXNCUk1pVmfSAW9BVV95cUxNaGhXa2lPVjhlSER6UERjMXdIWDBfX3IwRERyNkoyVDJqZ1lRc3AxOTUzVUlTeThrVFhNV3U1RDg0MlFGVXhkVDdLV0l4NGs1ZDQ3b2hMT2VrQzRVQnJLdllwVDh3aDQwTVRrTHFJYnM?oc=5"
     }
   ]
 }
