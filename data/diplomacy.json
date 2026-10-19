@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-17",
-  "lastChecked": "2026-10-17T23:54:03+00:00",
+  "updated": "2026-10-19",
+  "lastChecked": "2026-10-19T00:03:27+00:00",
   "windowDays": 14,
   "count7d": 12,
   "events": [
@@ -9,12 +9,6 @@
       "source": "蕃新聞",
       "date": "2026-10-17",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96UXA1UGZpSXRxdXhGY21uTjRDSVZwWHhRbEQ1OWlzanF2U2o2WHBieVRoQXVFZEZRc0VkOE53QVZOVVFNZm8xcy1SWmpJa1gxZ1E?oc=5"
-    },
-    {
-      "title": "韓國瑜院長接見「加台國會議員訪台團」",
-      "source": "元丰傳媒",
-      "date": "2026-10-16",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JWWhhY2d2VEQyX2lzOS1DbS16T2QyTWREZ1VqMGNONy1WSlY5SEhMRmxCUlkycGw5TTRZS3dXUHVzTUhXUXJ1SFhnUHJhS0pmZ1p6TkZXdVozLTR1UUExZFlyY0FuZ09CemhuVlhn?oc=5"
     },
     {
       "title": "歷史上的今天／1959年荷蘭國會代表團訪台聚焦政治外交| 圖片故事",
@@ -35,22 +29,28 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iV1Zyei1fZkVwUEZrMW9uT3lBcE1KN1F2REdmaEFWMVdJQkJjcUR4TEJIaDJ6WnFWc1Y0YW9TcHg1UnlrT3hPaWRobXlmVnBTRjBZMmtoYWZNTXkxZ25RLUN0VDU3Tmx1c0HSAW9BVV95cUxOeks5Vzcta3g4RjJMOGczTl82VllNMHMybnlfYllPNkhfYW5wUnQ2S1hlMzlPYVZDTllkS0dUOGljQ2l4UThIcVVDTVVvRWp2THpQMmhTTzZyV0txRFFXOVZqMWcyR2VodU5sblNVYmc?oc=5"
     },
     {
+      "title": "韓國瑜院長接見「加台國會議員訪台團」",
+      "source": "元丰傳媒",
+      "date": "2026-10-15",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53cWpOZ0pZR2tNSENvYXpPODhVdzloVGtHX3EyN0RpTUtRMlRKWi1SQkhkRTZIVi02d0UxejZBZUhiUGFYT2NOdzRxNWFtSUJodk1yZnp3b1QtUWhQWGR3LVlrZGI4Zjg3?oc=5"
+    },
+    {
       "title": "韓國瑜接見加台國會議員訪台團 盼深化雙邊經貿交流",
       "source": "蕃新聞",
       "date": "2026-10-15",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41aEtVdGhybzFvaEhJQXd5SHh6RGNoTmlfVk1ldklsNGFpbFBBYkdrZWVNUWV4TG1XblF5d0R6NHQ2QjlVd09ualRkQkctRC00UlE?oc=5"
     },
     {
-      "title": "德州經濟組織 Rioplex 將派貿易團訪台 鎖定亞洲投資機會",
-      "source": "蕃新聞",
-      "date": "2026-10-14",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDSmRBS0ZZY0p4RzdreWtoQUFleUE3SGkxQUNEUDVkU002bnR6eFdpTGtLXzkwbnRkMzJ5eWJlT3lrMTZPcXN2UEZIUmpvUnRwRnc?oc=5"
-    },
-    {
       "title": "加國議員6度訪台！史葛洛讚賴總統國慶演說：為台灣及世界提供指引 | 自由電子報",
       "source": "LINE TODAY",
       "date": "2026-10-14",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MdjhPRmpBZlphMS01bDltbUEwd0oxZjV3NG1WZDI0Qk9aM0RaeG52eWhHM1dmMHlnMmItQWtVbGFCR20wUTdtV0hPcHowVUNLSGFpbjV3?oc=5"
+    },
+    {
+      "title": "外交部長林佳龍率團訪問波蘭，進一步推動深化台歐及台波關係- 政府消息新聞",
+      "source": "PChome Online 新聞",
+      "date": "2026-10-14",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUk5hcDRQNXJmcUdJMnpuVmJWYUttRFVCcVVtSW1rcFBPRlVOS0RNY2VxLWdIWWpLeDVoS0tLUmNHb1ZlU1NMR1d1R3phR3I3NlRDZ2w5SnZKc2ZkSUVWQkVpb1VySmFwVTRNRUE1enY5dElzVVdUYllXM2ltQlNwdThxWW81UQ?oc=5"
     },
     {
       "title": "加國議員6度訪台！史葛洛讚賴總統國慶演說：為台灣及世界提供指引",
@@ -71,10 +71,10 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXMENuZHUwWXhvZTg4Yko1eGxKMVNnREhoS243ZktVYWxvN3lXZ2lNLWlzU2xUSk1mOV9wUU5Lbm1BVlgtVmJzYmpoZw?oc=5"
     },
     {
-      "title": "加拿大議員賀雙十後訪台 日倡加速無人機合作",
-      "source": "on.cc東網",
+      "title": "外交部：即起恢復受理摩洛哥籍人士申請來台簽證",
+      "source": "經濟日報",
       "date": "2026-10-12",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQkl5N2VpQjZBVVpua3ZBTlZSczBhNF9rV1B5ZlpKWVo2ZlY5N0JJdy1PMXlGU09aSFViaHZ4MC1FV1NiTmVVVUg1OE9GVk02UXVqTHNNSzhrSWlKYUZzaUFSZHJhR3RrSzN4eHgxSW12eDhZa1Q4bUV1cjFuTjNwRC1NMl96YzEwaUd1cGJoTQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4LXFnV2ZGV2x5QW84RXNoOFlqbnFyNmpoMldDV0UtMF9FNnFpUDlVOWx0S3dJTEE5YThJdEc2NC10cXdaRTlQMXhKTDJ3NDZPV25fek5rQ01yQdIBX0FVX3lxTE1BZ0FJSk9NZEN6d2FIUXhueEVNaGxPS0c4MDdGejJVMTd4V0ZuSHpsQTBGMUx3VDItSTBwbGE1dXpKQ0NNVl9DZ0c5d3l0UXhXMzN0djR1RFphWURpMnRB?oc=5"
     }
   ]
 }
