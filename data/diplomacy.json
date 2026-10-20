@@ -1,15 +1,9 @@
 {
-  "updated": "2026-10-19",
-  "lastChecked": "2026-10-19T00:03:27+00:00",
+  "updated": "2026-10-20",
+  "lastChecked": "2026-10-20T00:59:25+00:00",
   "windowDays": 14,
-  "count7d": 12,
+  "count7d": 9,
   "events": [
-    {
-      "title": "史瓦帝尼國王結束訪台 吳志中代表送機並深化台史合作",
-      "source": "蕃新聞",
-      "date": "2026-10-17",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96UXA1UGZpSXRxdXhGY21uTjRDSVZwWHhRbEQ1OWlzanF2U2o2WHBieVRoQXVFZEZRc0VkOE53QVZOVVFNZm8xcy1SWmpJa1gxZ1E?oc=5"
-    },
     {
       "title": "歷史上的今天／1959年荷蘭國會代表團訪台聚焦政治外交| 圖片故事",
       "source": "聯合報數位版",
@@ -23,10 +17,10 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oOW03Z2xKTTBSc2ZRRGtsLWVCZXg3bnFNTkpLdXhWUmhLQ000dlBwUFlEaVBqeXdzM0FSX0JHcm1uRzBIOWRQZTZhM3h6OUlVOWxERFdjVl9LdmZtckRweDJiZ3lWUQ?oc=5"
     },
     {
-      "title": "接見加拿大國會議員團 韓國瑜拋「築巢引鳳」：盼擴大來台投資AI、無人機",
-      "source": "自由時報",
+      "title": "外交部歡迎加拿大國會議員訪台團 政務次長盼深化台加經貿合作",
+      "source": "報新聞",
       "date": "2026-10-15",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iV1Zyei1fZkVwUEZrMW9uT3lBcE1KN1F2REdmaEFWMVdJQkJjcUR4TEJIaDJ6WnFWc1Y0YW9TcHg1UnlrT3hPaWRobXlmVnBTRjBZMmtoYWZNTXkxZ25RLUN0VDU3Tmx1c0HSAW9BVV95cUxOeks5Vzcta3g4RjJMOGczTl82VllNMHMybnlfYllPNkhfYW5wUnQ2S1hlMzlPYVZDTllkS0dUOGljQ2l4UThIcVVDTVVvRWp2THpQMmhTTzZyV0txRFFXOVZqMWcyR2VodU5sblNVYmc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOc045TWNyTEFYNUlPWGVIQUUxbC1hOWkxdUlRU0NEMHhEdDlQOVJKUUxfenlad2FLekJ5TUlfNzJqTzczZzVDWkFFOTd5eV9OcjQ2QTNjVUd0dU5VX3UyUE9hOXRpYV8wUjV3MW9ISThSQ0R3N0dZYThmQjJKZ1RzWUFhUjluQTlPVGp1TjJfUV9zZWtXQ2FlNnNVZmpPN09nM1IzV3REaU5ieGxJR1hvZURwNDlfZDg4VmgzNXRPS0dXel9GM0gtMlV5Vmg4TkZDTjhuX1RHRmdobFlVYnRCTHJ1NVRZTDNzYnZsN2VtYW1qU3hqU29qM1dmWGt6eHA1blMyLXNEN2V0NkYyRDd2V0lXZFkwTktDVTROejZTT3NPZnl0MmV0QktlZVN3Z3RzZDZvekxaY091S2Z2dy1HaXQ3OTNadkp0NEI3ZEJ0RmF4dVRBSWRoaGJxVFdYZ2xTS25OLVYwWQ?oc=5"
     },
     {
       "title": "韓國瑜院長接見「加台國會議員訪台團」",
@@ -36,15 +30,15 @@
     },
     {
       "title": "韓國瑜接見加台國會議員訪台團 盼深化雙邊經貿交流",
+      "source": "藍雀新傳媒",
+      "date": "2026-10-15",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00dlpsemFSWWRfcHJfQm9aY2dZam5wNG9xaUx2WGtXaVN5MFlKWGUxa2pHbTlsN1k2MWJhRVBteF9XU09VaGpvR2ZQc2QwbEZJVlRoQXJR?oc=5"
+    },
+    {
+      "title": "韓國瑜接見加台國會議員訪台團 盼深化雙邊經貿交流",
       "source": "蕃新聞",
       "date": "2026-10-15",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41aEtVdGhybzFvaEhJQXd5SHh6RGNoTmlfVk1ldklsNGFpbFBBYkdrZWVNUWV4TG1XblF5d0R6NHQ2QjlVd09ualRkQkctRC00UlE?oc=5"
-    },
-    {
-      "title": "加國議員6度訪台！史葛洛讚賴總統國慶演說：為台灣及世界提供指引 | 自由電子報",
-      "source": "LINE TODAY",
-      "date": "2026-10-14",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MdjhPRmpBZlphMS01bDltbUEwd0oxZjV3NG1WZDI0Qk9aM0RaeG52eWhHM1dmMHlnMmItQWtVbGFCR20wUTdtV0hPcHowVUNLSGFpbjV3?oc=5"
     },
     {
       "title": "外交部長林佳龍率團訪問波蘭，進一步推動深化台歐及台波關係- 政府消息新聞",
@@ -71,10 +65,16 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXMENuZHUwWXhvZTg4Yko1eGxKMVNnREhoS243ZktVYWxvN3lXZ2lNLWlzU2xUSk1mOV9wUU5Lbm1BVlgtVmJzYmpoZw?oc=5"
     },
     {
-      "title": "外交部：即起恢復受理摩洛哥籍人士申請來台簽證",
-      "source": "經濟日報",
+      "title": "外交部：即起恢復受理摩洛哥籍人士申請來台簽證| 政治",
+      "source": "中央社 CNA",
       "date": "2026-10-12",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4LXFnV2ZGV2x5QW84RXNoOFlqbnFyNmpoMldDV0UtMF9FNnFpUDlVOWx0S3dJTEE5YThJdEc2NC10cXdaRTlQMXhKTDJ3NDZPV25fek5rQ01yQdIBX0FVX3lxTE1BZ0FJSk9NZEN6d2FIUXhueEVNaGxPS0c4MDdGejJVMTd4V0ZuSHpsQTBGMUx3VDItSTBwbGE1dXpKQ0NNVl9DZ0c5d3l0UXhXMzN0djR1RFphWURpMnRB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zUU5XMDdhNWhmR2tSbGFUUFp0SjlZMUxGaVBYWW51ME8yblQzYmVoU09XVTk5TngyX1VFV1lVaXpFMm4wS25haGM1Q2JRY2xWaFI5OUtHZEswOVNvM01v?oc=5"
+    },
+    {
+      "title": "摩洛哥對台解封 外交部：即起恢復該國人士來台簽證| 政治焦點",
+      "source": "太報 TaiSounds",
+      "date": "2026-10-12",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiNVRiX3NLdnQzTC1tQ28xVXNKYUk5WFFMaTZGZEdhRV9VZHdXUWZ2Zm1laFpfTHEzeE5rZS1MQmtzVTl1bGNpT0VfeFIwLVlvNUJjWkJtUks1TElF?oc=5"
     }
   ]
 }
