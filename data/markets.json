@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-22T16:43:47+00:00",
+  "updatedAt": "2026-10-22T21:14:43+00:00",
   "question": "中國 2026–27 對台動武機率",
-  "prob": 0.0491,
+  "prob": 0.049,
   "spread": {
     "min": 0.0355,
-    "max": 0.0830402066601361
+    "max": 0.08264145053417579
   },
   "sources": [
     {
@@ -20,9 +20,9 @@
     {
       "name": "Manifold",
       "kind": "play",
-      "prob": 0.0830402066601361,
-      "volume": 187407.57333239337,
-      "volumeLabel": "187.4K MANA",
+      "prob": 0.08264145053417579,
+      "volume": 187457.57333239337,
+      "volumeLabel": "187.5K MANA",
       "question": "Will China attempt to invade Taiwan by the end of 2027?",
       "url": "https://manifold.markets/MarlonK/will-china-attempt-to-invade-taiwan",
       "weight": 0.4
