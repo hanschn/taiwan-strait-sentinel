@@ -1,14 +1,62 @@
 {
-  "updated": "2026-10-21",
-  "lastChecked": "2026-10-21T00:28:28+00:00",
+  "updated": "2026-10-22",
+  "lastChecked": "2026-10-22T00:32:20+00:00",
   "windowDays": 14,
-  "count7d": 9,
+  "count7d": 12,
   "events": [
+    {
+      "title": "外交部歡迎加拿大國安事務訪問團訪台",
+      "source": "中華民國外交部全球資訊網",
+      "date": "2026-10-21",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LcF9Ha3ozVjZmWVRYVDFkSzVXQkVDM2d1bUEtSUp4UjVZd2hldUxtTTJEU2V1c0hMVEk3VDN6MXdmU0lPaFFLMGdhUHp1bHg4Q3A0dGwydE8tbXptbXpoRHRkZFFtQQ?oc=5"
+    },
+    {
+      "title": "蘇格蘭、北愛爾蘭議員訪台 吳志中：台歐是重要可信賴夥伴",
+      "source": "自由時報",
+      "date": "2026-10-21",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FZml5OEx3dkFNYnhsMERwOHI3TUF5XzFhTVpCMThLbjd4Z1lTLW0tTlpCUG5nZVZQNmxFZGdvZkJKcThVdjk0azZPZjhGUDJCUHA5cW9YSi1adUdqc2w1aTktM2tabXVVWWfSAW9BVV95cUxNTFBlVUwzcHRJbnQwZWU0ejk0RUV0NUZZOWdKZm05b29wYUZmb3ZNSzkyZi1MUjNWS1RxUWhjeEJIVWs0bjRCcjlhRWxUTFpkU1d0RmZrYkJLQzFQcmNWalJBNElQeW4xYnpTYzIxZE0?oc=5"
+    },
+    {
+      "title": "加拿大卸任官員組團訪台 外交部：強化安全戰略對話",
+      "source": "Rti 中央廣播電臺",
+      "date": "2026-10-21",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UZFNmVmNhbDhHOGp6YU9Md184SUl5S2did1lUTWRjUHNXVE5iZkRsSTZuX20yamRRS3FEaUtkdlRxSTQzVzg1NnVYcmdoZmN0aUpkUDVXOA?oc=5"
+    },
+    {
+      "title": "加拿大前國安顧問訪台 團長莫瑪塔：台加在印太地區有共同利益",
+      "source": "自由時報",
+      "date": "2026-10-21",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lSnRleGZocE5MLTFjUWRtQktPR1UxTDBNT2hYN3hNeTN3ajl5QTZuZVUwTVQ0SFJXRW5BS3d0TmFtWTRnZERob0JSWGNselRpUGtjQTJOVjVTTVlCekdoVlBuZUdXQy12eWfSAW9BVV95cUxPWGszYVdWeUxQWk9EcVduMTNMWE9xV1VQTXRvRDhHS3lEcXdKaWNZeVRncGNGX29QVmtSbGJvckRORlZWYTZiQmFfaHZ1LV9LUDQ0NHE4UENFdlBjMmFHY1F1Z2NYV3AtX19uSHFhSzg?oc=5"
+    },
+    {
+      "title": "蘇格蘭、北愛爾蘭議員訪台 吳志中：台歐是重要可信賴夥伴 | 自由電子報",
+      "source": "LINE TODAY",
+      "date": "2026-10-21",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzRk5nYnEwMUxpamphR1ZtbnVWUVJZRVVDOUlxd09MeV90UTNMbnlGeXN4RVV4X1lHMFpqS0tzeG43RllweldKQXJxX2RZTXJwd1BuR0VR?oc=5"
+    },
     {
       "title": "馬紹爾商業部長慕樂訪台 將出席台馬ECA聯合委員會首次會議",
       "source": "自由時報",
       "date": "2026-10-20",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JQ3ZMOEVwR0xnQ2FjcURDaTItR19hWWEtSDhJM0RkM19qaDhpallLMVUtNEsxcGM3N21HTC05TkhPWlRJZ0FBZFVkWmlIYkdqeGdJdnNlRWJGNjNUelNobXF2VTZGelg4c1HSAW9BVV95cUxOc3Flcy1NX3A1eFhLR3Y1YzRpX0xOb2tKM3BhcGZwc05QZ3RHOUJ1WnllYjB4SEFWWXhlT25DaDhrWVlZQ3cxSmliU0xaNnF0VndCU0dTbVJsd0ZFOVpTU18xWGx4clAzTUdpcElJbXM?oc=5"
+    },
+    {
+      "title": "外交部誠摯歡迎日本參議院議員瀧波宏文訪台",
+      "source": "中華民國外交部全球資訊網",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wN0JZNDlhY1JtbE9QeVZQU25fN3dKV0cxeUNyY3UtTkZ2RGJmUUR0NW1JckM5dTQwYzNxVDZvMUZVd1JTTlc1bXdtOEI1MVRDWmVVRVpqNDJIVktKM1lCbTNMSXI3QQ?oc=5"
+    },
+    {
+      "title": "外交部誠摯歡迎馬紹爾群島共和國外交暨貿易部長康仁德伉儷訪問台灣",
+      "source": "中華民國外交部全球資訊網",
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90M0tOSnNld2kweXpwVU95QU9YdUREaDZfLVNuQ3gySUZXWWZwdFZraXFjZFh1VHFrVFEzYmpIOU9jUEpzMWIzMjE1cXJFcFFqRWpTWk1GTVE1TXRZV2l3Ym90LU50QQ?oc=5"
+    },
+    {
+      "title": "外交部誠摯歡迎加拿大國會議員訪台團來訪",
+      "source": "中華民國外交部全球資訊網",
+      "date": "2026-10-19",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oOW03Z2xKTTBSc2ZRRGtsLWVCZXg3bnFNTkpLdXhWUmhLQ000dlBwUFlEaVBqeXdzM0FSX0JHcm1uRzBIOWRQZTZhM3h6OUlVOWxERFdjVl9LdmZtckRweDJiZ3lWUQ?oc=5"
     },
     {
       "title": "外交部歡迎澳大利亞昆士蘭州跨黨派議員團訪台",
@@ -17,64 +65,16 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JX0F3Zng1ajljaF9nZjFwN09zbE00N1ZtRTAxaWFVUkhYNjBGQlVNUUhBbzdfU0k5eTJEQkxmSTk5R3FHQmxycFhWMGpjaHgyZHYxRU8xRERxOHJwODU0cVlpQkpUdw?oc=5"
     },
     {
+      "title": "韓國瑜院長接見「加台國會議員訪台團」",
+      "source": "元丰傳媒",
+      "date": "2026-10-16",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JWWhhY2d2VEQyX2lzOS1DbS16T2QyTWREZ1VqMGNONy1WSlY5SEhMRmxCUlkycGw5TTRZS3dXUHVzTUhXUXJ1SFhnUHJhS0pmZ1p6TkZXdVozLTR1UUExZFlyY0FuZ09CemhuVlhn?oc=5"
+    },
+    {
       "title": "歷史上的今天／1959年荷蘭國會代表團訪台聚焦政治外交| 圖片故事",
       "source": "聯合報數位版",
       "date": "2026-10-15",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQWkVYQkEwdXF4bV9lZ2dfM3hFMExKMXZHWUtfeHFfVnhvV3VnejEtdmxjN2YwV29LUzhLUVRNZC1Fa2JNLXVuMENyUE5hUVZnb1FnbHpDZw?oc=5"
-    },
-    {
-      "title": "外交部誠摯歡迎加拿大國會議員訪台團來訪",
-      "source": "中華民國外交部全球資訊網",
-      "date": "2026-10-15",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oOW03Z2xKTTBSc2ZRRGtsLWVCZXg3bnFNTkpLdXhWUmhLQ000dlBwUFlEaVBqeXdzM0FSX0JHcm1uRzBIOWRQZTZhM3h6OUlVOWxERFdjVl9LdmZtckRweDJiZ3lWUQ?oc=5"
-    },
-    {
-      "title": "外交部歡迎加拿大國會議員訪台團 政務次長盼深化台加經貿合作",
-      "source": "報新聞",
-      "date": "2026-10-15",
-      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOc045TWNyTEFYNUlPWGVIQUUxbC1hOWkxdUlRU0NEMHhEdDlQOVJKUUxfenlad2FLekJ5TUlfNzJqTzczZzVDWkFFOTd5eV9OcjQ2QTNjVUd0dU5VX3UyUE9hOXRpYV8wUjV3MW9ISThSQ0R3N0dZYThmQjJKZ1RzWUFhUjluQTlPVGp1TjJfUV9zZWtXQ2FlNnNVZmpPN09nM1IzV3REaU5ieGxJR1hvZURwNDlfZDg4VmgzNXRPS0dXel9GM0gtMlV5Vmg4TkZDTjhuX1RHRmdobFlVYnRCTHJ1NVRZTDNzYnZsN2VtYW1qU3hqU29qM1dmWGt6eHA1blMyLXNEN2V0NkYyRDd2V0lXZFkwTktDVTROejZTT3NPZnl0MmV0QktlZVN3Z3RzZDZvekxaY091S2Z2dy1HaXQ3OTNadkp0NEI3ZEJ0RmF4dVRBSWRoaGJxVFdYZ2xTS25OLVYwWQ?oc=5"
-    },
-    {
-      "title": "韓國瑜院長接見「加台國會議員訪台團」",
-      "source": "元丰傳媒",
-      "date": "2026-10-15",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53cWpOZ0pZR2tNSENvYXpPODhVdzloVGtHX3EyN0RpTUtRMlRKWi1SQkhkRTZIVi02d0UxejZBZUhiUGFYT2NOdzRxNWFtSUJodk1yZnp3b1QtUWhQWGR3LVlrZGI4Zjg3?oc=5"
-    },
-    {
-      "title": "韓國瑜接見加台國會議員訪台團 盼深化雙邊經貿交流",
-      "source": "藍雀新傳媒",
-      "date": "2026-10-15",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00dlpsemFSWWRfcHJfQm9aY2dZam5wNG9xaUx2WGtXaVN5MFlKWGUxa2pHbTlsN1k2MWJhRVBteF9XU09VaGpvR2ZQc2QwbEZJVlRoQXJR?oc=5"
-    },
-    {
-      "title": "韓國瑜接見加台國會議員訪台團 盼深化雙邊經貿交流",
-      "source": "蕃新聞",
-      "date": "2026-10-15",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41aEtVdGhybzFvaEhJQXd5SHh6RGNoTmlfVk1ldklsNGFpbFBBYkdrZWVNUWV4TG1XblF5d0R6NHQ2QjlVd09ualRkQkctRC00UlE?oc=5"
-    },
-    {
-      "title": "加國議員6度訪台！史葛洛讚賴總統國慶演說：為台灣及世界提供指引",
-      "source": "自由時報",
-      "date": "2026-10-14",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pRmpYdVVDSzZiUGdXWTM5TWNUVnB3WmFZdFFpdDFxeVZZMzVWakxwSEpnbUR1eU9HMjVZQldhR0twX216OW01X3R1d2UyWXJyUEpmeWFQaERwZklUY1Q0emIxNENhRFpialHSAW9BVV95cUxQU1JlN2dDSjRad1VBaVdGN2owWUE2amdpcGhGTC1FLXkyYU5pUXRPajhPSVJXZ1dTUmRnZWk2M19ucDFxUTkwTUNkZGZnZ3QzUHFtc1lSei1nNzN5ZmpEbVhpa2lkbW9fX3J0MF9uX2M?oc=5"
-    },
-    {
-      "title": "國慶前夕訪台致賀 美眾議員：清楚展現支持民主台灣|戰略臺灣",
-      "source": "僑新聞",
-      "date": "2026-10-12",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXMENuZHUwWXhvZTg4Yko1eGxKMVNnREhoS243ZktVYWxvN3lXZ2lNLWlzU2xUSk1mOV9wUU5Lbm1BVlgtVmJzYmpoZw?oc=5"
-    },
-    {
-      "title": "外交部：即起恢復受理摩洛哥籍人士申請來台簽證| 政治",
-      "source": "中央社 CNA",
-      "date": "2026-10-12",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zUU5XMDdhNWhmR2tSbGFUUFp0SjlZMUxGaVBYWW51ME8yblQzYmVoU09XVTk5TngyX1VFV1lVaXpFMm4wS25haGM1Q2JRY2xWaFI5OUtHZEswOVNvM01v?oc=5"
-    },
-    {
-      "title": "摩洛哥對台解封 外交部：即起恢復該國人士來台簽證| 政治焦點",
-      "source": "太報 TaiSounds",
-      "date": "2026-10-12",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiNVRiX3NLdnQzTC1tQ28xVXNKYUk5WFFMaTZGZEdhRV9VZHdXUWZ2Zm1laFpfTHEzeE5rZS1MQmtzVTl1bGNpT0VfeFIwLVlvNUJjWkJtUks1TElF?oc=5"
     }
   ]
 }
