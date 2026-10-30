@@ -1,9 +1,15 @@
 {
-  "updated": "2026-10-29",
-  "lastChecked": "2026-10-29T01:39:55+00:00",
+  "updated": "2026-10-30",
+  "lastChecked": "2026-10-30T01:46:07+00:00",
   "windowDays": 14,
-  "count7d": 12,
+  "count7d": 7,
   "events": [
+    {
+      "title": "林佳龍接見美國外交政策全國委員會訪團 艾略特第七度率團訪台",
+      "source": "蕃新聞",
+      "date": "2026-10-28",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EMk5aVXA5Rkd2LUthNExaRzUxeko2MGdub3p6OG13UTZrckNnbkY4THhfR0tnWlRLQ1ZIWWF1Tm5BWms4LVU1SWxHQVdVZXVQd1E?oc=5"
+    },
     {
       "title": "美國NCAFP第7度訪台！林佳龍：透過ART、EPPD強化戰略連結",
       "source": "NOWnews今日新聞",
@@ -35,12 +41,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56Zi11NmVBeExyMmtJOWxETHQ1Q21ELTR3V1J4cG5EX0k0am5NX2Y0MXJSM3E0d0Z0RW9jY3k1VDE3aUpPREo2SU9HN3ZFUUxBV2F0UnNjbHBhOWhYWnB3N3VMdVNqSk5HbWFSMjFjZmI2UlE?oc=5"
     },
     {
-      "title": "友邦聖露西亞總理明4度訪台 賴總統隆重軍禮歡迎",
-      "source": "自由時報",
-      "date": "2026-10-26",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Nam1CeUtXMzVoMzQxR0lpS28xNjRJZUxHWW1Bb3VGbXFJb005clF5eER0dlEyZFVLaGlxUjcxZ1pFY3VYdkZvWTZzbTBpZnlrVGpoQ3ktSEFoVE5Xa2FseUdEbmpzV0lKTEHSAW9BVV95cUxQcVotOVVmZzlGZGRlZHB1NHlwQTNWZjFmQWJ5ak9DR2xCM3cySlI5WWFQWXNoS25wNHZVVEYwRXhwN0ZQTnN6bDBDdUxVMjk3NkhxRGh2Z2U1NnI4NWNTR2RIMzd4a3M2NUZXV0p1ZkE?oc=5"
-    },
-    {
       "title": "外交部長林佳龍接見日本維新會・中華民國（台灣）友好研討會台灣訪問團",
       "source": "中華民國外交部全球資訊網",
       "date": "2026-10-23",
@@ -59,12 +59,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kdHpxekxOQWhCX0o4d2t0OWVKakQ3SERwT3Babkp4X19wNXM0S2sxbk0zSXhGMmVaS2dZY2lzZ28zb2wtam5XTXdiR0RBUlZSZFZydHdCSm1WNjJqTFFyeUI5S0xHQQ?oc=5"
     },
     {
-      "title": "外交部歡迎美國南部地區州議會領袖訪問團訪台",
-      "source": "中華民國外交部全球資訊網",
-      "date": "2026-10-22",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BRktyd1I3MUFuVXRhWjR5d0ZCRWw0eUpySGlPdEw1WDVObDNSM2FxSXdLeW5yN25WcGQxcHlTU28wQ0hSZE05eDRJUmh5bFpRQ2hXdTh5T1hBdUNRTWQ2Nmg1WmMzZw?oc=5"
-    },
-    {
       "title": "外交部誠摯歡迎貝里斯經濟轉型部國務部長馬傲蒙率團訪台",
       "source": "中華民國外交部全球資訊網",
       "date": "2026-10-22",
@@ -75,6 +69,12 @@
       "source": "中華民國外交部全球資訊網",
       "date": "2026-10-22",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GTG14T1l6UU9Ia2VhMlVPdkZoRDJPazltTnN4NWhyajNKcDQtS0t5X1M0RERRdkI1emJFcEVuXzZjdnI1ajNkSTdmVW9sUGIzUWNQLWZtZUNGX204RXdXYlJ4bVRuQQ?oc=5"
+    },
+    {
+      "title": "外交部誠摯歡迎「美加領袖人才參訪計畫」訪團訪台",
+      "source": "中華民國外交部全球資訊網",
+      "date": "2026-10-22",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LR3FOS0Z2UHhGaHVIeWdtdmhCNkYxX1ZuYUNjdlpJX0JxUHRBMzJYTmFINng2dGxKNi04S2Z3alBqSFpkR3ZBakc0ZjNQVUZTRGZvSnhrTmlfREszOC16SmFFRjVQdw?oc=5"
     }
   ]
 }
