@@ -1,20 +1,14 @@
 {
-  "updated": "2026-11-04",
-  "lastChecked": "2026-11-04T02:03:17+00:00",
+  "updated": "2026-11-05",
+  "lastChecked": "2026-11-05T02:07:42+00:00",
   "windowDays": 14,
-  "count7d": 4,
+  "count7d": 3,
   "events": [
     {
       "title": "外交部歡迎美國南部地區州議會領袖訪問團訪台",
       "source": "中華民國外交部全球資訊網",
       "date": "2026-11-03",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BRktyd1I3MUFuVXRhWjR5d0ZCRWw0eUpySGlPdEw1WDVObDNSM2FxSXdLeW5yN25WcGQxcHlTU28wQ0hSZE05eDRJUmh5bFpRQ2hXdTh5T1hBdUNRTWQ2Nmg1WmMzZw?oc=5"
-    },
-    {
-      "title": "外交部長林佳龍午宴歡迎巴拉圭衛生福利部部長弗列德率團訪台- 政府消息新聞",
-      "source": "PChome Online 新聞",
-      "date": "2026-11-03",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON0lKMDA3bklfLU93dmpic0tNT0NRUHlObUNiZmhpN3c3X2trYnB5NjdPX2hNVkczY1lkN0hyYndfZmZibkoxUHp3Z2s4VkNnV2RmTWZVaGNyUTg4VzlrZnBuU0hIRWFHMlpZU29DdHA1N2RqMHBZTFQ0alpvUDY5ZGVDcW9Mdw?oc=5"
     },
     {
       "title": "巴拉圭衛福部長訪台　盼借鏡台灣醫療制度深化人才培訓",
@@ -27,12 +21,6 @@
       "source": "中華民國外交部全球資訊網",
       "date": "2026-10-31",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LcF9Ha3ozVjZmWVRYVDFkSzVXQkVDM2d1bUEtSUp4UjVZd2hldUxtTTJEU2V1c0hMVEk3VDN6MXdmU0lPaFFLMGdhUHp1bHg4Q3A0dGwydE8tbXptbXpoRHRkZFFtQQ?oc=5"
-    },
-    {
-      "title": "討論牆 | 美參議員布蕾波恩率團訪台 蔡總統今早接見",
-      "source": "LINE TODAY",
-      "date": "2026-10-24",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zSGNwM2dGeEFPRmFyOUVXd2puLU0ydFBwWjZBLVJDd2lsVC1FV3dRTjJvRHZjZVlBdUpRbUluQm1STXFEUHlJbnNUazBFZnpUelZFVjZwZFQ5eGYtUi1kX2xYZzY?oc=5"
     },
     {
       "title": "外交部歡迎「東協跨國智庫學者訪問團」訪台",
@@ -65,6 +53,12 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSY0ZieUJuMHZZS1JxWEVMNU9ITkVKS3JoSmxiTWJ4MUY0dG8xQ0t5cFNzRDdidUJMT0llZzdtUnFrQmFrRGZzcjRMNmJ6SjRuTjRrRUFlN2hCSDNTaWl6V180c3Zwdw?oc=5"
     },
     {
+      "title": "外交部誠摯歡迎史瓦帝尼王國總理戴羅素率團訪台",
+      "source": "中華民國外交部全球資訊網",
+      "date": "2026-10-22",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzcDkwUFNScXdVaUh5Vk9fN0lhamZGMlhMNkItOE9zSGhsLVlrOEVSdXY2enMzQm00VFlSa1J2RnZ1TGdBWmNuaUd3RHgtdWpoaV9kZmJfeFlMcFhsQ2hPeVJfZ0c4Zw?oc=5"
+    },
+    {
       "title": "外交部長林佳龍午宴歡迎德國國會友台小組跨黨派議員訪問團",
       "source": "中華民國外交部全球資訊網",
       "date": "2026-10-22",
@@ -75,6 +69,12 @@
       "source": "中華民國外交部全球資訊網",
       "date": "2026-10-22",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kMGZTNFVreWo3MXV0Nm12a0FNUDFBOTUtekJic2JHWk1ZTVhQVmotLTB0cU96WEx1U0FvZkZwYzdIMlJzZU81NENvTnM3U3ZwLWNTZEprekcwQjE5c2did3BvYTFoUQ?oc=5"
+    },
+    {
+      "title": "外交部誠摯歡迎「美加領袖人才參訪計畫」訪團訪台",
+      "source": "中華民國外交部全球資訊網",
+      "date": "2026-10-22",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LR3FOS0Z2UHhGaHVIeWdtdmhCNkYxX1ZuYUNjdlpJX0JxUHRBMzJYTmFINng2dGxKNi04S2Z3alBqSFpkR3ZBakc0ZjNQVUZTRGZvSnhrTmlfREszOC16SmFFRjVQdw?oc=5"
     }
   ]
 }
