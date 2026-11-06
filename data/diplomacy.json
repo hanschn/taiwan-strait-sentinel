@@ -1,80 +1,50 @@
 {
-  "updated": "2026-11-05",
-  "lastChecked": "2026-11-05T02:07:42+00:00",
+  "updated": "2026-11-06",
+  "lastChecked": "2026-11-06T02:07:52+00:00",
   "windowDays": 14,
-  "count7d": 3,
+  "count7d": 7,
   "events": [
+    {
+      "title": "拉美7國13名國會議員助理訪台 外交部次長陳明祺午宴款待",
+      "source": "報新聞 Mega News",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQa1p4S1ZHc2dHdkFKRUZTTkZLZWJMeUUtVnRVRTh6VmFxdUV4V0R3aFhXYVgxVU1iSnluWEUxMWVSTEhFQUJlUkFrWVduNnR6T1hNM201WWd0NjQ3UHdzb0dORlA5WkRLSm5VZ2VGNjI5cGQxZE8tMXFraHpaQjJ6S05CMnFRRlFLQlRGTWVHdkU0WVBIcVBjMGt5UkN6cV9DU0N5c1NiVUk1T2M1RTNyTWlLVEh5WWRVV3hHdjBNLWhTRGNiQ1c4V3JkMkxBaE5tSzFHTlhLRFpmN1c1RjdjQXRYUzZ4WUV5QVJfd3pNUnIyUHJLcWh1Umc2UHBlWFVRQkhyc1QzM3h1VF9DcDlkZEk1N01YUUZqcGxrOHFBR2w0V01iY2d1ZFRhcDhxczJfTGctbVl2T3gtdDRQQkhXMDhScEZPeEhIb29UVEpfUm5HLUlBRTZQc09wLW9ZS3Bt?oc=5"
+    },
+    {
+      "title": "瓜地馬拉高等教育指揮部訪團來台 陳明祺主持歡迎茶會",
+      "source": "報新聞 Mega News",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxON3EwQlM3ZTBRX0ZzZTVGbnpLYVdXY1dwNXZyMkU5cjh5bjhYV3JBTDRpZ043V1JEWk9LYTc0aUV5UWg3Z094N2Y1Sl9xSlVVVkZvaTh5eGlnb2lORXp5RnlxNWNqZENubHhBazY3b1U0WHVmT3VSV2tZajI3ZnRrRHEwY2xvY282ZXY0THNvWjVGek1EdjE5X2lpUkFmY3o2Y2JUTlFSYlAtMVJhSWJ4TFhMTFNFTkd5SmJhYVE4Tll2YlBnel9zNkUwRGFJX2cyTFhjRVd6UGE3dWRETEE0UnFLOHdFVlhka3dpNVlsZEtNZlZXbXBhQ01VVmp0Wk9aa1d4NkpVOGFBTzFCT2FfZEdkNXhZbE90bWZYMWc3QnZXZGFNTERWOEI2Q3lhQWV2T2hMdlpxQWJFQS1ZV290dTdGTkhIUjZlNm5yRWxvOExrWmFmV21ndXFXRko5bk1rRl9qOUJDMUs?oc=5"
+    },
+    {
+      "title": "美準眾院議長對台態度曝光！專家：訪台機率低但將力推140億軍售- 國際",
+      "source": "自由時報",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XemNHdmw2bXFuOUhGNGRzNjhsWWlTY0FKYVcwLXN4N1VMeDM2NFVVU0o3ZlZDYzJ6X18tUHNEbXpUT252VEhvOGdIZV9rNy1mUld6RXFsU3V5UkpPQTRFVHljZUdNUQ?oc=5"
+    },
+    {
+      "title": "裴洛西眾院席次接班人出爐 曾率團訪台議員威善高當選",
+      "source": "自由時報",
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUbEEtVE12OWhnUF8xSUdYeW9USGFVVTFSM2pHLUllc1lST1E4U2d6SjZVTV9XZWhSdzhfUHVkS0xGcW1CZWpIbEUxc3pEWUZHZ2lNZmk0WFZhR2taUGNtRWFzcmNTUdIBa0FVX3lxTE9nWjJTZzRSV1UtaElBaW9waTNKSVcxZVFiS19xd3YyR3V4dFVHNlR3ODdYX0ZmSlg5cEdZVW9QSVVDZTMxQXBzS24wRGo5QzU5RnFUYjUzLTNneWJlTGEtZ0ZjN2hJTUNxZUpJ?oc=5"
+    },
+    {
+      "title": "外交部長林佳龍午宴歡迎巴拉圭衛生福利部部長弗列德率團訪台",
+      "source": "中華民國外交部全球資訊網",
+      "date": "2026-11-03",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMazBFRDhRdVhpUThGczl0dFBUM01GRVRraTBGMXdPSHR1N1owSVpHc0NRemN2N3RURGdlXzVLUkltSnFjakdIQTZadk5LR1NaZnNIYUdpc3lMOFZBNDZoWG9CTFoyZw?oc=5"
+    },
     {
       "title": "外交部歡迎美國南部地區州議會領袖訪問團訪台",
       "source": "中華民國外交部全球資訊網",
-      "date": "2026-11-03",
+      "date": "2026-11-02",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BRktyd1I3MUFuVXRhWjR5d0ZCRWw0eUpySGlPdEw1WDVObDNSM2FxSXdLeW5yN25WcGQxcHlTU28wQ0hSZE05eDRJUmh5bFpRQ2hXdTh5T1hBdUNRTWQ2Nmg1WmMzZw?oc=5"
-    },
-    {
-      "title": "巴拉圭衛福部長訪台　盼借鏡台灣醫療制度深化人才培訓",
-      "source": "經濟日報",
-      "date": "2026-11-03",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LbnNiUnF2c0dpanZ6YU9CcHVCQi1ka0pHMzRjVkNQbm9OUk5fcGw5X0ZzRFo2VU9VajlyY0g1ZzRtYUJtS2FITjg1OUpEQWdNZmxTVkQwUnBiUdIBX0FVX3lxTFB1cU8yRXJ4LWwtN2pIWjJrVnZXNVNiWFlLOF9zYWRnNnRpTkRvQTd2c3N3UkVfUHhMTHg2dm43UWlEaEFIMnRvZV8wMy0wMTFLdk5ia0tOVjFqVmp3UUxz?oc=5"
     },
     {
       "title": "外交部歡迎加拿大國安事務訪問團訪台",
       "source": "中華民國外交部全球資訊網",
       "date": "2026-10-31",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LcF9Ha3ozVjZmWVRYVDFkSzVXQkVDM2d1bUEtSUp4UjVZd2hldUxtTTJEU2V1c0hMVEk3VDN6MXdmU0lPaFFLMGdhUHp1bHg4Q3A0dGwydE8tbXptbXpoRHRkZFFtQQ?oc=5"
-    },
-    {
-      "title": "外交部歡迎「東協跨國智庫學者訪問團」訪台",
-      "source": "中華民國外交部全球資訊網",
-      "date": "2026-10-22",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxYWtZNkhTUktHSVY0QjUwcEFzTUctaUItUEtkX1FTd3F3bWNiNHFBQnM0T1FUTGNldnVxRlROSUNpT3pYelROSmp4TDViaDliUldQYWNUNEYtT2wzNFB3Q1hFOHh6dw?oc=5"
-    },
-    {
-      "title": "外交部政務次長吳志中午宴歡迎加拿大魁團黨國會議員訪問團",
-      "source": "中華民國外交部全球資訊網",
-      "date": "2026-10-22",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kdHpxekxOQWhCX0o4d2t0OWVKakQ3SERwT3Babkp4X19wNXM0S2sxbk0zSXhGMmVaS2dZY2lzZ28zb2wtam5XTXdiR0RBUlZSZFZydHdCSm1WNjJqTFFyeUI5S0xHQQ?oc=5"
-    },
-    {
-      "title": "外交部誠摯歡迎日本參議院議員瀧波宏文訪台",
-      "source": "中華民國外交部全球資訊網",
-      "date": "2026-10-22",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sR3o1aDVhRzFrUnhTNnl4cERxanlOd1QyYjlCX2ZNeDFSOTBlemMzdVFBZ1VNOEJ1QndhUHNrdlo2eXR6UTM3bHFiaHRqNXZYeFN3NE5pYTd3dE14N0NXWDJKNTdRZw?oc=5"
-    },
-    {
-      "title": "外交部長林佳龍午宴歡迎史瓦帝尼王國總理戴羅素率團訪台",
-      "source": "中華民國外交部全球資訊網",
-      "date": "2026-10-22",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GTG14T1l6UU9Ia2VhMlVPdkZoRDJPazltTnN4NWhyajNKcDQtS0t5X1M0RERRdkI1emJFcEVuXzZjdnI1ajNkSTdmVW9sUGIzUWNQLWZtZUNGX204RXdXYlJ4bVRuQQ?oc=5"
-    },
-    {
-      "title": "外交部長林佳龍接見日本維新會・中華民國（台灣）友好研討會台灣訪問團",
-      "source": "中華民國外交部全球資訊網",
-      "date": "2026-10-22",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSY0ZieUJuMHZZS1JxWEVMNU9ITkVKS3JoSmxiTWJ4MUY0dG8xQ0t5cFNzRDdidUJMT0llZzdtUnFrQmFrRGZzcjRMNmJ6SjRuTjRrRUFlN2hCSDNTaWl6V180c3Zwdw?oc=5"
-    },
-    {
-      "title": "外交部誠摯歡迎史瓦帝尼王國總理戴羅素率團訪台",
-      "source": "中華民國外交部全球資訊網",
-      "date": "2026-10-22",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzcDkwUFNScXdVaUh5Vk9fN0lhamZGMlhMNkItOE9zSGhsLVlrOEVSdXY2enMzQm00VFlSa1J2RnZ1TGdBWmNuaUd3RHgtdWpoaV9kZmJfeFlMcFhsQ2hPeVJfZ0c4Zw?oc=5"
-    },
-    {
-      "title": "外交部長林佳龍午宴歡迎德國國會友台小組跨黨派議員訪問團",
-      "source": "中華民國外交部全球資訊網",
-      "date": "2026-10-22",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzY2tXVkkteGRZdTRSSzg5NzB6N0R6ZHVOYU1kQTd6Q2c4S3hSMEpGX3B6NmhmeVpXanpvN3lHdWVZZTAzNy1Xd0Jtel9FMkJlbVFLSlRobV9wLWZPYnNsZnoyaFViQQ?oc=5"
-    },
-    {
-      "title": "外交部誠摯歡迎貝里斯經濟轉型部國務部長馬傲蒙率團訪台",
-      "source": "中華民國外交部全球資訊網",
-      "date": "2026-10-22",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kMGZTNFVreWo3MXV0Nm12a0FNUDFBOTUtekJic2JHWk1ZTVhQVmotLTB0cU96WEx1U0FvZkZwYzdIMlJzZU81NENvTnM3U3ZwLWNTZEprekcwQjE5c2did3BvYTFoUQ?oc=5"
-    },
-    {
-      "title": "外交部誠摯歡迎「美加領袖人才參訪計畫」訪團訪台",
-      "source": "中華民國外交部全球資訊網",
-      "date": "2026-10-22",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LR3FOS0Z2UHhGaHVIeWdtdmhCNkYxX1ZuYUNjdlpJX0JxUHRBMzJYTmFINng2dGxKNi04S2Z3alBqSFpkR3ZBakc0ZjNQVUZTRGZvSnhrTmlfREszOC16SmFFRjVQdw?oc=5"
     }
   ]
 }
