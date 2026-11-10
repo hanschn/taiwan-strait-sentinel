@@ -1,26 +1,32 @@
 {
-  "updated": "2026-11-09",
-  "lastChecked": "2026-11-09T01:33:28+00:00",
+  "updated": "2026-11-10",
+  "lastChecked": "2026-11-10T04:00:00+00:00",
   "windowDays": 14,
-  "count7d": 11,
+  "count7d": 8,
   "events": [
     {
-      "title": "國家副主席韓正訪問格魯吉亞 稱雙方要堅定相互支持拓展互利合作",
-      "source": "堅料網",
-      "date": "2026-11-08",
-      "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxNbUFYS1Yya0paRTdCam9qQTlPT05ReURqOE9wTExoMUl4ZUlwVU0xa25STnQ4a0dScnpGSW5rMVlBYUVrenYwYjNGWWdPRlFmWWhpYkNfd3FRSUVTQ2REaEtpekI0X29rVVFVeUZyS2R3dWlKdDdFd3RPUmVtcENHUGZWeU9BZllPNlZ1bmpZbHc3WjA0RkNaOEEzWnctRTUtWjZTYVllbDZURVd5UnRZS2xnX2NuQUN5bmo4cS1GdGZXWFFucmNqRjN3dWQxRWptTG81Z1V0TVZjM1RaeTZ6eGQ4b1RmY0FmT2hDcnBMRExHbUlTNWpVQ1BncUVrblZ3T2JzbTVyaDZJSXZVejlVMjRRZ0RPelJuZTRnekFZTnBHYVBNZDFtbzRUTnB3WmNCbTN2UENqNE5yWFpwaUhTX3FLVVJrdmsxdEhoVHQ0WnhsM1dib0pNM0FvU2Z5cXRRa3M2ZWFqN1RqOXFka0ZtT1F5cDVOZ3A1dl80a2U2aUhUenliMUZIMXRHbFV4QmNRMW85U0xqcUdvcjh0VHhyQmlhVUdKazBtVjVLR3FBT2pOWFRNWEt2UnhVY0hwek5ZRW51eXkxOTJDVzFHamFrdGNiTkM4WWp3UXkwNElYZGhQT3FHdjJvbFcyYm40ZW9VTmx0eGVUNG5vS2tFNWU2dHZSMGFxZlZK?oc=5"
+      "title": "黃仁勳認外遇拚國會換手前止血？《鏡週刊》：黃樂多次持香港護照來台，疑有台灣供應鏈高層牽線",
+      "source": "放言Fount Media",
+      "date": "2026-11-10",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IMTBXTm10Qmw3cWtON3lGcWtVY2RQcThTd2tIYnh3NjZQLUNkTHlyVzdJZ3NGcVh4MS1FYjRqZzB5bUhrSkZTWk0tOVlhN3FfN0E?oc=5"
+    },
+    {
+      "title": "黃樂疑為共諜卻2度來台惹議！外交部回應了 | NOWNEWS今日新聞",
+      "source": "LINE TODAY",
+      "date": "2026-11-10",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56ZFRuQkpZQWotbXN4ZzdTU3NBX1ZobmNBaHROUjlWWWxfaW1IQzlHZWlNOXV0aHRUSlBCeFNzMmRKMHoyZmRSQTNLbmcyQ0huVTJvbzRB?oc=5"
+    },
+    {
+      "title": "17國36位法律僑青訪台結業 賴麗瑩肯定成立國際法律人協會",
+      "source": "蕃新聞",
+      "date": "2026-11-09",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIR0xOeE9Td05HWU9mNXhNZGZjb1RUa01vTGJsWTRobjE0aHNpVkJrUkpzbmlQaFdJU0FyYTBHSDIyS1I4QVNiTWVYM090TFo4OXc?oc=5"
     },
     {
       "title": "外交部政務次長陳明祺午宴歡迎貝里斯觀光、青年、體育暨僑務部長馬勒率團訪台- 政府消息新聞",
       "source": "PChome Online 新聞",
       "date": "2026-11-07",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVWxOc1poczFMOU1IVVlyV0N6MHFmc09yYnV0dXZvM2NvWkltNVpiRjl0eWw2SHlJTmRsTXZHLTNLT1hBQTcwT0g4cVV1YXNXZFFjT1lFMmh2Q0JCeERqaFVUUm44MThRS243bVVKSTFBS0ZfR3Y0RWUxWnM2ekdyUEhDRDRhQQ?oc=5"
-    },
-    {
-      "title": "「全球可信賴科技供應鏈韌性國際記者團」來台訪問，聚焦台灣科技發展及供應鏈韌性- 政府消息新聞",
-      "source": "PChome Online 新聞",
-      "date": "2026-11-07",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSlpVYmhzVFFuMmt2N0ljcWN6WGJMbE4zMnBIRVFxQXQ3cTlkbnU3U3dINTRxOUpENVpMRUtVZ3N6by1CaThtck5iU2hCbTl6NElCNWppY0hMS1JOemlyR3dLanIwR0xEaGc0ZWZFdkZvaFEtcjg2X1BJdEkzVjMxMXpUNTR2dw?oc=5"
     },
     {
       "title": "外交部誠摯歡迎日本參議院議員瀧波宏文訪台",
@@ -35,22 +41,10 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BMXhTLUlnWXBQYjQ1dmZCeWxDY3R3Q05TZUFEVGxPUEhZazlJbUNOUjZnelJLMDg0Tlh5SUJvMGx3OFF2NEVCUGV2Y2VHeXJfSnBZdFp1dExhbHlMTmhJ?oc=5"
     },
     {
-      "title": "貝里斯觀光部長率團訪台 盼推廣旅遊 (圖)",
-      "source": "Yahoo新聞",
-      "date": "2026-11-07",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxONG81dkdpNFh3ZUhGMVZwYWh0MnRGc3gwc0MzTWRwMU9fUUVRcnRNUWI5VUNSVFFUMmE1Uks3LWVtOGhMd08zek1aTlNvUkRMQVA3ZURQc2lJcUV5aktERnhtQXk4WGlXMVNFbjRuRnhYU0xFWlJqMlFxVWtGTERGR1d0UzlHYmM1N2NzX1dEaTJiVDNWd0tkZXlBbDFHNnZFeXFtcGE4eDZ2Y1AzOUdRazJUaHlYdGE2UkdRSFJWUWV1bms3Y3QyNXFDaHNtVVJKUHpWcDVNb1dEVWlhaHYyT1IwQjFYYVRSQ0JVaUduNnNrSnFKeXU1OWFFb0FzX0xObi15aHhpLWh2ZXd1WVVBYmtBMGhGVzFuUldNdm90NWJRZw?oc=5"
-    },
-    {
       "title": "外交部政務次長陳明祺午宴歡迎貝里斯觀光、青年、體育暨僑務部長馬勒率團訪台",
       "source": "中華民國外交部全球資訊網",
       "date": "2026-11-07",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBab3F4M1JiY0lxajZaOXpPcUJKQXdSZTMyNHBSamp4YWZSTHMtdENqSDlTYVoyNWtIbnZ5dHNxNkk3VTFxSXlyTVVoYXF5TGl0M3ZtRGN1SlltMURHUVdLRERXZndtdw?oc=5"
-    },
-    {
-      "title": "美準眾院議長對台態度曝光！專家：訪台機率低但將力推140億軍售- 國際",
-      "source": "自由時報",
-      "date": "2026-11-05",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XemNHdmw2bXFuOUhGNGRzNjhsWWlTY0FKYVcwLXN4N1VMeDM2NFVVU0o3ZlZDYzJ6X18tUHNEbXpUT252VEhvOGdIZV9rNy1mUld6RXFsU3V5UkpPQTRFVHljZUdNUQ?oc=5"
     },
     {
       "title": "裴洛西眾院席次接班人出爐 曾率團訪台議員威善高當選",
