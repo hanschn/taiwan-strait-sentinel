@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17",
-  "lastChecked": "2026-11-17T04:23:14+00:00",
+  "updated": "2026-11-18",
+  "lastChecked": "2026-11-18T03:30:46+00:00",
   "windowDays": 14,
   "count7d": 12,
   "events": [
@@ -9,6 +9,12 @@
       "source": "Yahoo新聞",
       "date": "2026-11-16",
       "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPSm90eTFvR2ZadEJFMlUwX2k5THFxeUloSWZXaktUbUxxMTNGby1XQkZpTnhucHc0ZUhxcVpuSjdHUE84QXU4aUFDSmZpWExRaWp5dkxWVl9VNk5XVktudE5EUDlIQlJyQVFnbmZoVERpQ2FrWHhEaW8xdlNNQ3N1VS1LNF85ck44SERPSXdvWERrTUxwa3pvMXMtQi1vbHlVakh6bGtYTVlrRlBNRXVzOFdqUzN0dEM1dHBhb3dsTGZ3bWFpb05lbmV2R0hkUzN0amdqMEtwOGdyQ3VaNVJCMjYyb2hFSGRaV013S084M050NE5LajQ5VnhZaU8tOEpjMXNWNXl6Q0tXekxLMFdwTTRGZ2k1SHZVVjVnUS0tdjg3a3U4UE9abVZfNFc3Z2NGdVI1NlpYZHM5U3RzQVJOSkxZel9EM3NDNTRLMzJnVnlGYnB3SEVZdWJCaG9OYUhsTFpjUF9BSUhJVXQ0TVhUeUtEUndHR214SXFCOE1aVmVGYm9TT000YXJLX3dKSmJtN1luMDZwTXYyZTZRZzdqa1c2cEQyLXNTUmpJalNTTHd1cWM1bGwzQ1htd3FGZDROZGljclBfdTZHLWd5a2lRNlFwbl82QQ?oc=5"
+    },
+    {
+      "title": "剛連任就訪台！愛達荷州長見賴總統 盼拓展「半導體、核能」合作",
+      "source": "自由時報",
+      "date": "2026-11-16",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TZFptME8wN2NCdTgyaXJ2WE41QmNNS3MwWkN4aHJUN2tkWkd5b0tyNzNKOElhbmQ4YVpTaUVNdFFWcDBkUVVVWXZobGNGamN5YVBMbUNOLXR2clhvUW56VmtWSEhOMHFZRmfSAW9BVV95cUxPaVIzOWhoTjM4aW8yQ1ByeFRRX1R4QjdHRUtrVlRkVTJ5U1oxdlZnQjc4OEU2N052VmJ5Q2ktS242Z3JKdUlUU2lldzR4M3RhNlR2QXZQdE0wSUFsWkhrZVU4YVZtYTMxa3gyQmhDUEE?oc=5"
     },
     {
       "title": "美愛達荷州長訪台 外交部：將簽備忘錄深化學術交流",
@@ -21,12 +27,6 @@
       "source": "自由時報",
       "date": "2026-11-16",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94czZEMjZSeFZXUkdFSWdnQnVydk44TWJJV0xIV0pyU3poSG9KaERCWmYtaWJYbnIzVzYxUXBmcm5KbXF0bm93dUlfZlpnUUVoRENDeFFjcGNWRG1mZnRCS3ZfYU5OLXJweVHSAW9BVV95cUxQSUEtMjdMT1plV1N1a0hNa1l4VlZUa1NYT1N4V1p5aklHOEx0VzZUbW0wM3YyYlRyNWhibHdwMTR1RTI2V1NuTkRCVHZzNTlRcFFyT1gtM1F5QVhEZ1d0bXNkaUlIRmwxMF9YY2lNY3c?oc=5"
-    },
-    {
-      "title": "剛連任就訪台！愛達荷州長見賴總統 盼拓展「半導體、核能」合作",
-      "source": "自由時報",
-      "date": "2026-11-16",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TZFptME8wN2NCdTgyaXJ2WE41QmNNS3MwWkN4aHJUN2tkWkd5b0tyNzNKOElhbmQ4YVpTaUVNdFFWcDBkUVVVWXZobGNGamN5YVBMbUNOLXR2clhvUW56VmtWSEhOMHFZRmfSAW9BVV95cUxPaVIzOWhoTjM4aW8yQ1ByeFRRX1R4QjdHRUtrVlRkVTJ5U1oxdlZnQjc4OEU2N052VmJ5Q2ktS242Z3JKdUlUU2lldzR4M3RhNlR2QXZQdE0wSUFsWkhrZVU4YVZtYTMxa3gyQmhDUEE?oc=5"
     },
     {
       "title": "美國愛達荷州長訪台外交部：將簽備忘錄深化學術交流| 政治",
@@ -53,6 +53,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKNXFyZEJybmZsZko5bk80UFdEUW5PVmRaWUs0ekpsYzQzNWhqVmRxY3FpeG52S2JoMmFGWG9WUUlUbHBuMkJFZUNJWjhTa1JWeEJseEhMYkg2NlR1WGQwRU0teUlFUQ?oc=5"
     },
     {
+      "title": "美西北各州聯合議會領袖團訪台盼拓展雙邊實質交流| 政治",
+      "source": "中央社 CNA",
+      "date": "2026-11-11",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9icDU3Vk1TMl9tbWo4U2NCSmhaZWl2N0FJczJOdl9ncW51TW1OdnVqSWgyRmFRMW1wUXFZMnVwMG5YSWZ6M0JGdFVOT2lnRl84Q1ZXMzgyTUlBbzJ2anhZ?oc=5"
+    },
+    {
+      "title": "外交部誠摯歡迎美國西北各州聯合議會領袖訪問團訪台",
+      "source": "中華民國外交部全球資訊網",
+      "date": "2026-11-11",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sUlREeUJFVUhRNWNOUUhmUHFBLTZTMmZiT0xRWmN0Si1DZ0ZvTEk2bUNBM3FmQ05jcVFUZlNFbDY5R0VXNEFjcmdEbl9YclM5Rm5zRHV1VXdKbGpoUXB4bWltTEs2SUxTaG13RUNWaw?oc=5"
+    },
+    {
       "title": "外交部歡迎「加拿大聯邦參議員訪問團」訪問台灣",
       "source": "中華民國外交部全球資訊網",
       "date": "2026-11-11",
@@ -63,18 +75,6 @@
       "source": "中華民國外交部全球資訊網",
       "date": "2026-11-11",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RRzlhZHVwWkp1Q2lsVUxBRmJxUjNlSF8xRjlpTXJWODlTM2w2X0pmTUtOMkZseGZQbl8xTVBzVEdZcVlhU0M3czFGalQ4T2ZRNlh0ODVoNkV5bElDd2VVX0dPNmQwUQ?oc=5"
-    },
-    {
-      "title": "外交部政務次長吳志中午宴歡迎比利時聯邦眾議院議員團訪台",
-      "source": "中華民國外交部全球資訊網",
-      "date": "2026-11-11",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vdDBya0k1OFNYcVhfOWl2cGQtaHBMMTFaVXlaZXFDU01nbXBKOURvRk5FMmRINlBSQ0ZzSXIwRGxXOFJFaFdac1VzUzF2WV9KR3p4TWMzVEZWbU9vYm1uckw3UThNZw?oc=5"
-    },
-    {
-      "title": "外交部長林佳龍午宴歡迎史瓦帝尼王國總理戴羅素率團訪台",
-      "source": "中華民國外交部全球資訊網",
-      "date": "2026-11-11",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GTG14T1l6UU9Ia2VhMlVPdkZoRDJPazltTnN4NWhyajNKcDQtS0t5X1M0RERRdkI1emJFcEVuXzZjdnI1ajNkSTdmVW9sUGIzUWNQLWZtZUNGX204RXdXYlJ4bVRuQQ?oc=5"
     }
   ]
 }
