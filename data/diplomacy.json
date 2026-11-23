@@ -1,9 +1,15 @@
 {
-  "updated": "2026-11-22",
-  "lastChecked": "2026-11-22T01:59:58+00:00",
+  "updated": "2026-11-23",
+  "lastChecked": "2026-11-23T02:25:12+00:00",
   "windowDays": 14,
   "count7d": 12,
   "events": [
+    {
+      "title": "加拿大媒體專家訪台讚台灣以小搏大世界典範| 政治",
+      "source": "中央社 CNA",
+      "date": "2026-11-22",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sRkUtOW5mNXhsUkJoX3BGRmNYalM4aU5SUlJrVVltcHNFaG9xVjRPS2pJMHozaWJFOEVRaGd3Vk5tMVVJcEdoaFRQTkNRNFdvNHJmX1gybUVXRjdEamVF?oc=5"
+    },
     {
       "title": "捷克眾議員班達率團訪台 獲外交部頒「特種外交獎章」",
       "source": "自由時報",
@@ -15,24 +21,6 @@
       "source": "CMoney",
       "date": "2026-11-21",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8ySjZBdGpkSXllVG5fMVRFdUhEanMtN0NxQ0dJellLMnFPMDNPcVAtajU2Tm1VQWJGeElkc0VKMU9uNkoyb3RhQW9yWlFrbzJsQ1VYSF9WYWk?oc=5"
-    },
-    {
-      "title": "外交部長林佳龍歡迎法國國民議會副議長蒲韻珼率國民議會議員暨法國電信監管機關代表聯合訪團訪台- 政府消息新聞",
-      "source": "PChome Online 新聞",
-      "date": "2026-11-21",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcHBaNENPTVBXclFBYjJtNS1CcFJtNVE3NzJlYndqUmVYbHB4UEt1TGlxVk02blNEcTRqRnliZFBLTTBKY2lQT0xVUzUtZzcwUnRsV3luWWdmOGZxaXE1WmNOU2w1OW4xaGdDX3Y3cmZ6WWdVZG1mMzlUdF9zVFdXUTFPN1Rudw?oc=5"
-    },
-    {
-      "title": "法國民議會副議長率團訪台 林佳龍：盼深化台法文化交流與科技合作",
-      "source": "自由時報",
-      "date": "2026-11-20",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2Rmpwd0ptU1A3dEozTllrVXFacWZ5aXZhY3BQdmpIQ0dkcGNIUjFUX0RobDBrdDVGbEY2TjFLYTE4M3RNYzJONG5hNHhBTHc3MGVtX0xobEtwMFhHLWs3LW9VR3FaUlhBRXfSAW9BVV95cUxNS01qWVg0b3JJNnVGTm9DVm9aR0xFZkJncS1IdHJ5Y3NTenYwZEZOdTB5MUdhQVFoSVBjZllfb1FvQjdZeUYzVWwtd2w1U1BoZlV4NXZtRjZLRDA3bXhkLWhFamNpS2JEWklhZFFDYUk?oc=5"
-    },
-    {
-      "title": "法國國民議會副議長訪台 林佳龍盼深化合作",
-      "source": "Rti 中央廣播電臺",
-      "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45VGx1TWF4em5nZkVVRnlRQ0tnY1pnM2ZRYWtjdDBtVXZ3U2JBVHlDZnpQbHpxdmsyQXJZUUxBTVFBd0lzRDZYZERWazg5cWZrRWtib0VKWFA?oc=5"
     },
     {
       "title": "公子沈率加拿大媒體與專家代表團訪台卡尼訪中之際見證台灣自由民主- 鏡報",
@@ -69,6 +57,18 @@
       "source": "中華民國外交部全球資訊網",
       "date": "2026-11-17",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oQ1gxS1lKVTNCQUJYajR2cHFVT0pLdC1CWU0xbGJ2Ykp1bkgyMFplcUZadF90X0xCSEFRcmliN2haYmZXdUhkNzhyV21QZ3BNd193bEhZQWdLbVQ0azFCdEphLXlldw?oc=5"
+    },
+    {
+      "title": "愛達荷州長李睿德第4度率團訪台 將簽教育合作備忘錄深化半導體人才交流",
+      "source": "Yahoo新聞",
+      "date": "2026-11-16",
+      "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPSm90eTFvR2ZadEJFMlUwX2k5THFxeUloSWZXaktUbUxxMTNGby1XQkZpTnhucHc0ZUhxcVpuSjdHUE84QXU4aUFDSmZpWExRaWp5dkxWVl9VNk5XVktudE5EUDlIQlJyQVFnbmZoVERpQ2FrWHhEaW8xdlNNQ3N1VS1LNF85ck44SERPSXdvWERrTUxwa3pvMXMtQi1vbHlVakh6bGtYTVlrRlBNRXVzOFdqUzN0dEM1dHBhb3dsTGZ3bWFpb05lbmV2R0hkUzN0amdqMEtwOGdyQ3VaNVJCMjYyb2hFSGRaV013S084M050NE5LajQ5VnhZaU8tOEpjMXNWNXl6Q0tXekxLMFdwTTRGZ2k1SHZVVjVnUS0tdjg3a3U4UE9abVZfNFc3Z2NGdVI1NlpYZHM5U3RzQVJOSkxZel9EM3NDNTRLMzJnVnlGYnB3SEVZdWJCaG9OYUhsTFpjUF9BSUhJVXQ0TVhUeUtEUndHR214SXFCOE1aVmVGYm9TT000YXJLX3dKSmJtN1luMDZwTXYyZTZRZzdqa1c2cEQyLXNTUmpJalNTTHd1cWM1bGwzQ1htd3FGZDROZGljclBfdTZHLWd5a2lRNlFwbl82QQ?oc=5"
+    },
+    {
+      "title": "美愛達荷州長訪台 外交部：將簽備忘錄深化學術交流",
+      "source": "放言Fount Media",
+      "date": "2026-11-16",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MTkVQb01zYWh1Rmx3amJidEdWOVhOclhHdzhrSnR4bl9seWZtWk5wajVET3c5WVZSb2ZJQ2o5WGtoaUhRdmVuZ0pKV2w2Q3cxd3c?oc=5"
     },
     {
       "title": "美國愛達荷州長訪台外交部：將簽備忘錄深化學術交流| 政治",
